@@ -50,7 +50,7 @@ Only add events you have actually seen on a real source page (venue calendar, ci
    python3 scripts/refresh.py --merge new.json --stamp
    ```
    - Removes past events. Multi-day events are kept until `end_date`; past entries in `dates` are dropped.
-   - Removes duplicates (same normalised title + venue + date). The earlier entry wins.
+   - Removes duplicates (same normalised title + venue + date). The richer record (longer description + price) is kept.
    - Validates required fields, category, date/time formats and URLs.
    - Sorts by date and sets `last_updated` (Berlin time).
    - `--merge` can be repeated. `--check` validates without writing. `--today YYYY-MM-DD` simulates another day.
