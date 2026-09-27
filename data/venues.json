@@ -1,15 +1,142 @@
 [
- {"name":"Kurhaus Wiesbaden","city":"Wiesbaden","type":"Concert hall (Friedrich-von-Thiersch-Saal)","address":"Kurhausplatz 1, 65189 Wiesbaden","url":"https://kurhaus.wiesbaden.de/veranstaltungen"},
- {"name":"Hessisches Staatstheater Wiesbaden","city":"Wiesbaden","type":"Opera, orchestra, ballet, theatre","address":"Christian-Zais-Str. 3, 65189 Wiesbaden","url":"https://www.staatstheater-wiesbaden.de/spielplan/"},
- {"name":"Schlachthof Wiesbaden","city":"Wiesbaden","type":"Rock/pop/indie club & hall","address":"Murnaustr. 1, 65189 Wiesbaden","url":"https://schlachthof-wiesbaden.de/konzert"},
- {"name":"Staatstheater Mainz","city":"Mainz","type":"Opera, Philharmonisches Staatsorchester, theatre","address":"Gutenbergplatz 7, 55116 Mainz","url":"https://www.staatstheater-mainz.com/uebersicht/oktober"},
- {"name":"Frankfurter Hof Mainz","city":"Mainz","type":"Concert & cabaret hall","address":"Augustinerstr. 55, 55116 Mainz","url":"https://www.frankfurter-hof-mainz.de/programm-tickets/veranstaltungsuebersicht/"},
- {"name":"KUZ Kulturzentrum Mainz","city":"Mainz","type":"Club, concerts, parties","address":"Dagobertstr. 20b, 55116 Mainz","url":"https://www.kulturzentrummainz.de/programm/veranstaltungen"},
- {"name":"Alte Oper Frankfurt","city":"Frankfurt","type":"Concert hall","address":"Opernplatz 1, 60313 Frankfurt am Main","url":"https://www.alteoper.de/en/programme"},
- {"name":"Oper Frankfurt","city":"Frankfurt","type":"Opera house & Bockenheimer Depot","address":"Willy-Brandt-Platz 1, 60311 Frankfurt am Main","url":"https://oper-frankfurt.de/de/spielplan/"},
- {"name":"hr-Sinfonieorchester","city":"Frankfurt","type":"Radio symphony orchestra (Alte Oper & hr-Sendesaal)","address":"hr-Sendesaal, Bertramstr. 8, 60320 Frankfurt am Main","url":"https://www.hr-sinfonieorchester.de/konzerte/index.html"},
- {"name":"Batschkapp","city":"Frankfurt","type":"Rock/pop club","address":"Gwinnerstr. 5, 60388 Frankfurt am Main","url":"https://www.batschkapp.net/batschkapp"},
- {"name":"Jahrhunderthalle Frankfurt","city":"Frankfurt","type":"Concert hall","address":"Pfaffenwiese 301, 65929 Frankfurt am Main","url":"https://www.jahrhunderthalle.de/"},
- {"name":"Staatstheater Darmstadt","city":"Darmstadt","type":"Opera, Staatsorchester Darmstadt, theatre","address":"Georg-Büchner-Platz 1, 64283 Darmstadt","url":"https://www.staatstheater-darmstadt.de/spielplan/"},
- {"name":"Centralstation Darmstadt","city":"Darmstadt","type":"Concerts, jazz, club","address":"Im Carree, 64283 Darmstadt","url":"https://www.centralstation-darmstadt.de/programm"}
+ {
+  "name": "Kurhaus Wiesbaden",
+  "city": "Wiesbaden",
+  "type": "Concert hall (Friedrich-von-Thiersch-Saal)",
+  "address": "Kurhausplatz 1, 65189 Wiesbaden",
+  "url": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender"
+ },
+ {
+  "name": "Hessisches Staatstheater Wiesbaden",
+  "city": "Wiesbaden",
+  "type": "Opera, orchestra, ballet, theatre",
+  "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+  "url": "https://www.staatstheater-wiesbaden.de/spielplan/"
+ },
+ {
+  "name": "Schlachthof Wiesbaden",
+  "city": "Wiesbaden",
+  "type": "Rock/pop/indie club & hall",
+  "address": "Murnaustr. 1, 65189 Wiesbaden",
+  "url": "https://schlachthof-wiesbaden.de/konzert"
+ },
+ {
+  "name": "Staatstheater Mainz",
+  "city": "Mainz",
+  "type": "Opera, Philharmonisches Staatsorchester, theatre",
+  "address": "Gutenbergplatz 7, 55116 Mainz",
+  "url": "https://www.staatstheater-mainz.com/uebersicht/oktober"
+ },
+ {
+  "name": "Frankfurter Hof Mainz",
+  "city": "Mainz",
+  "type": "Concert & cabaret hall",
+  "address": "Augustinerstr. 55, 55116 Mainz",
+  "url": "https://www.frankfurter-hof-mainz.de/programm-tickets/veranstaltungsuebersicht/"
+ },
+ {
+  "name": "KUZ Kulturzentrum Mainz",
+  "city": "Mainz",
+  "type": "Club, concerts, parties",
+  "address": "Dagobertstr. 20b, 55116 Mainz",
+  "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen"
+ },
+ {
+  "name": "Alte Oper Frankfurt",
+  "city": "Frankfurt",
+  "type": "Concert hall",
+  "address": "Opernplatz 1, 60313 Frankfurt am Main",
+  "url": "https://www.alteoper.de/en/programme"
+ },
+ {
+  "name": "Oper Frankfurt",
+  "city": "Frankfurt",
+  "type": "Opera house & Bockenheimer Depot",
+  "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+  "url": "https://oper-frankfurt.de/de/spielplan/"
+ },
+ {
+  "name": "hr-Sinfonieorchester",
+  "city": "Frankfurt",
+  "type": "Radio symphony orchestra (Alte Oper & hr-Sendesaal)",
+  "address": "hr-Sendesaal, Bertramstr. 8, 60320 Frankfurt am Main",
+  "url": "https://www.hr-sinfonieorchester.de/konzerte/index.html"
+ },
+ {
+  "name": "Batschkapp",
+  "city": "Frankfurt",
+  "type": "Rock/pop club",
+  "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
+  "url": "https://www.batschkapp.net/batschkapp"
+ },
+ {
+  "name": "Jahrhunderthalle Frankfurt",
+  "city": "Frankfurt",
+  "type": "Concert hall",
+  "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+  "url": "https://www.jahrhunderthalle.de/programm"
+ },
+ {
+  "name": "Staatstheater Darmstadt",
+  "city": "Darmstadt",
+  "type": "Opera, Staatsorchester Darmstadt, theatre",
+  "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+  "url": "https://www.staatstheater-darmstadt.de/spielplan/"
+ },
+ {
+  "name": "Centralstation Darmstadt",
+  "city": "Darmstadt",
+  "type": "Concerts, jazz, club",
+  "address": "Im Carree, 64283 Darmstadt",
+  "url": "https://www.centralstation-darmstadt.de/programm"
+ },
+ {
+  "name": "Rheingoldhalle Mainz",
+  "city": "Mainz",
+  "type": "Congress & concert hall (Meisterkonzerte, big shows); programme via mainzplus / Frankfurter Hof",
+  "address": "Rheinstraße 66, 55116 Mainz",
+  "url": "https://www.frankfurter-hof-mainz.de/programm-tickets/veranstaltungsuebersicht/"
+ },
+ {
+  "name": "Festhalle Frankfurt",
+  "city": "Frankfurt",
+  "type": "Arena (big concerts, orchestral shows)",
+  "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+  "url": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html"
+ },
+ {
+  "name": "English Theatre Frankfurt",
+  "city": "Frankfurt",
+  "type": "English-language theatre",
+  "address": "Kaiserstrasse 34, 60329 Frankfurt am Main",
+  "url": "https://www.english-theatre.de/"
+ },
+ {
+  "name": "Städel Museum",
+  "city": "Frankfurt",
+  "type": "Art museum",
+  "address": "Schaumainkai 63, 60596 Frankfurt am Main",
+  "url": "https://www.staedelmuseum.de/de/ausstellungen-programm"
+ },
+ {
+  "name": "SCHIRN Kunsthalle Frankfurt",
+  "city": "Frankfurt",
+  "type": "Exhibition hall",
+  "address": "Gabriel-Riesser-Weg 3, 60325 Frankfurt am Main",
+  "url": "https://www.schirn.de/ausstellungen/"
+ },
+ {
+  "name": "Museum Wiesbaden",
+  "city": "Wiesbaden",
+  "type": "Art & natural history museum",
+  "address": "Friedrich-Ebert-Allee 2, 65185 Wiesbaden",
+  "url": "https://museum-wiesbaden.de/ausstellungen"
+ },
+ {
+  "name": "Kunsthalle Mainz",
+  "city": "Mainz",
+  "type": "Contemporary art",
+  "address": "Am Zollhafen 3–5, 55118 Mainz",
+  "url": "https://www.kunsthalle-mainz.de/de/ausstellungen/"
+ }
 ]
