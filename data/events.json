@@ -66,6 +66,21 @@
    ]
   },
   {
+   "title": "Irische Inspirationen – Vokalensemble Systir",
+   "title_en": "Irish Inspirations – Irish vocal ensemble",
+   "category": "classical",
+   "date": "2026-10-01",
+   "time": "19:30",
+   "venue": "Augustinerkirche (Seminarkirche) Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstraße 34, 55116 Mainz",
+   "description": "Irish vocal ensemble Systir sings medieval and Celtic Irish songs alongside music by Kate Bush and Dolores O'Riordan, in Mainz's baroque Augustinerkirche (Mainz Klassik guest concert).",
+   "price": "",
+   "url": "https://www.mainz-klassik.de/alle-meisterkonzerte/vokalensemble-systir",
+   "source": "https://www.mainz-klassik.de/alle-meisterkonzerte/vokalensemble-systir",
+   "english": true
+  },
+  {
    "title": "Yulianna Avdeeva, Klavier – Appassionata",
    "title_en": "Piano recital: Yulianna Avdeeva",
    "category": "classical",
@@ -335,6 +350,24 @@
    "url": "https://www.alteoper.de/en/programme/bbc-philharmonic-orchestra/18846",
    "source": "https://www.alteoper.de/en/programme/bbc-philharmonic-orchestra/18846",
    "english": true
+  },
+  {
+   "title": "Run Rig Experience – 50 Years of Runrig",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-04",
+   "time": "19:00",
+   "venue": "KUZ Kulturzentrum Mainz – Werkhalle",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "Tribute show celebrating 50 years of the Scottish Celtic-rock band Runrig.",
+   "price": "€39.70 (door €40)",
+   "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen/infos/1900-04-10-2026",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": true,
+   "tags": [
+    "tribute"
+   ]
   },
   {
    "title": "Thee Sinseers: Love Stories Tour 2026",
@@ -825,6 +858,24 @@
    "english": false
   },
   {
+   "title": "DIES & DAS – Der Nachtflohmarkt in Mainz",
+   "title_en": "Night flea market",
+   "category": "general",
+   "date": "2026-10-17",
+   "time": "19:00",
+   "venue": "KUZ Kulturzentrum Mainz",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "Evening flea market at the KUZ – browse, bargain and hang out.",
+   "price": "from €3",
+   "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen/infos/1900-17-10-2026",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": false,
+   "tags": [
+    "market"
+   ]
+  },
+  {
    "title": "Refuge (UA) – Deirdre Kinahan",
    "title_en": "Refuge – new Irish play, performed in English with German surtitles",
    "category": "general",
@@ -971,6 +1022,21 @@
    "english": false
   },
   {
+   "title": "Martina Gedeck & Sebastian Knauer: American Dream – Erinnerungen an George Gershwin",
+   "title_en": "American Dream – Gershwin evening with piano",
+   "category": "classical",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Actress Martina Gedeck tells Gershwin's rise from New York street kid to Broadway star in a staged reading, with pianist Sebastian Knauer playing his music. Moved from 28 Sep; tickets remain valid. Spoken parts in German.",
+   "price": "€48.50–65",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2494770",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/martina-gedeck-sebastian-knauer-1/",
+   "english": false
+  },
+  {
    "title": "hr-Sinfonieorchester: Mahler 1 – Große Reihe",
    "title_en": "Frankfurt Radio Symphony: Mahler Symphony No. 1 & Saariaho",
    "category": "classical",
@@ -1011,6 +1077,36 @@
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18291",
    "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/mitten-im-klang-fuer-erwachsene-prokofjew-26-27/2022/",
    "english": false
+  },
+  {
+   "title": "wine2gether – Das Rheinhessen Weinfestival",
+   "title_en": "wine2gether – Rhine-Hesse wine festival",
+   "category": "festival",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "venue": "KUZ Kulturzentrum Mainz",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "Rheinhessenwein e.V.'s wine festival: taste wines from the region's winemakers. Friday evening and Saturday sessions.",
+   "price": "€49",
+   "url": "https://www.ticket-regional.de/events_info.php?eventID=275525",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "time": "18:00",
+     "url": "https://www.ticket-regional.de/events_info.php?eventID=275525"
+    },
+    {
+     "date": "2026-10-24",
+     "time": "11:00",
+     "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen/infos/1126-24-10-2026"
+    }
+   ],
+   "tags": [
+    "wine"
+   ]
   },
   {
    "title": "Iiro Rantala: TRINITY",
@@ -1235,6 +1331,21 @@
    "english": false
   },
   {
+   "title": "SWR Kultur Internationale Pianisten: Yulianna Avdeeva",
+   "title_en": "International Pianists series: Yulianna Avdeeva",
+   "category": "classical",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Chopin Competition winner Yulianna Avdeeva plays Bach's Chromatic Fantasy and Italian Concerto, Boulez's Douze notations, Gubaidulina's Chaconne and Chopin's Études op. 25.",
+   "price": "€25–33.80",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2574234",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/yulianna-avdeeva/",
+   "english": false
+  },
+  {
    "title": "Sibelius' Seelenbeichte – Quick & Classy",
    "title_en": "Sibelius's Confession – 'Quick & Classy' after-work concert",
    "category": "classical",
@@ -1277,6 +1388,24 @@
    "english": false,
    "tags": [
     "dance"
+   ]
+  },
+  {
+   "title": "Brings – Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "venue": "KUZ Kulturzentrum Mainz",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "Cologne rock band Brings live on their 2026 tour.",
+   "price": "€53.20",
+   "url": "https://www.reservix.de/tickets-brings-tour-2026-in-mainz-kuz-kulturzentrum-mainz-am-30-10-2026/e2485916",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": false,
+   "tags": [
+    "rock"
    ]
   },
   {
@@ -1477,6 +1606,42 @@
    ]
   },
   {
+   "title": "Irish Folk Festival – Gold dust in your pocket Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "The long-running touring Irish Folk Festival: four very different acts, including hammered-dulcimer master Brian Leach, coming together in a big session at the end.",
+   "price": "from €49.60 (cat. 1)",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2475266",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/irish-folk-festival/",
+   "english": true,
+   "tags": [
+    "folk"
+   ]
+  },
+  {
+   "title": "Jamie Baum Quartet & Anke Helfrich Trio – JazzNights Special",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Transatlantic jazz double bill: New York flautist Jamie Baum and German pianist Anke Helfrich with their bands, joining forces at the end of the night.",
+   "price": "",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2557635",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/jamie-baum-quartet-anke-helfrich-trio/",
+   "english": false,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
    "title": "Panorama Ciego – Forum N",
    "title_en": "Panorama Ciego – contemporary music",
    "category": "classical",
@@ -1527,6 +1692,21 @@
    ]
   },
   {
+   "title": "Scala & Kolacny Brothers – Scala 30",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "venue": "KUZ Kulturzentrum Mainz – Werkhalle",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "The Belgian girls' choir famous for haunting choral covers of rock and pop songs celebrates 30 years.",
+   "price": "€56.15",
+   "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen/infos/2040-06-11-2026",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": true
+  },
+  {
    "title": "Joe Jackson & Band: Hope And Fury Tour 2026",
    "title_en": "",
    "category": "music",
@@ -1540,6 +1720,21 @@
    "url": "https://www.centralstation-darmstadt.de/event/29356/joe-jackson-band-hope-and-fury-tour-2026/",
    "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/joe-jackson-band-hope-and-fury-tour-2026.2263/",
    "english": true
+  },
+  {
+   "title": "Classic Clash – Villa Musica & SWR Kultur",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Frank Dupree (piano), Pablo Barragán (clarinet), Noa Wildschut (violin) and Vittorio Benaglia (viola) play Milhaud, de Falla, Ravel's Tzigane, Bartók's Romanian Dances, Artie Shaw and more. Recorded by SWR.",
+   "price": "€33",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2585366",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/classic-clash-2/",
+   "english": false
   },
   {
    "title": "2. Kammerkonzert in der Synagoge",
@@ -1672,6 +1867,24 @@
    ]
   },
   {
+   "title": "The High Kings – The Rocky Road Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Ireland's High Kings bring their energetic Irish folk show to Mainz – one of only nine German dates. Listed as sold out.",
+   "price": "€40.10–51.60",
+   "url": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/the-high-kings-the-rocky-road-tour-1/",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/the-high-kings-the-rocky-road-tour-1/",
+   "english": true,
+   "tags": [
+    "folk"
+   ]
+  },
+  {
    "title": "3. Sinfoniekonzert: Spanische Nacht",
    "title_en": "3rd Symphony Concert: Spanish Night",
    "category": "classical",
@@ -1757,6 +1970,21 @@
      "url": "https://www.hr-ticketcenter.de/tickets--/e2522647"
     }
    ]
+  },
+  {
+   "title": "Pippo Pollina – La vita è bella così com'è",
+   "title_en": "Pippo Pollina – 'Life is beautiful as it is'",
+   "category": "music",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "venue": "Frankfurter Hof Mainz",
+   "city": "Mainz",
+   "address": "Augustinerstr. 55, 55116 Mainz",
+   "description": "Sicilian singer-songwriter Pippo Pollina with a chamber quintet (cello, piano, clarinet/sax, percussion) presenting his new project.",
+   "price": "from €47.30",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2400130",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/pippo-pollina-2/",
+   "english": false
   },
   {
    "title": "Hänsel und Gretel (Humperdinck)",
@@ -1911,6 +2139,21 @@
    "english": false
   },
   {
+   "title": "1. Mainzer Meisterkonzert: Schicksalssinfonie",
+   "title_en": "Mainz Master Concert: Tchaikovsky 5 'Fate Symphony'",
+   "category": "classical",
+   "date": "2026-11-15",
+   "time": "18:30",
+   "venue": "Rheingoldhalle Mainz",
+   "city": "Mainz",
+   "address": "Rheinstraße 66, 55116 Mainz",
+   "description": "Staatsorchester Rheinische Philharmonie under its new chief Marzena Diakun: Scriabin's Rêverie, Shostakovich's Cello Concerto No. 1 (István Várdai) and Tchaikovsky's Symphony No. 5. Free intro 17:45.",
+   "price": "€19–54",
+   "url": "https://ztix.de/mainz-klassik/events/1-mainzer-meisterkonzert-schicksalssinfonie-1UyShl/tickets",
+   "source": "https://www.mainz-klassik.de/alle-meisterkonzerte/istvan-vardai",
+   "english": false
+  },
+  {
    "title": "Nils Petter Molvær Trio",
    "title_en": "",
    "category": "music",
@@ -1942,6 +2185,24 @@
    "url": "https://www.hr-ticketcenter.de/tickets--/e2547555",
    "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/frauen-im-fokus,kammermusik-frauen-im-fokus-100.html",
    "english": false
+  },
+  {
+   "title": "ULTIMATE EAGLES – The World's Greatest Eagles Show",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "venue": "KUZ Kulturzentrum Mainz – Werkhalle",
+   "city": "Mainz",
+   "address": "KUZ Kulturzentrum Mainz, Dagobertstr. 20b, 55116 Mainz",
+   "description": "Tribute show recreating the Eagles' classic hits live.",
+   "price": "from €44",
+   "url": "https://www.kulturzentrummainz.de/programm/veranstaltungen/infos/2000-18-11-2026",
+   "source": "https://www.kulturzentrummainz.de/programm/veranstaltungen",
+   "english": true,
+   "tags": [
+    "tribute"
+   ]
   },
   {
    "title": "Wassermusik – Barock+",
