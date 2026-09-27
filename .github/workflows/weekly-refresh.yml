@@ -37,7 +37,10 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
-        run: python scripts/weekly.py
+          # Eventbrite refuses requests from GitHub's cloud IPs (HTTP 405), so it is skipped here by
+          # default; its last events stay until they pass. Refresh it locally: python scripts/weekly.py --only eventbrite
+          SKIP_SOURCES: ${{ vars.SKIP_SOURCES || 'eventbrite' }}
+        run: python scripts/weekly.py --skip "$SKIP_SOURCES"
 
       - name: Commit data changes
         run: |

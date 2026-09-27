@@ -95,6 +95,16 @@ New events without a description are sent to a cheap chat model that writes 1–
 
 The key is only read by the workflow. It is never written to the repo or the site.
 
+### Eventbrite (skipped on GitHub Actions)
+
+Eventbrite refuses requests from GitHub's cloud servers (HTTP 405, bot protection), both for plain HTTP and for a headless browser. The workflow therefore skips it by default (repository variable `SKIP_SOURCES`, default `eventbrite`). The Eventbrite events from the last successful run stay on the site until their dates pass. To refresh them, run this once a month from your own computer (a home connection works) and push:
+
+```bash
+python scripts/weekly.py --only eventbrite && git add data && git commit -m "Eventbrite refresh" && git push
+```
+
+If Eventbrite ever works from Actions again, set the repository variable `SKIP_SOURCES` to `none`.
+
 ### Running it manually
 
 - **On GitHub:** go to **Actions → Weekly refresh → Run workflow** (branch `main`).

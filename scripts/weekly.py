@@ -148,15 +148,16 @@ def main():
     names = scrapers.MODULES
     if a.only:
         names = [n for n in names if n in a.only.split(",")]
-    if a.skip:
-        names = [n for n in names if n not in a.skip.split(",")]
+    if a.skip and a.skip.strip() not in ("", "none"):
+        names = [n for n in names if n not in [x.strip() for x in a.skip.split(",")]]
 
     report, fresh, ok_origins = [], [], set()
     for name in names:
         mod, evs, err, secs = run_source(name, ctx)
         sid = mod.SOURCE["id"] if mod else name
         origin = f"scraper:{sid}"
-        prev_n = prev_report.get(sid, {}).get("events")
+        pr = prev_report.get(sid, {})
+        prev_n = pr.get("last_ok_events", pr.get("events"))  # last successful count
         if prev_n is None:
             prev_n = sum(1 for e in old if e.get("origin") == origin)
         seasonal = bool(getattr(mod, "SEASONAL", False))
@@ -167,7 +168,8 @@ def main():
             fresh += evs
         report.append({"id": sid, "name": mod.SOURCE["name"] if mod else name,
                        "url": mod.SOURCE["url"] if mod else "", "status": status, "events": len(evs),
-                       "previous": prev_n, "seconds": round(secs, 1), "error": err or "",
+                       "previous": prev_n, "last_ok_events": len(evs) if status == "ok" else prev_n,
+                       "seconds": round(secs, 1), "error": err or "",
                        "broken": broken})
         print(f"{'BROKEN' if broken else 'ok':6} {sid:26} {status:5} {len(evs):4} events (prev {prev_n}) {secs:5.1f}s {err or ''}")
 
@@ -175,7 +177,11 @@ def main():
     ran = {r["id"] for r in report}
     for sid, r in prev_report.items():
         if sid not in ran and sid in {scrapers.load(n).SOURCE["id"] for n in scrapers.MODULES}:
-            report.append(dict(r, note="not run this time"))
+            report.append(dict(r, status="skipped", broken=False, error="",
+                               note="not run this time (--only/--skip); previous events kept"))
+
+    order = {scrapers.load(n).SOURCE["id"]: i for i, n in enumerate(scrapers.MODULES)}
+    report.sort(key=lambda r: order.get(r["id"], 999))
 
     # merge: manual events + previous events of sources that didn't deliver + fresh results
     kept_old = [e for e in old if e.get("origin") not in ok_origins]
