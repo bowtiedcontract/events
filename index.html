@@ -38,10 +38,10 @@ header p{margin:0;color:var(--muted);font-size:14px}
 .chip small{font-size:11.5px;opacity:.75;margin-left:3px}
 .chip.eng[aria-pressed="true"]{background:var(--gold);border-color:var(--gold)}
 .chip:focus-visible,.btn:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #9bb8a3;outline-offset:2px}
-.search{flex:1;display:flex;gap:8px;flex-wrap:wrap}
+.search{flex:1;display:flex;gap:8px;flex-wrap:wrap;min-width:0;width:100%;box-sizing:border-box}
 .search input,.search select{font:inherit;font-size:14.5px;border:1px solid var(--line);background:#fff;border-radius:12px;padding:8px 12px;min-height:38px;color:var(--ink)}
-.search input{flex:1 1 220px}
-.search select{flex:1 1 200px;max-width:100%}
+.search input{flex:1 1 220px;min-width:0;max-width:100%;box-sizing:border-box}
+.search select{flex:1 1 200px;min-width:0;max-width:100%;box-sizing:border-box}
 details.more{border-top:1px dashed var(--line);margin-top:2px}
 details.more summary{cursor:pointer;list-style:none;padding:10px 0 6px;font-size:14px;font-weight:600;color:var(--sage-ink)}
 details.more summary::-webkit-details-marker{display:none}
