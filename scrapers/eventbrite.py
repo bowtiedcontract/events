@@ -1,7 +1,7 @@
 """Eventbrite – search result pages for the region. Each page embeds its results as JSON
 (window.__SERVER_DATA__), with start date/time, venue address and online flag."""
 import re
-from .base import get, find_json_after, walk_dicts, make_event, categorize, skip, ENGLISH_RE
+from .base import get, playwright_page, find_json_after, walk_dicts, make_event, categorize, skip, ENGLISH_RE
 
 SOURCE = {"id": "eventbrite", "name": "Eventbrite (Rhein-Main searches)",
           "url": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/"}
@@ -22,14 +22,34 @@ CITIES = {"frankfurt": "Frankfurt", "wiesbaden": "Wiesbaden", "mainz": "Mainz", 
 DROP = re.compile(r"speed ?dating|singles|party|clubbing|rave|yoga|meditation|webinar|online|semester ?opening|studance|ersti|night out|bingo|megamarsch|crypto signals|forex|trading course", re.I)
 
 
+def _browser_pages(urls):
+    """Fallback when plain HTTP is refused (Eventbrite blocks some cloud IP ranges): real browser."""
+    def run(pg):
+        pages = {}
+        for u in urls:
+            try:
+                pg.goto(u, wait_until="domcontentloaded", timeout=45000)
+                pg.wait_for_timeout(1500)
+                pages[u] = pg.content()
+            except Exception:  # noqa: BLE001
+                pass
+        return pages
+    return playwright_page(run)
+
+
 def scrape(ctx):
-    out, seen, errors = [], set(), 0
+    out, seen = [], set()
+    pages, errors = {}, []
     for url in SEARCHES:
         try:
-            html = get(url).text
-        except Exception:  # noqa: BLE001 - one failed search shouldn't lose the others
-            errors += 1
-            continue
+            pages[url] = get(url, retries=1).text
+        except Exception as ex:  # noqa: BLE001 - one failed search shouldn't lose the others
+            errors.append(str(ex)[-120:])
+    if len(pages) < len(SEARCHES) / 2:
+        pages.update(_browser_pages([u for u in SEARCHES if u not in pages]))
+    if not pages:
+        raise RuntimeError("all Eventbrite searches failed (HTTP and browser); first error: " + (errors[0] if errors else "?"))
+    for url, html in pages.items():
         data = find_json_after(html, "window.__SERVER_DATA__ =") or {}
         for ev in walk_dicts(data):
             if "eventbrite_event_id" not in ev or not ev.get("start_date") or not ev.get("name"):
@@ -56,6 +76,6 @@ def scrape(ctx):
                                   url=ev.get("url", ""), source=url, category=cat,
                                   english=bool(ENGLISH_RE.search(f"{title} {summary}")),
                                   text_=f"{summary} Tags: {tags}"))
-    if errors == len(SEARCHES):
-        raise RuntimeError("all Eventbrite searches failed")
+    if not out and errors:
+        raise RuntimeError(f"no events parsed; {len(errors)} searches failed, e.g. {errors[0]}")
     return out
