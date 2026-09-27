@@ -1,0 +1,67 @@
+name: Weekly refresh
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # Mondays 05:00 UTC (07:00 Berlin in summer, 06:00 in winter)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # commit data/ back to main
+  issues: write     # open/close the "Scraper health" issue
+  pages: write      # ask GitHub Pages to rebuild after the push
+
+concurrency:
+  group: weekly-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scrapers and rebuild data
+        id: weekly
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: python scripts/weekly.py
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Weekly refresh $(date -u +%Y-%m-%d): ${{ steps.weekly.outputs.total }} events, ${{ steps.weekly.outputs.new }} new" \
+                       -m "${{ steps.weekly.outputs.summary }}" \
+                       -m "Broken sources: ${{ steps.weekly.outputs.broken || 'none' }}"
+            git push origin HEAD:main
+          fi
+
+      - name: Rebuild GitHub Pages
+        # pushes made with GITHUB_TOKEN don't always trigger a Pages build, so request one
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" --silent && echo "Pages build requested"
+
+      - name: Scraper health issue
+        if: always() && hashFiles('data/scrape-report.json') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/health_issue.py
