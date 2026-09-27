@@ -2,48 +2,161 @@
  "last_updated": "Sun 27 Sep 2026, 23:00 (Berlin time)",
  "events": [
   {
-   "title": "2. Sinfoniekonzert: Russische Emigranten",
-   "title_en": "2nd Symphony Concert: Russian Émigrés",
+   "title": "Mazeppa (Tschaikowski)",
+   "title_en": "Mazeppa – Tchaikovsky opera (Russian, English surtitles)",
    "category": "classical",
-   "date": "2026-10-14",
-   "time": "19:30",
-   "venue": "Kurhaus Wiesbaden",
-   "city": "Wiesbaden",
-   "address": "Kurhausplatz 1, 65189 Wiesbaden",
-   "description": "The Hessisches Staatsorchester under Leo McFall plays Stravinsky's two suites for small orchestra, Prokofiev's Piano Concerto No. 2 (soloist Tom Borrow) and Rachmaninoff's Symphony No. 2. Pre-concert talk at 18:45.",
-   "price": "€20–56",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17678",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2-sinfoniekonzert-26-27/2009/",
-   "english": false
-  },
-  {
-   "title": "3. Sinfoniekonzert: Spanische Nacht",
-   "title_en": "3rd Symphony Concert: Spanish Night",
-   "category": "classical",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "venue": "Kurhaus Wiesbaden",
-   "city": "Wiesbaden",
-   "address": "Kurhausplatz 1, 65189 Wiesbaden",
-   "description": "French composers in love with Spain: Debussy's 'Ibéria', Lalo's Cello Concerto with Maximilian Hornung, music by Josephine Stephenson and Ravel's Boléro, conducted by Geoffrey Paterson. Pre-concert talk 18:45.",
-   "price": "€20–56",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17679",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/3-sinfoniekonzert-26-27/2011/",
-   "english": false
-  },
-  {
-   "title": "Mitten im Klang: Prokofjew – Romeo und Julia",
-   "title_en": "'In the Middle of the Sound': Prokofiev's Romeo and Juliet (after-work concert)",
-   "category": "classical",
-   "date": "2026-10-23",
+   "date": "2026-10-01",
    "time": "18:00",
-   "venue": "Kurhaus Wiesbaden",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Tchaikovsky's dramatic opera about the Cossack hetman Mazeppa; last performances this season. In Russian with German and English surtitles.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16098",
+   "source": "https://oper-frankfurt.de/de/spielplan/mazeppa/?id_datum=4799",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16098"
+    },
+    {
+     "date": "2026-10-04",
+     "time": "15:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16099"
+    },
+    {
+     "date": "2026-10-10",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16100"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16101"
+    }
+   ],
+   "english": true
+  },
+  {
+   "title": "The Fairy-Queen – Barock+",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Richard Egarr directs the Frankfurt Radio Symphony from the harpsichord with soprano Rowan Pierce: Purcell's Fairy-Queen suite, Handel's Concerto grosso op. 6/7 and Cipriani Potter's G-minor Symphony.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523103",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/the-fairy-queen,barock-plus-fairy-queen-100.html",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "19:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523103"
+    },
+    {
+     "date": "2026-10-02",
+     "time": "20:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523105"
+    }
+   ]
+  },
+  {
+   "title": "Yulianna Avdeeva, Klavier – Appassionata",
+   "title_en": "Piano recital: Yulianna Avdeeva",
+   "category": "classical",
+   "date": "2026-10-01",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Chopin Competition winner Yulianna Avdeeva's first solo recital at the Alte Oper: Bach's Italian Concerto, Beethoven's 'Appassionata' and Ravel's La Valse.",
+   "price": "€28–56",
+   "url": "https://www.alteoper.de/en/programme/yulianna-avdeeva-klavier/18838",
+   "source": "https://www.alteoper.de/en/programme/yulianna-avdeeva-klavier/18838",
+   "english": false
+  },
+  {
+   "title": "Metropolis Wiesbaden",
+   "title_en": "Metropolis Wiesbaden – live theatre-film with orchestra",
+   "category": "classical",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "venue": "Hessisches Staatstheater – Großes Haus",
    "city": "Wiesbaden",
-   "address": "Kurhausplatz 1, 65189 Wiesbaden",
-   "description": "Relaxed after-work concert where you sit right among the musicians of the Hessisches Staatsorchester (free seating) while GMD Leo McFall conducts Prokofiev's Romeo and Juliet suites.",
-   "price": "€18",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18291",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/mitten-im-klang-fuer-erwachsene-prokofjew-26-27/2022/",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "A live theatre-film event inspired by Fritz Lang's 'Metropolis': the Hessisches Staatsorchester plays Gottfried Huppertz's monumental film score while video shot live around Wiesbaden is projected on stage.",
+   "price": "€12–88",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17644",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/metropolis-wiesbaden-26-27/2166/",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17644"
+    },
+    {
+     "date": "2026-10-25",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17585"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17584"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17599"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Warten auf heute (Schönberg / Frank Martin)",
+   "title_en": "Waiting for Today – Schoenberg & Frank Martin double bill (English surtitles)",
+   "category": "classical",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Double bill of 20th-century music theatre by Arnold Schoenberg and Frank Martin. German with German and English surtitles; 17 Oct is the last performance of the season.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16009",
+   "source": "https://oper-frankfurt.de/de/spielplan/warten-auf-heute_2/?id_datum=4805",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "19:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16009"
+    },
+    {
+     "date": "2026-10-17",
+     "time": "19:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16010"
+    }
+   ],
+   "english": true
+  },
+  {
+   "title": "La traviata (Verdi)",
+   "title_en": "La traviata – opera by Verdi",
+   "category": "classical",
+   "date": "2026-10-03",
+   "time": "19:30",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Verdi's beloved tragedy of the courtesan Violetta, performed by the Wiesbaden opera ensemble and Hessisches Staatsorchester.",
+   "price": "€16–116",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17998",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/la-traviata/2206/",
    "english": false
   },
   {
@@ -62,18 +175,249 @@
    "english": false
   },
   {
-   "title": "3. Kammerkonzert: Cello a quattro",
-   "title_en": "3rd Chamber Concert: Four Cellos",
+   "title": "Lohengrin (Wagner) – Premiere",
+   "title_en": "Lohengrin – Wagner opera, new production",
    "category": "classical",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "venue": "Hessisches Staatstheater – Foyer Großes Haus",
+   "date": "2026-10-04",
+   "time": "17:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "New production of Wagner's romantic opera of the mysterious swan knight, directed by Erik Raskopf and conducted by Gabriel Venzago. Sung in German with surtitles.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20996",
+   "source": "https://www.staatstheater-mainz.com/veranstaltungen/oper-26-27/lohengrin",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "time": "17:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20996"
+    },
+    {
+     "date": "2026-10-24",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20997"
+    },
+    {
+     "date": "2026-11-01",
+     "time": "15:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21001"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20998"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20999"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Behind the Scenes – English pre-concert talk + BBC Philharmonic",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-04",
+   "time": "18:00",
+   "venue": "Alte Oper Frankfurt – Albert Mangelsdorff Foyer",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "The Alte Oper's new evening for Frankfurt's international communities: an English-language talk (with the British Chamber of Commerce and BBC Philharmonic musicians), the concert, then a chill-out with live jazz.",
+   "price": "",
+   "url": "https://www.alteoper.de/en/programme/behind-the-scenes/18930",
+   "source": "https://www.alteoper.de/en/programme/behind-the-scenes/18930",
+   "english": true,
+   "tags": [
+    "expat"
+   ]
+  },
+  {
+   "title": "Lachrymae – Kammermusik",
+   "title_en": "Lachrymae – chamber music for flute, viola & harp",
+   "category": "classical",
+   "date": "2026-10-04",
+   "time": "18:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Chamber music for flute, viola and harp by members of the hr-Sinfonieorchester: Dowland, Britten's Lachrymae, Debussy's Sonata, Piazzolla's Histoire du Tango.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523282",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/lachrymae,kammermusik-lachrymae-100.html",
+   "english": false
+  },
+  {
+   "title": "Silent Echo (Hessisches Staatsballett)",
+   "title_en": "Silent Echo – contemporary ballet triple bill",
+   "category": "general",
+   "date": "2026-10-04",
+   "time": "18:00",
+   "venue": "Hessisches Staatstheater – Großes Haus",
    "city": "Wiesbaden",
    "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Sunday matinee of chamber music for cello quartet played by musicians of the Hessisches Staatsorchester in the theatre foyer.",
-   "price": "€16",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18351",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/3-kammerkonzert-26-27/2010/",
+   "description": "Hessisches Staatsballett in choreographies by Imre & Marne van Opstal, Marco Goecke and Fran Díaz. Wordless, so ideal if your German is still a work in progress.",
+   "price": "€10–68",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18044",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "time": "18:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18044"
+    },
+    {
+     "date": "2026-10-11",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18045"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18046"
+    }
+   ],
+   "english": false,
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "title": "BBC Philharmonic Orchestra",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-10-04",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Anja Bihlmaier conducts the BBC Philharmonic with cellist Pablo Ferrández: Ligeti's Concert Românesc, Tchaikovsky's Rococo Variations and Beethoven's Symphony No. 7.",
+   "price": "€30–80",
+   "url": "https://www.alteoper.de/en/programme/bbc-philharmonic-orchestra/18846",
+   "source": "https://www.alteoper.de/en/programme/bbc-philharmonic-orchestra/18846",
+   "english": true
+  },
+  {
+   "title": "Zaide (Mozart)",
+   "title_en": "Zaide – Mozart singspiel fragment",
+   "category": "classical",
+   "date": "2026-10-07",
+   "time": "19:00",
+   "venue": "Oper Frankfurt – Bockenheimer Depot",
+   "city": "Frankfurt",
+   "address": "Carlo-Schmid-Platz 1, 60325 Frankfurt am Main",
+   "description": "Mozart's unfinished singspiel, completed with excerpts from his 'Thamos' music, in the atmospheric former tram depot. Sung in German with German surtitles.",
+   "price": "€45–65",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16243",
+   "source": "https://oper-frankfurt.de/de/spielplan/zaide/?id_datum=4809",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16243"
+    },
+    {
+     "date": "2026-10-09",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16355"
+    },
+    {
+     "date": "2026-10-11",
+     "time": "15:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16356"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16357"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16358"
+    },
+    {
+     "date": "2026-10-18",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16359"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Die Zauberflöte (Mozart)",
+   "title_en": "The Magic Flute – Mozart",
+   "category": "classical",
+   "date": "2026-10-07",
+   "time": "19:30",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Mozart's magical opera, a perfect first opera night. 15 Nov is a family performance.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21120",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21120"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21121"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21122"
+    },
+    {
+     "date": "2026-11-15",
+     "time": "15:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21359"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21400"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "In der Strafkolonie (Philip Glass)",
+   "title_en": "In the Penal Colony – chamber opera by Philip Glass",
+   "category": "classical",
+   "date": "2026-10-07",
+   "time": "19:30",
+   "venue": "Steinhalle im Landesmuseum Mainz",
+   "city": "Mainz",
+   "address": "Große Bleiche 49–51, 55116 Mainz",
+   "description": "Philip Glass's chamber opera after Kafka, staged in the stone hall of the Landesmuseum. Intro 30 minutes before.",
+   "price": "€20–26",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21123",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21123"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21124"
+    },
+    {
+     "date": "2026-11-07",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21328"
+    }
+   ],
    "english": false
   },
   {
@@ -119,294 +463,55 @@
    "english": false
   },
   {
-   "title": "La traviata (Verdi)",
-   "title_en": "La traviata – opera by Verdi",
+   "title": "Ensemble Modern",
+   "title_en": "",
    "category": "classical",
-   "date": "2026-10-03",
-   "time": "19:30",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Verdi's beloved tragedy of the courtesan Violetta, performed by the Wiesbaden opera ensemble and Hessisches Staatsorchester.",
-   "price": "€16–116",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17998",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/la-traviata/2206/",
-   "english": false
-  },
-  {
-   "title": "Tosca (Puccini)",
-   "title_en": "Tosca – opera by Puccini",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "18:00",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Puccini's political thriller-opera in three acts, with the Hessisches Staatsorchester in the pit.",
-   "price": "€16–116",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/tosca/2202/",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "18:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003"
-    },
-    {
-     "date": "2026-11-22",
-     "time": "18:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17994"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "La Bohème (Puccini) – Premiere",
-   "title_en": "La Bohème – opera by Puccini (premiere of new production)",
-   "category": "classical",
-   "date": "2026-11-28",
-   "time": "19:30",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Premiere of a new Bohème staged by Götz-Friedrich-Prize winner Aileen Schneider: young artists in poverty, creativity and love. Premiere party afterwards.",
-   "price": "€18–132",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18066",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/boheme-26-27/1934/",
-   "english": false
-  },
-  {
-   "title": "Metropolis Wiesbaden",
-   "title_en": "Metropolis Wiesbaden – live theatre-film with orchestra",
-   "category": "classical",
-   "date": "2026-10-02",
-   "time": "19:30",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "A live theatre-film event inspired by Fritz Lang's 'Metropolis': the Hessisches Staatsorchester plays Gottfried Huppertz's monumental film score while video shot live around Wiesbaden is projected on stage.",
-   "price": "€12–88",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17644",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/metropolis-wiesbaden-26-27/2166/",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17644"
-    },
-    {
-     "date": "2026-10-25",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17585"
-    },
-    {
-     "date": "2026-11-13",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17584"
-    },
-    {
-     "date": "2026-11-19",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17599"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Lieder-Soiree",
-   "title_en": "Song recital evening in the foyer",
-   "category": "classical",
-   "date": "2026-10-19",
-   "time": "19:00",
-   "venue": "Hessisches Staatstheater – Foyer Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Intimate art-song evening with singers of the Wiesbaden opera ensemble in the theatre's foyer; a drink is included in the ticket.",
-   "price": "€28 incl. a drink",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18240",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/",
-   "dates": [
-    {
-     "date": "2026-10-19",
-     "time": "19:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18240"
-    },
-    {
-     "date": "2026-11-09",
-     "time": "19:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18339"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "MAGNIFICAT & The Rite of Spring (Marie Chouinard)",
-   "title_en": "Dance: Bach's Magnificat & Stravinsky's Rite of Spring",
-   "category": "general",
-   "date": "2026-10-30",
-   "time": "19:30",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Canadian choreographer Marie Chouinard pairs Bach's Magnificat and Stravinsky's Rite of Spring in a double bill – dance with no language barrier.",
-   "price": "€8–48",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17645",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/magnificat-and-the-rite-of-spring/2304/",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17645"
-    },
-    {
-     "date": "2026-10-31",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18005"
-    }
-   ],
+   "date": "2026-10-10",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Frankfurt's world-renowned contemporary-music ensemble in its Alte Oper series.",
+   "price": "from €29",
+   "url": "https://www.alteoper.de/en/programme/ensemble-modern/18854",
+   "source": "https://www.alteoper.de/en/programme/ensemble-modern/18854",
    "english": false,
-   "tags": [
-    "dance"
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "time": "20:00",
+     "url": "https://www.alteoper.de/en/programme/ensemble-modern/18854"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "20:00",
+     "url": "https://www.alteoper.de/en/programme/ensemble-modern/18855"
+    }
    ]
   },
   {
-   "title": "Silent Echo (Hessisches Staatsballett)",
-   "title_en": "Silent Echo – contemporary ballet triple bill",
-   "category": "general",
-   "date": "2026-10-04",
-   "time": "18:00",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Hessisches Staatsballett in choreographies by Imre & Marne van Opstal, Marco Goecke and Fran Díaz. Wordless, so ideal if your German is still a work in progress.",
-   "price": "€10–68",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18044",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/",
+   "title": "Falstaff (Verdi)",
+   "title_en": "Falstaff – Verdi's comic opera",
+   "category": "classical",
+   "date": "2026-10-11",
+   "time": "15:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Revival of Verdi's final opera, a sparkling comedy about Shakespeare's roguish knight.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21159",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
    "dates": [
-    {
-     "date": "2026-10-04",
-     "time": "18:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18044"
-    },
     {
      "date": "2026-10-11",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18045"
+     "time": "15:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21159"
     },
     {
-     "date": "2026-10-16",
+     "date": "2026-11-03",
      "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18046"
-    }
-   ],
-   "english": false,
-   "tags": [
-    "dance"
-   ]
-  },
-  {
-   "title": "Nachtträume (Hessisches Staatsballett)",
-   "title_en": "Night Dreams – ballet",
-   "category": "general",
-   "date": "2026-11-06",
-   "time": "19:30",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Evening-length dance production by the Hessisches Staatsballett on the main stage.",
-   "price": "€10–80",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17633",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/",
-   "dates": [
-    {
-     "date": "2026-11-06",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17633"
-    },
-    {
-     "date": "2026-11-07",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18006"
-    },
-    {
-     "date": "2026-11-27",
-     "time": "19:30",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18059"
-    }
-   ],
-   "english": false,
-   "tags": [
-    "dance"
-   ]
-  },
-  {
-   "title": "Tanztag Rhein-Main 2026",
-   "title_en": "Rhine-Main Dance Day",
-   "category": "festival",
-   "date": "2026-10-31",
-   "time": "10:00",
-   "venue": "Hessisches Staatstheater & venues across the region",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Region-wide day of dance with performances, open classes and workshops at venues in Wiesbaden, Darmstadt, Frankfurt, Hanau and more. Pay what you want, no registration needed (limited places).",
-   "price": "Pay what you want",
-   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/tanztag-rhein-main-2026/2398/",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/tanztag-rhein-main-2026/2398/",
-   "english": false,
-   "tags": [
-    "dance"
-   ]
-  },
-  {
-   "title": "2. Sinfoniekonzert (Museumskonzert): Mahler – Auferstehungssinfonie",
-   "title_en": "Frankfurt Opera & Museum Orchestra: Mahler Symphony No. 2 'Resurrection'",
-   "category": "classical",
-   "date": "2026-10-18",
-   "time": "11:00",
-   "venue": "Alte Oper Frankfurt – Großer Saal",
-   "city": "Frankfurt",
-   "address": "Opernplatz 1, 60313 Frankfurt am Main",
-   "description": "Thomas Guggeis conducts the Frankfurter Opern- und Museumsorchester, Frankfurt's combined choirs, Nombulelo Yende (soprano) and Zanda Švēde (mezzo) in Mahler's monumental 'Resurrection' Symphony.",
-   "price": "€37–77",
-   "url": "https://www.frankfurtticket.de/tickets/18112.76596",
-   "source": "https://oper-frankfurt.de/de/spielplan/2-sinfoniekonzert_2/?id_datum=4760",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "time": "11:00",
-     "url": "https://www.frankfurtticket.de/tickets/18112.76596"
-    },
-    {
-     "date": "2026-10-19",
-     "time": "19:30",
-     "url": "https://www.frankfurtticket.de/tickets/18112.76605"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "3. Sinfoniekonzert (Museumskonzert): Wege zu Bruckner",
-   "title_en": "Frankfurt Opera & Museum Orchestra: Paths to Bruckner (Symphony No. 4 'Romantic')",
-   "category": "classical",
-   "date": "2026-11-15",
-   "time": "11:00",
-   "venue": "Alte Oper Frankfurt – Großer Saal",
-   "city": "Frankfurt",
-   "address": "Opernplatz 1, 60313 Frankfurt am Main",
-   "description": "Thomas Guggeis and soprano Anna Prohaska trace a line from Hildegard von Bingen, Bach (orch. Webern), Mozart and Schubert to Bruckner's 'Romantic' Fourth Symphony.",
-   "price": "€37–77",
-   "url": "https://www.frankfurtticket.de/tickets/18113.76597",
-   "source": "https://oper-frankfurt.de/de/spielplan/3-sinfoniekonzert_2/?id_datum=4762",
-   "dates": [
-    {
-     "date": "2026-11-15",
-     "time": "11:00",
-     "url": "https://www.frankfurtticket.de/tickets/18113.76597"
-    },
-    {
-     "date": "2026-11-16",
-     "time": "19:30",
-     "url": "https://www.frankfurtticket.de/tickets/18113.76606"
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21333"
     }
    ],
    "english": false
@@ -469,41 +574,51 @@
    "english": true
   },
   {
-   "title": "Le roi Arthus (Chausson) – Premiere",
-   "title_en": "King Arthur – Chausson opera, Frankfurt premiere (French, English surtitles)",
-   "category": "classical",
-   "date": "2026-11-08",
-   "time": "18:00",
-   "venue": "Oper Frankfurt – Opernhaus",
+   "title": "Alte Oper Nights – Urban Vibe Festival",
+   "title_en": "",
+   "category": "festival",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – whole house",
    "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "First Frankfurt staging of Ernest Chausson's Wagner-tinged Arthurian opera, conducted by GMD Thomas Guggeis. In French with German and English surtitles.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15963",
-   "source": "https://oper-frankfurt.de/de/spielplan/le-roi-arthus/?id_datum=4828",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "New three-night festival across the whole building: genre-crossing sets by Cello Octet Amsterdam, Kinan Azmeh, Repercussion, Martynas Levickis and more, talks, and a silent film with live music. One ticket, pick freely.",
+   "price": "€21",
+   "url": "https://www.alteoper.de/en/programme/alte-oper-nights/18865",
+   "source": "https://www.alteoper.de/en/programme/alte-oper-nights/18865",
+   "english": false,
    "dates": [
     {
-     "date": "2026-11-08",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15963"
-    },
-    {
-     "date": "2026-11-14",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16109"
-    },
-    {
-     "date": "2026-11-27",
+     "date": "2026-10-14",
      "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16110"
+     "url": "https://www.alteoper.de/en/programme/alte-oper-nights/18865"
     },
     {
-     "date": "2026-11-29",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16111"
+     "date": "2026-10-15",
+     "time": "19:00",
+     "url": "https://www.alteoper.de/en/programme/alte-oper-nights/18917"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "19:00",
+     "url": "https://www.alteoper.de/en/programme/alte-oper-nights/18918"
     }
-   ],
-   "english": true
+   ]
+  },
+  {
+   "title": "2. Sinfoniekonzert: Russische Emigranten",
+   "title_en": "2nd Symphony Concert: Russian Émigrés",
+   "category": "classical",
+   "date": "2026-10-14",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "The Hessisches Staatsorchester under Leo McFall plays Stravinsky's two suites for small orchestra, Prokofiev's Piano Concerto No. 2 (soloist Tom Borrow) and Rachmaninoff's Symphony No. 2. Pre-concert talk at 18:45.",
+   "price": "€20–56",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17678",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2-sinfoniekonzert-26-27/2009/",
+   "english": false
   },
   {
    "title": "Tancredi (Rossini)",
@@ -548,164 +663,6 @@
    "english": true
   },
   {
-   "title": "Mazeppa (Tschaikowski)",
-   "title_en": "Mazeppa – Tchaikovsky opera (Russian, English surtitles)",
-   "category": "classical",
-   "date": "2026-10-01",
-   "time": "18:00",
-   "venue": "Oper Frankfurt – Opernhaus",
-   "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "Tchaikovsky's dramatic opera about the Cossack hetman Mazeppa; last performances this season. In Russian with German and English surtitles.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16098",
-   "source": "https://oper-frankfurt.de/de/spielplan/mazeppa/?id_datum=4799",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16098"
-    },
-    {
-     "date": "2026-10-04",
-     "time": "15:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16099"
-    },
-    {
-     "date": "2026-10-10",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16100"
-    },
-    {
-     "date": "2026-10-15",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16101"
-    }
-   ],
-   "english": true
-  },
-  {
-   "title": "Zaide (Mozart)",
-   "title_en": "Zaide – Mozart singspiel fragment",
-   "category": "classical",
-   "date": "2026-10-07",
-   "time": "19:00",
-   "venue": "Oper Frankfurt – Bockenheimer Depot",
-   "city": "Frankfurt",
-   "address": "Carlo-Schmid-Platz 1, 60325 Frankfurt am Main",
-   "description": "Mozart's unfinished singspiel, completed with excerpts from his 'Thamos' music, in the atmospheric former tram depot. Sung in German with German surtitles.",
-   "price": "€45–65",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16243",
-   "source": "https://oper-frankfurt.de/de/spielplan/zaide/?id_datum=4809",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16243"
-    },
-    {
-     "date": "2026-10-09",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16355"
-    },
-    {
-     "date": "2026-10-11",
-     "time": "15:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16356"
-    },
-    {
-     "date": "2026-10-14",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16357"
-    },
-    {
-     "date": "2026-10-16",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16358"
-    },
-    {
-     "date": "2026-10-18",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16359"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Warten auf heute (Schönberg / Frank Martin)",
-   "title_en": "Waiting for Today – Schoenberg & Frank Martin double bill (English surtitles)",
-   "category": "classical",
-   "date": "2026-10-02",
-   "time": "19:30",
-   "venue": "Oper Frankfurt – Opernhaus",
-   "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "Double bill of 20th-century music theatre by Arnold Schoenberg and Frank Martin. German with German and English surtitles; 17 Oct is the last performance of the season.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16009",
-   "source": "https://oper-frankfurt.de/de/spielplan/warten-auf-heute_2/?id_datum=4805",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "time": "19:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16009"
-    },
-    {
-     "date": "2026-10-17",
-     "time": "19:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16010"
-    }
-   ],
-   "english": true
-  },
-  {
-   "title": "Hänsel und Gretel (Humperdinck)",
-   "title_en": "Hansel and Gretel – Humperdinck opera (English surtitles)",
-   "category": "classical",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "venue": "Oper Frankfurt – Opernhaus",
-   "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "Seasonal revival of Humperdinck's fairy-tale opera, a pre-Christmas classic. German with German and English surtitles.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16016",
-   "source": "https://oper-frankfurt.de/de/spielplan/haensel-und-gretel_5/?id_datum=4835",
-   "dates": [
-    {
-     "date": "2026-11-13",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16016"
-    },
-    {
-     "date": "2026-11-20",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16017"
-    },
-    {
-     "date": "2026-11-22",
-     "time": "15:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16018"
-    }
-   ],
-   "english": true
-  },
-  {
-   "title": "Liederabend: Kelsey Lauritano (Mezzosopran) / Alden Gatt (Klavier)",
-   "title_en": "Song recital: mezzo-soprano Kelsey Lauritano",
-   "category": "classical",
-   "date": "2026-11-03",
-   "time": "19:30",
-   "venue": "Oper Frankfurt – Opernhaus",
-   "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "Ensemble member Kelsey Lauritano, acclaimed as Dorabella and Cherubino, gives an intimate song recital with pianist Alden Gatt.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16215",
-   "source": "https://oper-frankfurt.de/de/spielplan/kelsey-lauritano/?id_datum=4753",
-   "english": false
-  },
-  {
    "title": "2. Sinfoniekonzert: Vom Schatten zum Licht",
    "title_en": "2nd Symphony Concert: From Shadow to Light (Shostakovich 5)",
    "category": "classical",
@@ -730,233 +687,6 @@
      "url": "https://ticket.staatstheater-mainz.de/eventim.webshop/webticket/eventlist?event=21102"
     }
    ],
-   "english": false
-  },
-  {
-   "title": "3. Sinfoniekonzert: Energy Concert",
-   "title_en": "3rd Symphony Concert: 'Energy Concert' – Gershwin, Milhaud, Kapustin",
-   "category": "classical",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Jazz meets orchestra: Milhaud's 'La Création du monde', Kapustin's Piano Concerto No. 5, Rudi Stephan's 'Musik für Orchester' and Gershwin's Rhapsody in Blue in the original jazz-band version.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21098",
-   "source": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/3-sinfoniekonzert",
-   "dates": [
-    {
-     "date": "2026-11-13",
-     "time": "20:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21098"
-    },
-    {
-     "date": "2026-11-14",
-     "time": "20:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21103"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Staatsorchester meets ... HALLOWEEN",
-   "title_en": "State Orchestra meets Halloween – spooky concert + party",
-   "category": "classical",
-   "date": "2026-10-31",
-   "time": "19:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Saint-Saëns' Danse macabre, HK Gruber's Frankenstein!, and Herrmann's Psycho and Vertigo suites with poetry-slam texts – followed by a Halloween get-together with DJ and bar in the Glashaus.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21182",
-   "source": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/staatsorchester-meets-halloween",
-   "english": false
-  },
-  {
-   "title": "Lohengrin (Wagner) – Premiere",
-   "title_en": "Lohengrin – Wagner opera, new production",
-   "category": "classical",
-   "date": "2026-10-04",
-   "time": "17:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "New production of Wagner's romantic opera of the mysterious swan knight, directed by Erik Raskopf and conducted by Gabriel Venzago. Sung in German with surtitles.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20996",
-   "source": "https://www.staatstheater-mainz.com/veranstaltungen/oper-26-27/lohengrin",
-   "dates": [
-    {
-     "date": "2026-10-04",
-     "time": "17:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20996"
-    },
-    {
-     "date": "2026-10-24",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20997"
-    },
-    {
-     "date": "2026-11-01",
-     "time": "15:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21001"
-    },
-    {
-     "date": "2026-11-06",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20998"
-    },
-    {
-     "date": "2026-11-21",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20999"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Die Zauberflöte (Mozart)",
-   "title_en": "The Magic Flute – Mozart",
-   "category": "classical",
-   "date": "2026-10-07",
-   "time": "19:30",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Mozart's magical opera, a perfect first opera night. 15 Nov is a family performance.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21120",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21120"
-    },
-    {
-     "date": "2026-10-23",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21121"
-    },
-    {
-     "date": "2026-10-30",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21122"
-    },
-    {
-     "date": "2026-11-15",
-     "time": "15:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21359"
-    },
-    {
-     "date": "2026-11-20",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21400"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Falstaff (Verdi)",
-   "title_en": "Falstaff – Verdi's comic opera",
-   "category": "classical",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Revival of Verdi's final opera, a sparkling comedy about Shakespeare's roguish knight.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21159",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
-   "dates": [
-    {
-     "date": "2026-10-11",
-     "time": "15:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21159"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21333"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "Die Piraten von Penzance (Gilbert & Sullivan)",
-   "title_en": "The Pirates of Penzance – Gilbert & Sullivan operetta",
-   "category": "classical",
-   "date": "2026-10-18",
-   "time": "18:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "The very British comic operetta by Gilbert & Sullivan; 8 Nov is the final performance.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20872",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20872"
-    },
-    {
-     "date": "2026-11-08",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20873"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "In der Strafkolonie (Philip Glass)",
-   "title_en": "In the Penal Colony – chamber opera by Philip Glass",
-   "category": "classical",
-   "date": "2026-10-07",
-   "time": "19:30",
-   "venue": "Steinhalle im Landesmuseum Mainz",
-   "city": "Mainz",
-   "address": "Große Bleiche 49–51, 55116 Mainz",
-   "description": "Philip Glass's chamber opera after Kafka, staged in the stone hall of the Landesmuseum. Intro 30 minutes before.",
-   "price": "€20–26",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21123",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21123"
-    },
-    {
-     "date": "2026-10-23",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21124"
-    },
-    {
-     "date": "2026-11-07",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21328"
-    }
-   ],
-   "english": false
-  },
-  {
-   "title": "2. Kammerkonzert in der Synagoge",
-   "title_en": "2nd Chamber Concert in the Synagogue – Remembering the November Pogroms",
-   "category": "classical",
-   "date": "2026-11-08",
-   "time": "11:00",
-   "venue": "Synagoge Mainz-Weisenau",
-   "city": "Mainz",
-   "address": "Synagoge Mainz-Weisenau, Mainz",
-   "description": "Chamber concert by members of the Staatsorchester Mainz in commemoration of the November pogroms of 1938. Free admission.",
-   "price": "Free",
-   "url": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/kammerkonzert-in-der-synagoge",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/november",
    "english": false
   },
   {
@@ -995,48 +725,156 @@
    ]
   },
   {
-   "title": "Der zerbrochne Krug (with English supertitles)",
-   "title_en": "The Broken Jug – Kleist comedy with English surtitles",
-   "category": "general",
-   "date": "2026-10-26",
-   "time": "19:30",
-   "venue": "Staatstheater Mainz – Kleines Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Kleist's classic courtroom comedy about a village judge who must try his own crime – shown with English supertitles, a good way into German theatre.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21125",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
+   "title": "2. Sinfoniekonzert (Museumskonzert): Mahler – Auferstehungssinfonie",
+   "title_en": "Frankfurt Opera & Museum Orchestra: Mahler Symphony No. 2 'Resurrection'",
+   "category": "classical",
+   "date": "2026-10-18",
+   "time": "11:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Thomas Guggeis conducts the Frankfurter Opern- und Museumsorchester, Frankfurt's combined choirs, Nombulelo Yende (soprano) and Zanda Švēde (mezzo) in Mahler's monumental 'Resurrection' Symphony.",
+   "price": "€37–77",
+   "url": "https://www.frankfurtticket.de/tickets/18112.76596",
+   "source": "https://oper-frankfurt.de/de/spielplan/2-sinfoniekonzert_2/?id_datum=4760",
    "dates": [
     {
-     "date": "2026-10-26",
-     "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21125"
+     "date": "2026-10-18",
+     "time": "11:00",
+     "url": "https://www.frankfurtticket.de/tickets/18112.76596"
     },
     {
-     "date": "2026-11-11",
+     "date": "2026-10-19",
      "time": "19:30",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21314"
+     "url": "https://www.frankfurtticket.de/tickets/18112.76605"
     }
    ],
-   "english": true,
-   "tags": [
-    "theatre"
-   ]
+   "english": false
   },
   {
-   "title": "Titanic – The Musical (Premiere)",
-   "title_en": "Titanic – The Musical (premiere)",
-   "category": "music",
-   "date": "2026-11-29",
+   "title": "Die Piraten von Penzance (Gilbert & Sullivan)",
+   "title_en": "The Pirates of Penzance – Gilbert & Sullivan operetta",
+   "category": "classical",
+   "date": "2026-10-18",
    "time": "18:00",
    "venue": "Staatstheater Mainz – Großes Haus",
    "city": "Mainz",
    "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "Premiere of Maury Yeston and Peter Stone's Tony-winning musical about the maiden voyage of the Titanic.",
+   "description": "The very British comic operetta by Gilbert & Sullivan; 8 Nov is the final performance.",
    "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21254",
-   "source": "https://www.staatstheater-mainz.com/uebersicht/november",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20872",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20872"
+    },
+    {
+     "date": "2026-11-08",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20873"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Lieder-Soiree",
+   "title_en": "Song recital evening in the foyer",
+   "category": "classical",
+   "date": "2026-10-19",
+   "time": "19:00",
+   "venue": "Hessisches Staatstheater – Foyer Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Intimate art-song evening with singers of the Wiesbaden opera ensemble in the theatre's foyer; a drink is included in the ticket.",
+   "price": "€28 incl. a drink",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18240",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "19:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18240"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "19:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18339"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Mittagskonzert: Dominik Wagner Kontrabassquartett",
+   "title_en": "Lunch concert: Dominik Wagner Double Bass Quartet",
+   "category": "classical",
+   "date": "2026-10-21",
+   "time": "13:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Lunchtime concert by four double basses: Bruckner and Schubert arrangements next to Bohemian Rhapsody and The Final Countdown.",
+   "price": "€28",
+   "url": "https://www.alteoper.de/en/programme/dominik-wagner-kontrabassquartett/18872",
+   "source": "https://www.alteoper.de/en/programme/dominik-wagner-kontrabassquartett/18872",
+   "english": false
+  },
+  {
+   "title": "Junges Konzert: Titan (hr-Sinfonieorchester)",
+   "title_en": "Young Concert: Mahler 'Titan' with the Frankfurt Radio Symphony",
+   "category": "classical",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Susanna Mälkki conducts the hr-Sinfonieorchester (Frankfurt Radio Symphony) in Mahler's Symphony No. 1 'Titan' – the season's first 'Young Concert', flat price.",
+   "price": "€21",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2547637",
+   "source": "https://www.alteoper.de/en/programme/titan/18977",
+   "english": false
+  },
+  {
+   "title": "hr-Sinfonieorchester: Mahler 1 – Große Reihe",
+   "title_en": "Frankfurt Radio Symphony: Mahler Symphony No. 1 & Saariaho",
+   "category": "classical",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Susanna Mälkki conducts the Frankfurt Radio Symphony in Kaija Saariaho's trumpet concerto HUSH (soloist Verneri Pohjola) and Mahler's First Symphony.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2522636",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/mahler-1,grosse-reihe-mahler-1-100.html",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2522636"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "20:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2522646"
+    }
+   ]
+  },
+  {
+   "title": "Mitten im Klang: Prokofjew – Romeo und Julia",
+   "title_en": "'In the Middle of the Sound': Prokofiev's Romeo and Juliet (after-work concert)",
+   "category": "classical",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Relaxed after-work concert where you sit right among the musicians of the Hessisches Staatsorchester (free seating) while GMD Leo McFall conducts Prokofiev's Romeo and Juliet suites.",
+   "price": "€18",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18291",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/mitten-im-klang-fuer-erwachsene-prokofjew-26-27/2022/",
    "english": false
   },
   {
@@ -1067,6 +905,81 @@
    "english": false
   },
   {
+   "title": "DVOŘÁK IN NEW YORK – Benefizkonzert für die Alte Oper",
+   "title_en": "Dvořák in New York – benefit concert ('New World' Symphony)",
+   "category": "classical",
+   "date": "2026-10-25",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Benefit concert: the FREUNDE-Orchester with Cäcilienchor Frankfurt and Heidelberger Bachchor perform Dvořák's Te Deum and 'New World' Symphony, plus a movement of the 'American' Quartet.",
+   "price": "€23.45–67.45",
+   "url": "https://www.alteoper.de/en/programme/dvorak-in-new-york/18954",
+   "source": "https://www.alteoper.de/en/programme/dvorak-in-new-york/18954",
+   "english": false
+  },
+  {
+   "title": "Der zerbrochne Krug (with English supertitles)",
+   "title_en": "The Broken Jug – Kleist comedy with English surtitles",
+   "category": "general",
+   "date": "2026-10-26",
+   "time": "19:30",
+   "venue": "Staatstheater Mainz – Kleines Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Kleist's classic courtroom comedy about a village judge who must try his own crime – shown with English supertitles, a good way into German theatre.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21125",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/oktober",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21125"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "19:30",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21314"
+    }
+   ],
+   "english": true,
+   "tags": [
+    "theatre"
+   ]
+  },
+  {
+   "title": "Karibische Klangwelten – Musiken der Welt",
+   "title_en": "Caribbean Soundworlds – world music",
+   "category": "music",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "World-music evening: Afro-Venezuelan rhythms, Barlovento rites, Spanish colonial baroque music and Latin folk.",
+   "price": "from €26",
+   "url": "https://www.alteoper.de/en/programme/karibische-klangwelten/18860",
+   "source": "https://www.alteoper.de/en/programme/karibische-klangwelten/18860",
+   "english": false
+  },
+  {
+   "title": "Sächsische Staatskapelle Dresden – Daniele Gatti & Augustin Hadelich",
+   "title_en": "Dresden Staatskapelle: Beethoven Violin Concerto & Brahms 2",
+   "category": "classical",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "One of the world's oldest orchestras under Daniele Gatti: Beethoven's Violin Concerto with Augustin Hadelich and Brahms's Symphony No. 2. Free pre-concert seminar at 18:30.",
+   "price": "€37–150",
+   "url": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
+   "source": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
+   "english": false
+  },
+  {
    "title": "Kakadu Kneipenchor – Mitsingen!",
    "title_en": "Pub choir – sing along!",
    "category": "general",
@@ -1091,6 +1004,639 @@
      "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21334"
     }
    ],
+   "english": false
+  },
+  {
+   "title": "Sibelius' Seelenbeichte – Quick & Classy",
+   "title_en": "Sibelius's Confession – 'Quick & Classy' after-work concert",
+   "category": "classical",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Short after-work format: Aivis Greters conducts Schumann's Cello Concerto (Anton Spronk) and Sibelius's Symphony No. 2.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523142",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/sibelius-seelenbeichte,quick-and-classy-sibelius-seelenbeichte-100.html",
+   "english": false
+  },
+  {
+   "title": "MAGNIFICAT & The Rite of Spring (Marie Chouinard)",
+   "title_en": "Dance: Bach's Magnificat & Stravinsky's Rite of Spring",
+   "category": "general",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Canadian choreographer Marie Chouinard pairs Bach's Magnificat and Stravinsky's Rite of Spring in a double bill – dance with no language barrier.",
+   "price": "€8–48",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17645",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/magnificat-and-the-rite-of-spring/2304/",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17645"
+    },
+    {
+     "date": "2026-10-31",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18005"
+    }
+   ],
+   "english": false,
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "title": "Tanztag Rhein-Main 2026",
+   "title_en": "Rhine-Main Dance Day",
+   "category": "festival",
+   "date": "2026-10-31",
+   "time": "10:00",
+   "venue": "Hessisches Staatstheater & venues across the region",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Region-wide day of dance with performances, open classes and workshops at venues in Wiesbaden, Darmstadt, Frankfurt, Hanau and more. Pay what you want, no registration needed (limited places).",
+   "price": "Pay what you want",
+   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/tanztag-rhein-main-2026/2398/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/tanztag-rhein-main-2026/2398/",
+   "english": false,
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "title": "Staatsorchester meets ... HALLOWEEN",
+   "title_en": "State Orchestra meets Halloween – spooky concert + party",
+   "category": "classical",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Saint-Saëns' Danse macabre, HK Gruber's Frankenstein!, and Herrmann's Psycho and Vertigo suites with poetry-slam texts – followed by a Halloween get-together with DJ and bar in the Glashaus.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21182",
+   "source": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/staatsorchester-meets-halloween",
+   "english": false
+  },
+  {
+   "title": "Debüt: Petar Pejčić, Violoncello",
+   "title_en": "Debut recital: cellist Petar Pejčić",
+   "category": "classical",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Afternoon debut recital by young cellist Petar Pejčić in the Alte Oper's 'Debüt' series.",
+   "price": "€21",
+   "url": "https://www.alteoper.de/en/programme/petar-pejcic-violoncello/18869",
+   "source": "https://www.alteoper.de/en/programme/petar-pejcic-violoncello/18869",
+   "english": false
+  },
+  {
+   "title": "Staatskapelle Berlin – Christian Thielemann",
+   "title_en": "Berlin Staatskapelle & Thielemann: Strauss Alpine Symphony",
+   "category": "classical",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "All-Strauss programme: Christian Thielemann conducts the Staatskapelle Berlin in the Four Last Songs (soprano Camilla Nylund) and the Alpine Symphony.",
+   "price": "€30–130",
+   "url": "https://www.alteoper.de/en/programme/staatskapelle-berlin/18955",
+   "source": "https://www.alteoper.de/en/programme/staatskapelle-berlin/18955",
+   "english": false
+  },
+  {
+   "title": "Mendelssohns Geniestreich – Kammermusik der Orchesterakademie",
+   "title_en": "Mendelssohn's Stroke of Genius – academy chamber concert",
+   "category": "classical",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "The hr-Sinfonieorchester's orchestra academy plays chamber music by Farrenc, Borodin, de Falla, Yun, Ligeti and Mendelssohn.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523283",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/mendelssohns-geniestreich,kammermusik-mendelssohns-geniestreich-100.html",
+   "english": false
+  },
+  {
+   "title": "Tosca (Puccini)",
+   "title_en": "Tosca – opera by Puccini",
+   "category": "classical",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Puccini's political thriller-opera in three acts, with the Hessisches Staatsorchester in the pit.",
+   "price": "€16–116",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/tosca/2202/",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "time": "18:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003"
+    },
+    {
+     "date": "2026-11-22",
+     "time": "18:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17994"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Liederabend: Kelsey Lauritano (Mezzosopran) / Alden Gatt (Klavier)",
+   "title_en": "Song recital: mezzo-soprano Kelsey Lauritano",
+   "category": "classical",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Ensemble member Kelsey Lauritano, acclaimed as Dorabella and Cherubino, gives an intimate song recital with pianist Alden Gatt.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16215",
+   "source": "https://oper-frankfurt.de/de/spielplan/kelsey-lauritano/?id_datum=4753",
+   "english": false
+  },
+  {
+   "title": "Panorama Ciego – Forum N",
+   "title_en": "Panorama Ciego – contemporary music",
+   "category": "classical",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "New-music evening with percussionist Christoph Sietzen: a world-premiere percussion concerto by Bernd Richard Deutsch plus Zimmermann, Mundry and Ammann.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523323",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/panorama-ciego,forum-n-panorama-ciego-100.html",
+   "english": false
+  },
+  {
+   "title": "Nachtträume (Hessisches Staatsballett)",
+   "title_en": "Night Dreams – ballet",
+   "category": "general",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Evening-length dance production by the Hessisches Staatsballett on the main stage.",
+   "price": "€10–80",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17633",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17633"
+    },
+    {
+     "date": "2026-11-07",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18006"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18059"
+    }
+   ],
+   "english": false,
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "title": "2. Kammerkonzert in der Synagoge",
+   "title_en": "2nd Chamber Concert in the Synagogue – Remembering the November Pogroms",
+   "category": "classical",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "venue": "Synagoge Mainz-Weisenau",
+   "city": "Mainz",
+   "address": "Synagoge Mainz-Weisenau, Mainz",
+   "description": "Chamber concert by members of the Staatsorchester Mainz in commemoration of the November pogroms of 1938. Free admission.",
+   "price": "Free",
+   "url": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/kammerkonzert-in-der-synagoge",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/november",
+   "english": false
+  },
+  {
+   "title": "Le roi Arthus (Chausson) – Premiere",
+   "title_en": "King Arthur – Chausson opera, Frankfurt premiere (French, English surtitles)",
+   "category": "classical",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "First Frankfurt staging of Ernest Chausson's Wagner-tinged Arthurian opera, conducted by GMD Thomas Guggeis. In French with German and English surtitles.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15963",
+   "source": "https://oper-frankfurt.de/de/spielplan/le-roi-arthus/?id_datum=4828",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15963"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16109"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16110"
+    },
+    {
+     "date": "2026-11-29",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16111"
+    }
+   ],
+   "english": true
+  },
+  {
+   "title": "Freiburger Barockorchester – Mozart & Bach",
+   "title_en": "Freiburg Baroque Orchestra: Mozart & Bach",
+   "category": "classical",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Kristian Bezuidenhout directs the Freiburg Baroque Orchestra from the fortepiano: Mozart's Piano Concerto No. 12, the C-minor Serenade and Bach.",
+   "price": "€33–76",
+   "url": "https://www.alteoper.de/en/programme/freiburger-barockorchester/18898",
+   "source": "https://www.alteoper.de/en/programme/freiburger-barockorchester/18898",
+   "english": false
+  },
+  {
+   "title": "3. Sinfoniekonzert: Spanische Nacht",
+   "title_en": "3rd Symphony Concert: Spanish Night",
+   "category": "classical",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "French composers in love with Spain: Debussy's 'Ibéria', Lalo's Cello Concerto with Maximilian Hornung, music by Josephine Stephenson and Ravel's Boléro, conducted by Geoffrey Paterson. Pre-concert talk 18:45.",
+   "price": "€20–56",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17679",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/3-sinfoniekonzert-26-27/2011/",
+   "english": false
+  },
+  {
+   "title": "Lukas Sternath, Klavier",
+   "title_en": "Piano recital: Lukas Sternath",
+   "category": "classical",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "ARD Competition winner Lukas Sternath plays Schubert's 'Wanderer' Fantasy, Schubert/Liszt songs and Liszt's Années de pèlerinage (Italie).",
+   "price": "€28–56",
+   "url": "https://www.alteoper.de/en/programme/lukas-sternath-klavier/18837",
+   "source": "https://www.alteoper.de/en/programme/lukas-sternath-klavier/18837",
+   "english": false
+  },
+  {
+   "title": "hr-Sinfonieorchester: All'ungherese – Große Reihe",
+   "title_en": "Frankfurt Radio Symphony: Brahms Piano Concerto 2 & Bartók",
+   "category": "classical",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Elim Chan conducts the Frankfurt Radio Symphony with pianist Beatrice Rana: Brahms's Piano Concerto No. 2 and Bartók's Concerto for Orchestra.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2522637",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/allungherese,grosse-reihe-all-ungherese-100.html",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2522637"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "20:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2522647"
+    }
+   ]
+  },
+  {
+   "title": "Hänsel und Gretel (Humperdinck)",
+   "title_en": "Hansel and Gretel – Humperdinck opera (English surtitles)",
+   "category": "classical",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Seasonal revival of Humperdinck's fairy-tale opera, a pre-Christmas classic. German with German and English surtitles.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16016",
+   "source": "https://oper-frankfurt.de/de/spielplan/haensel-und-gretel_5/?id_datum=4835",
+   "dates": [
+    {
+     "date": "2026-11-13",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16016"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16017"
+    },
+    {
+     "date": "2026-11-22",
+     "time": "15:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16018"
+    }
+   ],
+   "english": true
+  },
+  {
+   "title": "3. Sinfoniekonzert: Energy Concert",
+   "title_en": "3rd Symphony Concert: 'Energy Concert' – Gershwin, Milhaud, Kapustin",
+   "category": "classical",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Jazz meets orchestra: Milhaud's 'La Création du monde', Kapustin's Piano Concerto No. 5, Rudi Stephan's 'Musik für Orchester' and Gershwin's Rhapsody in Blue in the original jazz-band version.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21098",
+   "source": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/3-sinfoniekonzert",
+   "dates": [
+    {
+     "date": "2026-11-13",
+     "time": "20:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21098"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "20:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21103"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Concertgebouworkest – Klaus Mäkelä: Mahler 7",
+   "title_en": "Royal Concertgebouw Orchestra & Mäkelä: Mahler Symphony No. 7",
+   "category": "classical",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "The Royal Concertgebouw Orchestra with its chief-designate Klaus Mäkelä in Mahler's colourful Symphony No. 7. Free pre-concert seminar at 18:30.",
+   "price": "€37–150",
+   "url": "https://www.alteoper.de/en/programme/concertgebouworkest/18848",
+   "source": "https://www.alteoper.de/en/programme/concertgebouworkest/18848",
+   "english": false
+  },
+  {
+   "title": "3. Sinfoniekonzert (Museumskonzert): Wege zu Bruckner",
+   "title_en": "Frankfurt Opera & Museum Orchestra: Paths to Bruckner (Symphony No. 4 'Romantic')",
+   "category": "classical",
+   "date": "2026-11-15",
+   "time": "11:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Thomas Guggeis and soprano Anna Prohaska trace a line from Hildegard von Bingen, Bach (orch. Webern), Mozart and Schubert to Bruckner's 'Romantic' Fourth Symphony.",
+   "price": "€37–77",
+   "url": "https://www.frankfurtticket.de/tickets/18113.76597",
+   "source": "https://oper-frankfurt.de/de/spielplan/3-sinfoniekonzert_2/?id_datum=4762",
+   "dates": [
+    {
+     "date": "2026-11-15",
+     "time": "11:00",
+     "url": "https://www.frankfurtticket.de/tickets/18113.76597"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "19:30",
+     "url": "https://www.frankfurtticket.de/tickets/18113.76606"
+    }
+   ],
+   "english": false
+  },
+  {
+   "title": "Frauen im Fokus – Kammerflimmern",
+   "title_en": "Women in Focus – string quartets",
+   "category": "classical",
+   "date": "2026-11-17",
+   "time": "20:30",
+   "venue": "Internationales Theater Frankfurt",
+   "city": "Frankfurt",
+   "address": "Internationales Theater Frankfurt, Frankfurt am Main",
+   "description": "Relaxed late chamber concert by hr-Sinfonieorchester string players: quartets by Grażyna Bacewicz, Emilie Mayer and Beethoven.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2547555",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/frauen-im-fokus,kammermusik-frauen-im-fokus-100.html",
+   "english": false
+  },
+  {
+   "title": "Wassermusik – Barock+",
+   "title_en": "Water Music – baroque concert",
+   "category": "classical",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Jean-Christophe Spinosi conducts baroque concertos by Vivaldi and Telemann and excerpts from Handel's Water Music.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523106",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/wassermusik-,barock-plus-wassermusik-100.html",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523106"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "20:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523108"
+    }
+   ]
+  },
+  {
+   "title": "Behind the Scenes + Branford Marsalis & Dianne Reeves celebrate John Coltrane",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Grammy winners Branford Marsalis (with his quartet) and Dianne Reeves celebrate Coltrane's 100th birthday. Preceded at 19:00 by the English-language 'Behind the Scenes' talk for international guests, with a jazz chill-out afterwards.",
+   "price": "€56–86",
+   "url": "https://www.alteoper.de/en/programme/branford-marsalis-dianne-reeves-celebrate-john-coltrane/18880",
+   "source": "https://www.alteoper.de/en/programme/branford-marsalis-dianne-reeves-celebrate-john-coltrane/18880",
+   "english": true,
+   "tags": [
+    "jazz",
+    "expat"
+   ]
+  },
+  {
+   "title": "3. Kammerkonzert: Cello a quattro",
+   "title_en": "3rd Chamber Concert: Four Cellos",
+   "category": "classical",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "venue": "Hessisches Staatstheater – Foyer Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Sunday matinee of chamber music for cello quartet played by musicians of the Hessisches Staatsorchester in the theatre foyer.",
+   "price": "€16",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18351",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/3-kammerkonzert-26-27/2010/",
+   "english": false
+  },
+  {
+   "title": "Blechpartie – Frankfurt Radio Brass",
+   "title_en": "Brass Party – brass quintet",
+   "category": "classical",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Brass quintet of the hr-Sinfonieorchester: Bach's Toccata and Fugue in D minor arranged for brass, Schwertsik, Kerry Turner and Crespo's Suite Americana.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523284",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/blechpartie,kammermusik-blechpartie-100.html",
+   "english": false
+  },
+  {
+   "title": "Orchestre des Champs-Élysées",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "The French period-instrument orchestra in the Alte Oper's great hall; also bookable as a package with an afternoon programme at the German Architecture Museum.",
+   "price": "from €30",
+   "url": "https://www.alteoper.de/en/programme/orchestre-des-champs-elysees/18841",
+   "source": "https://www.alteoper.de/en/programme/orchestre-des-champs-elysees/18841",
+   "english": false
+  },
+  {
+   "title": "Coriolan – Auftakt (Beethoven 200)",
+   "title_en": "Coriolan – Beethoven 7 & Sibelius Violin Concerto",
+   "category": "classical",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Eva Ollikainen conducts Beethoven's Coriolan Overture and Seventh Symphony and Sibelius's Violin Concerto with Clara-Jumi Kang.",
+   "price": "",
+   "url": "https://www.hr-ticketcenter.de/tickets--/e2523119",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/coriolan,auftakt-coriolan-100.html",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523119"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "20:00",
+     "url": "https://www.hr-ticketcenter.de/tickets--/e2523120"
+    }
+   ]
+  },
+  {
+   "title": "La Bohème (Puccini) – Premiere",
+   "title_en": "La Bohème – opera by Puccini (premiere of new production)",
+   "category": "classical",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Premiere of a new Bohème staged by Götz-Friedrich-Prize winner Aileen Schneider: young artists in poverty, creativity and love. Premiere party afterwards.",
+   "price": "€18–132",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18066",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/boheme-26-27/1934/",
+   "english": false
+  },
+  {
+   "title": "80 Jahre Hessen: Side by Side",
+   "title_en": "80 Years of Hesse: Frankfurt Radio Symphony & youth orchestra side by side",
+   "category": "classical",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "The hr-Sinfonieorchester plays side by side with the Hesse State Youth Symphony Orchestra: Beethoven's Coriolan and Symphony No. 7, Sibelius's Violin Concerto (Clara-Jumi Kang), conductor Eva Ollikainen.",
+   "price": "",
+   "url": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/80-jahre-hessen-side-by-side,konzerte-in-hessen-wiesbaden-side-by-side-100.html",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/80-jahre-hessen-side-by-side,konzerte-in-hessen-wiesbaden-side-by-side-100.html",
+   "english": false
+  },
+  {
+   "title": "Titanic – The Musical (Premiere)",
+   "title_en": "Titanic – The Musical (premiere)",
+   "category": "music",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "Premiere of Maury Yeston and Peter Stone's Tony-winning musical about the maiden voyage of the Titanic.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21254",
+   "source": "https://www.staatstheater-mainz.com/uebersicht/november",
+   "english": false
+  },
+  {
+   "title": "Bach, Weihnachtsoratorium",
+   "title_en": "Bach: Christmas Oratorio",
+   "category": "classical",
+   "date": "2026-11-30",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Bach's Christmas Oratorio in the Alte Oper's great hall.",
+   "price": "from €36",
+   "url": "https://www.alteoper.de/en/programme/bach-weihnachtsoratorium/18900",
+   "source": "https://www.alteoper.de/en/programme/bach-weihnachtsoratorium/18900",
    "english": false
   }
  ]
