@@ -145,6 +145,43 @@
    "english": true
   },
   {
+   "title": "Andrea Chénier (Giordano) – Premiere",
+   "title_en": "Andrea Chénier – verismo opera by Giordano",
+   "category": "classical",
+   "date": "2026-10-03",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Umberto Giordano's passionate French-Revolution opera about the poet André Chénier, in a production taken over from the Deutsche Oper Berlin. Intro 30 min before.",
+   "price": "€15–85",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/"
+    },
+    {
+     "date": "2026-10-25",
+     "time": "18:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/"
+    },
+    {
+     "date": "2026-11-15",
+     "time": "16:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/andrea-chenier.2253/"
+    }
+   ]
+  },
+  {
    "title": "La traviata (Verdi)",
    "title_en": "La traviata – opera by Verdi",
    "category": "classical",
@@ -300,6 +337,24 @@
    "english": true
   },
   {
+   "title": "Thee Sinseers: Love Stories Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-06",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Los Angeles soul band blending classic soul with modern influences; support Eric McEntee.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/32743/thee-sinseers/",
+   "source": "https://www.centralstation-darmstadt.de/event/32743/thee-sinseers/",
+   "english": true,
+   "tags": [
+    "soul"
+   ]
+  },
+  {
    "title": "Zaide (Mozart)",
    "title_en": "Zaide – Mozart singspiel fragment",
    "category": "classical",
@@ -421,6 +476,21 @@
    "english": false
   },
   {
+   "title": "Ecstatic Dance mit Pascal de Lacaze",
+   "title_en": "Ecstatic Dance",
+   "category": "general",
+   "date": "2026-10-10",
+   "time": "18:30",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Free-form dance evening: close your eyes and move to the beat – no steps, no talking, no German needed.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/32939/ecstatic-dance-mit-pascal-de-lacaze/",
+   "source": "https://www.centralstation-darmstadt.de/event/32939/ecstatic-dance-mit-pascal-de-lacaze/",
+   "english": true
+  },
+  {
    "title": "Hoffmanns Erzählungen (Offenbach)",
    "title_en": "The Tales of Hoffmann – opera by Offenbach (new production)",
    "category": "classical",
@@ -488,6 +558,21 @@
      "url": "https://www.alteoper.de/en/programme/ensemble-modern/18855"
     }
    ]
+  },
+  {
+   "title": "Soli fan tutti – 2. Konzert",
+   "title_en": "Chamber concert (Sunday matinee)",
+   "category": "classical",
+   "date": "2026-10-11",
+   "time": "11:00",
+   "venue": "Staatstheater Darmstadt – Foyer Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Sunday-morning chamber music by members of the Staatsorchester Darmstadt: Elgar, Shostakovich's String Quartet No. 7, Brahms's Piano Trio No. 2 and Mendelssohn's Piano Sextet.",
+   "price": "€16",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/soli-fan-tutti-2-konzert-26-2027.2325/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/soli-fan-tutti-2-konzert-26-2027.2325/",
+   "english": false
   },
   {
    "title": "Falstaff (Verdi)",
@@ -572,6 +657,24 @@
     }
    ],
    "english": true
+  },
+  {
+   "title": "1000mods: Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-13",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Greek heavy-rock band known for thundering riffs and energetic live shows; support Grim Rhythm.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/31655/1000mods-tour-2026/",
+   "source": "https://www.centralstation-darmstadt.de/event/31655/1000mods-tour-2026/",
+   "english": false,
+   "tags": [
+    "rock"
+   ]
   },
   {
    "title": "Alte Oper Nights – Urban Vibe Festival",
@@ -661,6 +764,38 @@
     }
    ],
    "english": true
+  },
+  {
+   "title": "Cavalleria rusticana / Pagliacci",
+   "title_en": "Cav & Pag – opera double bill",
+   "category": "classical",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "The classic verismo double bill: Mascagni's Cavalleria rusticana and Leoncavallo's Pagliacci. Intro 30 min before.",
+   "price": "€15–85",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/cavalleria-rusticana-pagliacci.2257/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/cavalleria-rusticana-pagliacci.2257/",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/cavalleria-rusticana-pagliacci.2257/"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/cavalleria-rusticana-pagliacci.2257/"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/cavalleria-rusticana-pagliacci.2257/"
+    }
+   ]
   },
   {
    "title": "2. Sinfoniekonzert: Vom Schatten zum Licht",
@@ -878,6 +1013,24 @@
    "english": false
   },
   {
+   "title": "Iiro Rantala: TRINITY",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Finnish jazz pianist Iiro Rantala with Kaisa Mäensivu and Morten Lund, reinventing jazz standards.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/28300/iiro-rantala-trinity/",
+   "source": "https://www.centralstation-darmstadt.de/event/28300/iiro-rantala-trinity/",
+   "english": false,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
    "title": "Kakadu Session – Open Stage Live Music",
    "title_en": "Kakadu Session – open-stage live music night",
    "category": "music",
@@ -905,6 +1058,21 @@
    "english": false
   },
   {
+   "title": "Science Slam Darmstadt (Wissenschaft im Rampenlicht)",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Young researchers compete to give the most entertaining short talk about their science; the audience picks the winner. In German; last tickets.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/31107/wissenschaft-im-rampenlicht-science-slam-darmstadt/",
+   "source": "https://www.centralstation-darmstadt.de/event/31107/wissenschaft-im-rampenlicht-science-slam-darmstadt/",
+   "english": false
+  },
+  {
    "title": "DVOŘÁK IN NEW YORK – Benefizkonzert für die Alte Oper",
    "title_en": "Dvořák in New York – benefit concert ('New World' Symphony)",
    "category": "classical",
@@ -918,6 +1086,33 @@
    "url": "https://www.alteoper.de/en/programme/dvorak-in-new-york/18954",
    "source": "https://www.alteoper.de/en/programme/dvorak-in-new-york/18954",
    "english": false
+  },
+  {
+   "title": "Jam Session",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-26",
+   "time": "19:00",
+   "venue": "Staatstheater Darmstadt – BAR der Kammerspiele",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Open jam session in the theatre bar for music fans and anyone who wants to play – pay what you want.",
+   "price": "Pay what you want",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/jam-session.1889/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/jam-session.1889/",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "time": "19:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/jam-session.1889/"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "19:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/jam-session.1889/"
+    }
+   ]
   },
   {
    "title": "Der zerbrochne Krug (with English supertitles)",
@@ -977,6 +1172,39 @@
    "price": "€37–150",
    "url": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
    "source": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
+   "english": false
+  },
+  {
+   "title": "Lizz Wright: Fall 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "The American jazz and soul singer with her fine compositions and a stage presence full of soul.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/29811/lizz-wright-fall-2026/",
+   "source": "https://www.centralstation-darmstadt.de/event/29811/lizz-wright-fall-2026/",
+   "english": true,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
+   "title": "2. Kammerkonzert",
+   "title_en": "2nd Chamber Concert",
+   "category": "classical",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "venue": "Staatstheater Darmstadt – Kleines Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Chamber concert with works by Bernstein, Butting, Saint-Saëns, Brahms, Piazzolla and Gershwin, with the sonic.art saxophone quartet.",
+   "price": "€10–40",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-kammerkonzert.2232/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-kammerkonzert.2232/",
    "english": false
   },
   {
@@ -1070,6 +1298,24 @@
    ]
   },
   {
+   "title": "vinocentralWeinTreffen 2026",
+   "title_en": "Annual wine tasting",
+   "category": "general",
+   "date": "2026-10-31",
+   "time": "12:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Big annual wine tasting with 150+ selected wines from over 30 winemakers from seven countries; two sessions (12:00 and 15:30).",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/33306/vinocentralweintreffen-2026/",
+   "source": "https://www.centralstation-darmstadt.de/event/33306/vinocentralweintreffen-2026/",
+   "english": false,
+   "tags": [
+    "wine"
+   ]
+  },
+  {
    "title": "Staatsorchester meets ... HALLOWEEN",
    "title_en": "State Orchestra meets Halloween – spooky concert + party",
    "category": "classical",
@@ -1083,6 +1329,46 @@
    "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21182",
    "source": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/staatsorchester-meets-halloween",
    "english": false
+  },
+  {
+   "title": "A Chorus Line – Premiere",
+   "title_en": "A Chorus Line – musical",
+   "category": "music",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "New production of the Broadway classic by Marvin Hamlisch and Edward Kleban. The premiere is sold out; further dates in November.",
+   "price": "",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/"
+    },
+    {
+     "date": "2026-11-22",
+     "time": "18:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/"
+    },
+    {
+     "date": "2026-11-28",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/a-chorus-line.2259/"
+    }
+   ],
+   "tags": [
+    "musical"
+   ]
   },
   {
    "title": "Debüt: Petar Pejčić, Violoncello",
@@ -1172,6 +1458,25 @@
    "english": false
   },
   {
+   "title": "Nils Landgren Funk Unit",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Swedish trombonist Nils Landgren celebrates 30+ years of his Funk Unit – Europe's hottest funk.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/32369/nils-landgren-funk-unit/",
+   "source": "https://www.centralstation-darmstadt.de/event/32369/nils-landgren-funk-unit/",
+   "english": false,
+   "tags": [
+    "jazz",
+    "funk"
+   ]
+  },
+  {
    "title": "Panorama Ciego – Forum N",
    "title_en": "Panorama Ciego – contemporary music",
    "category": "classical",
@@ -1222,6 +1527,21 @@
    ]
   },
   {
+   "title": "Joe Jackson & Band: Hope And Fury Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "The British singer-songwriter and his band bring funky grooves and sharp lyrics to the theatre's main stage (a Centralstation guest show). Listed as sold out – check for returns.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/29356/joe-jackson-band-hope-and-fury-tour-2026/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/joe-jackson-band-hope-and-fury-tour-2026.2263/",
+   "english": true
+  },
+  {
    "title": "2. Kammerkonzert in der Synagoge",
    "title_en": "2nd Chamber Concert in the Synagogue – Remembering the November Pogroms",
    "category": "classical",
@@ -1235,6 +1555,33 @@
    "url": "https://www.staatstheater-mainz.com/veranstaltungen/konzerte-26-27/kammerkonzert-in-der-synagoge",
    "source": "https://www.staatstheater-mainz.com/uebersicht/november",
    "english": false
+  },
+  {
+   "title": "2. Sinfoniekonzert – Staatsorchester Darmstadt",
+   "title_en": "2nd Symphony Concert: Barber, Bartók, Beethoven",
+   "category": "classical",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "The Staatsorchester Darmstadt plays works by Samuel Barber, Béla Bartók and Beethoven. Pre-concert intro 45 min before.",
+   "price": "€15–70",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-sinfoniekonzert.2233/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-sinfoniekonzert.2233/",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "time": "11:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-sinfoniekonzert.2233/"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "20:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-sinfoniekonzert.2233/"
+    }
+   ]
   },
   {
    "title": "Le roi Arthus (Chausson) – Premiere",
@@ -1274,6 +1621,24 @@
    "english": true
   },
   {
+   "title": "Curtis Stigers: Songs from my kitchen 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "The American singer, songwriter and saxophonist returns after a sold-out first show. Last tickets.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/30529/curtis-stigers-songs-from-my-kitchen-2026/",
+   "source": "https://www.centralstation-darmstadt.de/event/30529/curtis-stigers-songs-from-my-kitchen-2026/",
+   "english": true,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
    "title": "Freiburger Barockorchester – Mozart & Bach",
    "title_en": "Freiburg Baroque Orchestra: Mozart & Bach",
    "category": "classical",
@@ -1289,6 +1654,24 @@
    "english": false
   },
   {
+   "title": "Emil Brandqvist Trio",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Swedish jazz trio on tour with a new album after reaching No. 2 in the German jazz charts.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/28033/emil-brandqvist-trio/",
+   "source": "https://www.centralstation-darmstadt.de/event/28033/emil-brandqvist-trio/",
+   "english": false,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
    "title": "3. Sinfoniekonzert: Spanische Nacht",
    "title_en": "3rd Symphony Concert: Spanish Night",
    "category": "classical",
@@ -1302,6 +1685,36 @@
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17679",
    "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/3-sinfoniekonzert-26-27/2011/",
    "english": false
+  },
+  {
+   "title": "Tanzfestival Rhein-Main: Firmamento – Marcos Morau / La Veronal",
+   "title_en": "",
+   "category": "festival",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Kleines Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Spanish company La Veronal and choreographer Marcos Morau in 'Firmamento', part of the Rhine-Main Dance Festival. Wordless – no German needed.",
+   "price": "€10–40",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/firmamento-marcos-morau-la-veronal.2407/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/firmamento-marcos-morau-la-veronal.2407/",
+   "english": true,
+   "dates": [
+    {
+     "date": "2026-11-11",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/firmamento-marcos-morau-la-veronal.2407/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/firmamento-marcos-morau-la-veronal.2407/"
+    }
+   ],
+   "tags": [
+    "dance"
+   ]
   },
   {
    "title": "Lukas Sternath, Klavier",
@@ -1378,6 +1791,24 @@
    "english": true
   },
   {
+   "title": "Tanzfestival Rhein-Main: Encantado – Lia Rodrigues Companhia de Danças",
+   "title_en": "",
+   "category": "festival",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Brazilian choreographer Lia Rodrigues' acclaimed company at the Rhine-Main Dance Festival; audience talk at 18:30.",
+   "price": "€15–60",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/encantado-lia-rodrigues-companhia-de-dancas.2382/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/encantado-lia-rodrigues-companhia-de-dancas.2382/",
+   "english": true,
+   "tags": [
+    "dance"
+   ]
+  },
+  {
    "title": "3. Sinfoniekonzert: Energy Concert",
    "title_en": "3rd Symphony Concert: 'Energy Concert' – Gershwin, Milhaud, Kapustin",
    "category": "classical",
@@ -1403,6 +1834,24 @@
     }
    ],
    "english": false
+  },
+  {
+   "title": "Tanzfestival Rhein-Main: Rain Maiden – Danza Contemporánea de Cuba",
+   "title_en": "",
+   "category": "festival",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Cuba's leading contemporary dance company closes the festival week in Darmstadt (warm-up in the foyer at 19:00, closing party afterwards).",
+   "price": "€15–60",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/rain-maiden-danza-contemporanea-de-cuba.2383/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/rain-maiden-danza-contemporanea-de-cuba.2383/",
+   "english": true,
+   "tags": [
+    "dance"
+   ]
   },
   {
    "title": "Concertgebouworkest – Klaus Mäkelä: Mahler 7",
@@ -1447,6 +1896,39 @@
    "english": false
   },
   {
+   "title": "Soli fan tutti – 3. Konzert",
+   "title_en": "Chamber concert (Sunday matinee)",
+   "category": "classical",
+   "date": "2026-11-15",
+   "time": "11:00",
+   "venue": "Staatstheater Darmstadt – Foyer Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Sunday chamber matinee: Brett Dean, Bacewicz, Holst's Sextet and Richard Strauss's Capriccio prelude and Metamorphosen (version for seven strings).",
+   "price": "€16",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/soli-fan-tutti-3-konzert-26-2027.2326/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/soli-fan-tutti-3-konzert-26-2027.2326/",
+   "english": false
+  },
+  {
+   "title": "Nils Petter Molvær Trio",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "venue": "Centralstation Darmstadt",
+   "city": "Darmstadt",
+   "address": "Im Carree 1, 64283 Darmstadt",
+   "description": "Norwegian trumpeter and 'nu jazz' pioneer who was among the first to bring electronics into jazz.",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/29146/nils-petter-molvaer-trio/",
+   "source": "https://www.centralstation-darmstadt.de/event/29146/nils-petter-molvaer-trio/",
+   "english": false,
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
    "title": "Frauen im Fokus – Kammerflimmern",
    "title_en": "Women in Focus – string quartets",
    "category": "classical",
@@ -1489,6 +1971,21 @@
    ]
   },
   {
+   "title": "Die Krönung der Poppea (L'incoronazione di Poppea)",
+   "title_en": "The Coronation of Poppea – Monteverdi",
+   "category": "classical",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "venue": "Staatstheater Darmstadt – Kleines Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Revival of Monteverdi's baroque opera of ambition and desire at Nero's court, sung in Italian with German surtitles (age 16+).",
+   "price": "€10–61",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/die-kroenung-der-poppea-l-incoronazione-di-poppea.2063/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/die-kroenung-der-poppea-l-incoronazione-di-poppea.2063/",
+   "english": false
+  },
+  {
    "title": "Behind the Scenes + Branford Marsalis & Dianne Reeves celebrate John Coltrane",
    "title_en": "",
    "category": "music",
@@ -1506,6 +2003,21 @@
     "jazz",
     "expat"
    ]
+  },
+  {
+   "title": "Tina Dico: Live 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "The Danish singer-songwriter presents her new album and favourites on her autumn tour (Centralstation guest show at the Staatstheater).",
+   "price": "",
+   "url": "https://www.centralstation-darmstadt.de/event/29383/tina-dico-live-2026/",
+   "source": "https://www.centralstation-darmstadt.de/event/29383/tina-dico-live-2026/",
+   "english": true
   },
   {
    "title": "3. Kammerkonzert: Cello a quattro",
@@ -1580,6 +2092,21 @@
    ]
   },
   {
+   "title": "3. Kammerkonzert: Schütz – Historia Nativitatis",
+   "title_en": "3rd Chamber Concert: Schütz Christmas Story",
+   "category": "classical",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "venue": "Staatstheater Darmstadt – Kleines Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "A pre-Christmas baroque feast built around Heinrich Schütz's Christmas Story (Historia der Geburt Jesu Christi).",
+   "price": "",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/3-kammerkonzert.2234/",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/3-kammerkonzert.2234/",
+   "english": false
+  },
+  {
    "title": "La Bohème (Puccini) – Premiere",
    "title_en": "La Bohème – opera by Puccini (premiere of new production)",
    "category": "classical",
@@ -1607,6 +2134,21 @@
    "price": "",
    "url": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/80-jahre-hessen-side-by-side,konzerte-in-hessen-wiesbaden-side-by-side-100.html",
    "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/80-jahre-hessen-side-by-side,konzerte-in-hessen-wiesbaden-side-by-side-100.html",
+   "english": false
+  },
+  {
+   "title": "Deutsche Philharmonie Merck: Aus der neuen Welt",
+   "title_en": "Deutsche Philharmonie Merck: 'From the New World'",
+   "category": "classical",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Symphony concert 'From the New World' by the Darmstadt-based Deutsche Philharmonie Merck in the Staatstheater's main hall.",
+   "price": "",
+   "url": "https://www.staatstheater-darmstadt.de/spielplan/",
+   "source": "https://www.staatstheater-darmstadt.de/spielplan/",
    "english": false
   },
   {
