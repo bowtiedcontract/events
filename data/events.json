@@ -2,6 +2,36 @@
  "last_updated": "Sun 27 Sep 2026, 23:00 (Berlin time)",
  "events": [
   {
+   "title": "Spiritbox – Tsunami Sea UK + EU Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "venue": "Jahrhunderthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+   "description": "Canadian metalcore band Spiritbox in the Kuppelsaal.",
+   "price": "",
+   "url": "https://www.jahrhunderthalle.de/programm/spiritbox/30-09-2026/19-00",
+   "source": "https://www.jahrhunderthalle.de/programm",
+   "english": true
+  },
+  {
+   "title": "Flohmarkt an der Jahrhunderthalle",
+   "title_en": "Flea market at the Jahrhunderthalle",
+   "category": "general",
+   "date": "2026-10-01",
+   "time": "07:00",
+   "venue": "Jahrhunderthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+   "description": "Flea market on the Jahrhunderthalle car park – browse and bargain-hunt.",
+   "price": "",
+   "url": "https://www.jahrhunderthalle.de/programm/flohmarkt/01-10-2026/07-00",
+   "source": "https://www.jahrhunderthalle.de/programm",
+   "english": false
+  },
+  {
    "title": "Mazeppa (Tschaikowski)",
    "title_en": "Mazeppa – Tchaikovsky opera (Russian, English surtitles)",
    "category": "classical",
@@ -272,6 +302,21 @@
    "english": false
   },
   {
+   "title": "Anastacia – #NTK26 Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-03",
+   "time": "20:00",
+   "venue": "Jahrhunderthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+   "description": "US pop-soul singer Anastacia ('I'm Outta Love') in the Kuppelsaal.",
+   "price": "",
+   "url": "https://www.jahrhunderthalle.de/programm/anastacia/03-10-2026/20-00",
+   "source": "https://www.jahrhunderthalle.de/programm",
+   "english": true
+  },
+  {
    "title": "2. Kammerkonzert",
    "title_en": "2nd Chamber Concert",
    "category": "classical",
@@ -428,6 +473,21 @@
    "tags": [
     "tribute"
    ]
+  },
+  {
+   "title": "The Sisters of Mercy",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-04",
+   "time": "20:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "Goth-rock legends The Sisters of Mercy at Frankfurt's classic club (sold out; check resale).",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/the-sisters-of-mercy-frankfurt-batschkapp-2026-10-04-200000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
   },
   {
    "title": "Thee Sinseers: Love Stories Tour 2026",
@@ -782,6 +842,21 @@
    "english": true
   },
   {
+   "title": "Tarja – Frisson Live 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "Finnish symphonic-metal soprano Tarja Turunen (ex-Nightwish) on her Frisson tour.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/tarja-frankfurt-batschkapp-2026-10-13-190000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
+  },
+  {
    "title": "1000mods: Tour 2026",
    "title_en": "",
    "category": "music",
@@ -1016,6 +1091,21 @@
    ]
   },
   {
+   "title": "AMON AMARTH – The Allfather Awakens 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-17",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Swedish Viking-metal band Amon Amarth brings its big stage show to the Festhalle.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false
+  },
+  {
    "title": "2. Sinfoniekonzert (Museumskonzert): Mahler – Auferstehungssinfonie",
    "title_en": "Frankfurt Opera & Museum Orchestra: Mahler Symphony No. 2 'Resurrection'",
    "category": "classical",
@@ -1068,6 +1158,24 @@
     }
    ],
    "english": false
+  },
+  {
+   "title": "The World of Hans Zimmer – A New Dimension",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-10-18",
+   "time": "19:30",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Large orchestra and soloists perform Hans Zimmer's film scores (Gladiator, Dune, Interstellar…) in an arena show.",
+   "price": "",
+   "url": "https://www.eventim.de/event/the-world-of-hans-zimmer-a-new-dimension-festhalle-frankfurt-19959793/",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen/worldofhanszimmer.html",
+   "english": false,
+   "tags": [
+    "film music"
+   ]
   },
   {
    "title": "Lieder-Soiree",
@@ -1155,6 +1263,21 @@
    "url": "https://www.hr-ticketcenter.de/tickets--/e2547637",
    "source": "https://www.alteoper.de/en/programme/titan/18977",
    "english": false
+  },
+  {
+   "title": "Tito & Tarantula – Best of Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-21",
+   "time": "19:30",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "Tito Larriva's Latin-rock band from 'From Dusk Till Dawn', part of Batschkapp's 50th-anniversary programme.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/tito-und-tarantula-frankfurt-batschkapp-2026-10-21-193000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
   },
   {
    "title": "Martina Gedeck & Sebastian Knauer: American Dream – Erinnerungen an George Gershwin",
@@ -1319,6 +1442,21 @@
    "english": false
   },
   {
+   "title": "Mainova Frankfurt Marathon & Marathon-Mall",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Frankfurt's big-city marathon, with the marathon mall at the Festhalle – run it or cheer along the route.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false
+  },
+  {
    "title": "Jam Session",
    "title_en": "",
    "category": "music",
@@ -1406,6 +1544,24 @@
    "english": false
   },
   {
+   "title": "Disney in Concert 2026 – Die Jubiläumstournee",
+   "title_en": "Disney in Concert 2026 – anniversary tour",
+   "category": "classical",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Hollywood Sound Orchestra and singers perform Disney songs and scores on the 10th-anniversary tour.",
+   "price": "",
+   "url": "https://www.eventim.de/event/disney-in-concert-2026-wishes-and-wonders-mit-dem-hollywood-sound-orchestra-festhalle-frankfurt-19905372/",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen/disneyinconcert26.html",
+   "english": false,
+   "tags": [
+    "film music"
+   ]
+  },
+  {
    "title": "Lizz Wright: Fall 2026",
    "title_en": "",
    "category": "music",
@@ -1439,6 +1595,21 @@
    "english": false
   },
   {
+   "title": "Danko Jones",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "Canadian hard-rock trio Danko Jones live.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/danko-jones-frankfurt-batschkapp-2026-10-29-200000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
+  },
+  {
    "title": "Kakadu Kneipenchor – Mitsingen!",
    "title_en": "Pub choir – sing along!",
    "category": "general",
@@ -1464,6 +1635,21 @@
     }
    ],
    "english": false
+  },
+  {
+   "title": "Placebo – 30th Anniversary Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "British alt-rock band Placebo celebrates 30 years.",
+   "price": "",
+   "url": "https://www.eventim.de/artist/placebo/",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen/placebo.html",
+   "english": true
   },
   {
    "title": "SWR Kultur Internationale Pianisten: Yulianna Avdeeva",
@@ -1882,6 +2068,21 @@
    "english": false
   },
   {
+   "title": "Deep Purple",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Hard-rock legends Deep Purple ('Smoke on the Water') live at the Festhalle.",
+   "price": "",
+   "url": "https://www.eventim.de/event/deep-purple-festhalle-frankfurt-20971802/",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen/deeppurple.html",
+   "english": true
+  },
+  {
    "title": "Nachtträume (Hessisches Staatsballett)",
    "title_en": "Night Dreams – ballet",
    "category": "general",
@@ -2200,6 +2401,21 @@
    "english": false
   },
   {
+   "title": "Gloryhammer",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "Scottish-Swiss power-metal band Gloryhammer and their tongue-in-cheek sci-fi fantasy show.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/gloryhammer-frankfurt-batschkapp-2026-11-12-190000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
+  },
+  {
    "title": "hr-Sinfonieorchester: All'ungherese – Große Reihe",
    "title_en": "Frankfurt Radio Symphony: Brahms Piano Concerto 2 & Bartók",
    "category": "classical",
@@ -2298,6 +2514,21 @@
      "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16018"
     }
    ],
+   "english": true
+  },
+  {
+   "title": "Heaven 17",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "British synth-pop pioneers Heaven 17 ('Temptation') live.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/heaven-17-frankfurt-batschkapp-2026-11-13-193000",
+   "source": "https://www.batschkapp.net/batschkapp",
    "english": true
   },
   {
@@ -2479,6 +2710,21 @@
    "url": "https://ztix.de/mainz-klassik/events/1-mainzer-meisterkonzert-schicksalssinfonie-1UyShl/tickets",
    "source": "https://www.mainz-klassik.de/alle-meisterkonzerte/istvan-vardai",
    "english": false
+  },
+  {
+   "title": "Eagles of Death Metal",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstrasse 5, 60388 Frankfurt am Main",
+   "description": "US rock'n'roll band Eagles of Death Metal (Jesse Hughes) in concert.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/eagles-of-death-metal-frankfurt-batschkapp-2026-11-15-190000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": true
   },
   {
    "title": "Nils Petter Molvær Trio",
@@ -2698,6 +2944,21 @@
    "english": false
   },
   {
+   "title": "Bob Dylan – Rough and Rowdy Ways",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-22",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Bob Dylan continues his Rough and Rowdy Ways tour in Frankfurt.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": true
+  },
+  {
    "title": "Kid Kapichi – Down The Rabbit Hole",
    "title_en": "",
    "category": "music",
@@ -2797,6 +3058,21 @@
    "price": "€18–132",
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18066",
    "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/boheme-26-27/1934/",
+   "english": false
+  },
+  {
+   "title": "Der Nussknacker – Grand Classic Ballet",
+   "title_en": "The Nutcracker – Grand Classic Ballet",
+   "category": "classical",
+   "date": "2026-11-28",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Tchaikovsky's Nutcracker on the Grand Classic Ballet's traditional winter tour (Swan Lake also plays the same day).",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
    "english": false
   },
   {
