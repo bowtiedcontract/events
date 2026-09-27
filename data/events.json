@@ -81,6 +81,21 @@
    "english": true
   },
   {
+   "title": "Wiener Klassik | Beethoven – der Titan",
+   "title_en": "Viennese Classics: Beethoven – the Titan",
+   "category": "classical",
+   "date": "2026-10-01",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Klassische Philharmonie Bonn opens its Beethoven-anniversary season: the Prometheus overture, Mozart's 'Prague' Symphony and Beethoven's Symphony No. 2.",
+   "price": "€35–55",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168668",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
+  },
+  {
    "title": "Yulianna Avdeeva, Klavier – Appassionata",
    "title_en": "Piano recital: Yulianna Avdeeva",
    "category": "classical",
@@ -158,6 +173,51 @@
     }
    ],
    "english": true
+  },
+  {
+   "title": "Deutschland von oben – Vivaldi: Die Vier Jahreszeiten live",
+   "title_en": "Germany from Above – Vivaldi's Four Seasons live",
+   "category": "classical",
+   "date": "2026-10-02",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Multimedia concert: Vivaldi's Four Seasons played live to aerial footage of Germany from the 'Deutschland von oben' documentary.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
+  },
+  {
+   "title": "Giant Rooks – If Heaven Exists, This Might Be It Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-02",
+   "time": "20:00",
+   "venue": "Jahrhunderthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+   "description": "German indie-rock band Giant Rooks (English-language songs) on their 2026 arena tour, presented by Schlachthof Wiesbaden.",
+   "price": "€64.45",
+   "url": "https://schlachthof-wiesbaden.de/events/giant-rooks-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
+   "title": "Wiesbadener Schallplattenbörse",
+   "title_en": "Wiesbaden Record Fair",
+   "category": "general",
+   "date": "2026-10-03",
+   "time": "11:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Record fair in the Kurhaus colonnades (11:00–16:00) with 30+ exhibitors selling vinyl and other recordings. Good browse on the German Unity holiday.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=166890",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
   },
   {
    "title": "Andrea Chénier (Giordano) – Premiere",
@@ -377,7 +437,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Los Angeles soul band blending classic soul with modern influences; support Eric McEntee.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/32743/thee-sinseers/",
@@ -509,6 +569,21 @@
    "english": false
   },
   {
+   "title": "Turin Brakes – Acoustic Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-08",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "British indie-folk duo Turin Brakes in an intimate acoustic show in the Kesselhaus.",
+   "price": "€38.75",
+   "url": "https://schlachthof-wiesbaden.de/events/turin-brakes-101751",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": true
+  },
+  {
    "title": "Ecstatic Dance mit Pascal de Lacaze",
    "title_en": "Ecstatic Dance",
    "category": "general",
@@ -516,7 +591,7 @@
    "time": "18:30",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Free-form dance evening: close your eyes and move to the beat – no steps, no talking, no German needed.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/32939/ecstatic-dance-mit-pascal-de-lacaze/",
@@ -591,6 +666,21 @@
      "url": "https://www.alteoper.de/en/programme/ensemble-modern/18855"
     }
    ]
+  },
+  {
+   "title": "Erobique – Simply The Best",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-10",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Hamburg disco/electro entertainer Erobique brings his live party show to the main hall.",
+   "price": "€41.75",
+   "url": "https://schlachthof-wiesbaden.de/events/erobique-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
   },
   {
    "title": "Soli fan tutti – 2. Konzert",
@@ -699,7 +789,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Greek heavy-rock band known for thundering riffs and energetic live shows; support Grim Rhythm.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/31655/1000mods-tour-2026/",
@@ -797,6 +887,21 @@
     }
    ],
    "english": true
+  },
+  {
+   "title": "The Animesy im Konzert – Die besten Anime-Songs",
+   "title_en": "The Animesy in concert – the best anime songs",
+   "category": "music",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Concert of the best-loved anime songs and soundtracks.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
   },
   {
    "title": "Cavalleria rusticana / Pagliacci",
@@ -992,6 +1097,36 @@
    "english": false
   },
   {
+   "title": "Baba Zula – 30th Anniversary Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-19",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Istanbul's Turkish psychedelic / oriental dub pioneers celebrate 30 years.",
+   "price": "€29.45",
+   "url": "https://schlachthof-wiesbaden.de/events/baba-zula-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
+   "title": "Café del Mundo – Guitarize The World Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-19",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Virtuoso flamenco/world guitar duo Café del Mundo on tour.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
+  },
+  {
    "title": "Mittagskonzert: Dominik Wagner Kontrabassquartett",
    "title_en": "Lunch concert: Dominik Wagner Double Bass Quartet",
    "category": "classical",
@@ -1116,7 +1251,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Finnish jazz pianist Iiro Rantala with Kaisa Mäensivu and Morten Lund, reinventing jazz standards.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/28300/iiro-rantala-trinity/",
@@ -1161,7 +1296,7 @@
    "time": "19:30",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Young researchers compete to give the most entertaining short talk about their science; the audience picks the winner. In German; last tickets.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/31107/wissenschaft-im-rampenlicht-science-slam-darmstadt/",
@@ -1278,7 +1413,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "The American jazz and soul singer with her fine compositions and a stage presence full of soul.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/29811/lizz-wright-fall-2026/",
@@ -1391,6 +1526,21 @@
    ]
   },
   {
+   "title": "True Collins – Phil Collins & Genesis Tribute Show",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Europe's biggest Phil Collins & Genesis tribute show celebrates 20 years on the road.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=167843",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
+  },
+  {
    "title": "Brings – Tour 2026",
    "title_en": "",
    "category": "music",
@@ -1434,7 +1584,7 @@
    "time": "12:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Big annual wine tasting with 150+ selected wines from over 30 winemakers from seven countries; two sessions (12:00 and 15:30).",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/33306/vinocentralweintreffen-2026/",
@@ -1498,6 +1648,36 @@
    "tags": [
     "musical"
    ]
+  },
+  {
+   "title": "Picture This",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-31",
+   "time": "19:45",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Irish alternative-pop band Picture This, support from Marc Atlas and Dreamboys The Band.",
+   "price": "€42.65",
+   "url": "https://schlachthof-wiesbaden.de/events/picture-this-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": true
+  },
+  {
+   "title": "VIVALDI – Die Vier Jahreszeiten | Philharmonie der Solisten",
+   "title_en": "Vivaldi – The Four Seasons",
+   "category": "classical",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Chamber orchestra of professional soloists led by Vladik Otaryan plays Vivaldi's Four Seasons.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
   },
   {
    "title": "Debüt: Petar Pejčić, Violoncello",
@@ -1572,6 +1752,51 @@
    "english": false
   },
   {
+   "title": "The Notwist",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Influential German indie-electronica band The Notwist live in the main hall.",
+   "price": "€42.65",
+   "url": "https://schlachthof-wiesbaden.de/events/notwist-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
+   "title": "Triggerfinger",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Belgian alternative/indie-rock trio Triggerfinger in the Kesselhaus.",
+   "price": "€35.00",
+   "url": "https://schlachthof-wiesbaden.de/events/triggerfinger-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
+   "title": "Wiener Klassik | Wien, Wien nur du allein!",
+   "title_en": "Viennese Classics: Vienna, only you",
+   "category": "classical",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Klassische Philharmonie Bonn brings Viennese waltzes and Ländler from Schubert to Johann Strauss plus Richard Strauss's Duet-Concertino for clarinet and bassoon.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168665",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
+  },
+  {
    "title": "Liederabend: Kelsey Lauritano (Mezzosopran) / Alden Gatt (Klavier)",
    "title_en": "Song recital: mezzo-soprano Kelsey Lauritano",
    "category": "classical",
@@ -1594,7 +1819,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Swedish trombonist Nils Landgren celebrates 30+ years of his Funk Unit – Europe's hottest funk.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/32369/nils-landgren-funk-unit/",
@@ -1737,6 +1962,21 @@
    "english": false
   },
   {
+   "title": "Gentleman – Gratitude Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Germany's reggae star Gentleman on his Gratitude tour.",
+   "price": "€57.30",
+   "url": "https://schlachthof-wiesbaden.de/events/gentleman-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
    "title": "2. Kammerkonzert in der Synagoge",
    "title_en": "2nd Chamber Concert in the Synagogue – Remembering the November Pogroms",
    "category": "classical",
@@ -1777,6 +2017,21 @@
      "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/2-sinfoniekonzert.2233/"
     }
    ]
+  },
+  {
+   "title": "Vivaldi – Die vier Jahreszeiten",
+   "title_en": "Vivaldi – The Four Seasons",
+   "category": "classical",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Vivaldi's Four Seasons and other favourites with the chamber orchestra of the Neue Philharmonie Hamburg under Tigran Mikaelyan.",
+   "price": "",
+   "url": "https://weltkonzerte-ticketshop.reservix.de/p/reservix/event/2504834",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
   },
   {
    "title": "Le roi Arthus (Chausson) – Premiere",
@@ -1823,7 +2078,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "The American singer, songwriter and saxophonist returns after a sold-out first show. Last tickets.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/30529/curtis-stigers-songs-from-my-kitchen-2026/",
@@ -1856,7 +2111,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Swedish jazz trio on tour with a new album after reaching No. 2 in the German jazz charts.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/28033/emil-brandqvist-trio/",
@@ -1987,6 +2242,33 @@
    "english": false
   },
   {
+   "title": "Eine Hommage an Ludovico Einaudi",
+   "title_en": "A Tribute to Ludovico Einaudi",
+   "category": "music",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Turkish pianist Burak Çebi plays Einaudi's minimalist, neoclassical pieces, including music from 'The Intouchables'.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=166264",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false,
+   "dates": [
+    {
+     "date": "2026-11-13",
+     "time": "17:00",
+     "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=166264"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "20:00",
+     "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=167983"
+    }
+   ]
+  },
+  {
    "title": "Hänsel und Gretel (Humperdinck)",
    "title_en": "Hansel and Gretel – Humperdinck opera (English surtitles)",
    "category": "classical",
@@ -2064,6 +2346,36 @@
    "english": false
   },
   {
+   "title": "Interstellar Overdrive – The Pink Floyd Experience",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Seated Pink Floyd tribute concert in the main hall.",
+   "price": "€28.25",
+   "url": "https://schlachthof-wiesbaden.de/events/interstellar-overdrive-105573",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false
+  },
+  {
+   "title": "Rock the Opera – Pink Floyd, Queen, Deep Purple, AC/DC",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Rock classics by Pink Floyd, Queen, Deep Purple and AC/DC in orchestral-operatic arrangements.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
+  },
+  {
    "title": "Tanzfestival Rhein-Main: Rain Maiden – Danza Contemporánea de Cuba",
    "title_en": "",
    "category": "festival",
@@ -2094,6 +2406,21 @@
    "price": "€37–150",
    "url": "https://www.alteoper.de/en/programme/concertgebouworkest/18848",
    "source": "https://www.alteoper.de/en/programme/concertgebouworkest/18848",
+   "english": false
+  },
+  {
+   "title": "Madsen – SMILE 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "German indie-rock band Madsen with special guest Nikra.",
+   "price": "€48.95",
+   "url": "https://schlachthof-wiesbaden.de/events/madsen-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false
   },
   {
@@ -2161,7 +2488,7 @@
    "time": "20:00",
    "venue": "Centralstation Darmstadt",
    "city": "Darmstadt",
-   "address": "Im Carree 1, 64283 Darmstadt",
+   "address": "Im Carree, 64283 Darmstadt",
    "description": "Norwegian trumpeter and 'nu jazz' pioneer who was among the first to bring electronics into jazz.",
    "price": "",
    "url": "https://www.centralstation-darmstadt.de/event/29146/nils-petter-molvaer-trio/",
@@ -2170,6 +2497,21 @@
    "tags": [
     "jazz"
    ]
+  },
+  {
+   "title": "Moneybrother – Germany Tour 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Swedish soul-punk singer Moneybrother live in the Kesselhaus.",
+   "price": "€42.60",
+   "url": "https://schlachthof-wiesbaden.de/events/moneybrother-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": true
   },
   {
    "title": "Frauen im Fokus – Kammerflimmern",
@@ -2281,6 +2623,36 @@
    "english": true
   },
   {
+   "title": "InterWhisky 2026",
+   "title_en": "InterWhisky – international whisky fair",
+   "category": "general",
+   "date": "2026-11-20",
+   "time": "15:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Germany's oldest whisky fair: exhibitors, masterclasses and tastings (weekend pass available).",
+   "price": "Day ticket €25, weekend €55",
+   "url": "https://event-buddy.de/o/interwhisky",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false
+  },
+  {
+   "title": "Against The Current – Till Death and Back Tour",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "US pop-rock band Against The Current on their European tour.",
+   "price": "€47.60",
+   "url": "https://schlachthof-wiesbaden.de/events/against-the-current-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": true
+  },
+  {
    "title": "3. Kammerkonzert: Cello a quattro",
    "title_en": "3rd Chamber Concert: Four Cellos",
    "category": "classical",
@@ -2326,6 +2698,21 @@
    "english": false
   },
   {
+   "title": "Kid Kapichi – Down The Rabbit Hole",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "UK beat-punk band Kid Kapichi, support from Demob Happy.",
+   "price": "€30.70",
+   "url": "https://schlachthof-wiesbaden.de/events/kid-kapichi-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": true
+  },
+  {
    "title": "Coriolan – Auftakt (Beethoven 200)",
    "title_en": "Coriolan – Beethoven 7 & Sibelius Violin Concerto",
    "category": "classical",
@@ -2353,6 +2740,21 @@
    ]
   },
   {
+   "title": "Jan Lisiecki",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-11-26",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Canadian star pianist Jan Lisiecki in concert at the Kurhaus.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false
+  },
+  {
    "title": "3. Kammerkonzert: Schütz – Historia Nativitatis",
    "title_en": "3rd Chamber Concert: Schütz Christmas Story",
    "category": "classical",
@@ -2365,6 +2767,21 @@
    "price": "",
    "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/3-kammerkonzert.2234/",
    "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/3-kammerkonzert.2234/",
+   "english": false
+  },
+  {
+   "title": "Eluveitie – ÀNV Rising Europe Pt. III",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "venue": "Schlachthof Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Swiss folk-metal band Eluveitie with guests Pain and Wolfheart.",
+   "price": "€55.99",
+   "url": "https://schlachthof-wiesbaden.de/events/Eluveitie-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false
   },
   {
