@@ -1,5 +1,5 @@
 {
- "last_updated": "Sun 27 Sep 2026, 23:48 (Berlin time)",
+ "last_updated": "Mon 28 Sep 2026, 13:23 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -210,23 +210,6 @@
    "english": true,
    "end_date": "2026-11-07",
    "id": "6fc0cb01920d"
-  },
-  {
-   "title": "Brüderchen, komm, tanz mit mir",
-   "title_en": "",
-   "category": "classical",
-   "date": "2026-09-27",
-   "time": "11:00",
-   "venue": "Hessisches Staatstheater – Foyer Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Classical music at Hessisches Staatstheater – Foyer Großes Haus, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/bruederchen-komm-tanz-mit-mir/2248/",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/bruederchen-komm-tanz-mit-mir/2248/",
-   "english": false,
-   "id": "c0b6766ee2f1",
-   "origin": "scraper:staatstheater_wiesbaden"
   },
   {
    "title": "AI & Afterwork: IAMCP BusinessTalk in Frankfurt am Main",
@@ -1545,7 +1528,7 @@
    "description": "Classical music at Hessisches Staatstheater – Wartburg, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "12 €",
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18248",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/drums-and-sticks/2275/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/drums-and-sticks/2275/",
    "english": false,
    "id": "b16e36ade072",
    "dates": [
@@ -3300,7 +3283,7 @@
    "origin": "scraper:batschkapp"
   },
   {
-   "title": "Jassin",
+   "title": "Jassin / Support: Vasil X Too Young",
    "title_en": "",
    "category": "music",
    "date": "2026-10-16",
@@ -3313,7 +3296,7 @@
    "url": "https://schlachthof-wiesbaden.de/events/jassin-2026",
    "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false,
-   "id": "41c9ef4f0377",
+   "id": "8fc7d1290e6b",
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
@@ -3379,7 +3362,7 @@
    "description": "Classical music at Hessisches Staatstheater – Großes Haus, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "10 – 68 €",
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18052",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/alles-liebe/2226/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/alles-liebe/2226/",
    "english": false,
    "id": "5de34e0a2120",
    "dates": [
@@ -5348,8 +5331,8 @@
    "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
    "description": "Concert at Hessisches Staatstheater – Foyer Großes Haus, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/eroeffnungsparty-trm-2026/2397/",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/eroeffnungsparty-trm-2026/2397/",
+   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/eroeffnungsparty-trm-2026/2397/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/eroeffnungsparty-trm-2026/2397/",
    "english": false,
    "id": "265fd8302acd",
    "origin": "scraper:staatstheater_wiesbaden"
@@ -5420,7 +5403,7 @@
    "description": "Classical music at Hessisches Staatstheater – Foyer Großes Haus, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "5 €",
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18369",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/tanztee-brasil-trm/2401/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/tanztee-brasil-trm/2401/",
    "english": false,
    "id": "4e1e6a25fc7a",
    "origin": "scraper:staatstheater_wiesbaden"
@@ -5437,7 +5420,7 @@
    "description": "Classical music at Hessisches Staatstheater – Kunsthaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "14 €",
    "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18367",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/love-letter-trm/2346/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-09/love-letter-trm/2346/",
    "english": false,
    "id": "f83f81462e07",
    "dates": [
@@ -9394,6 +9377,23 @@
    "source": "https://www.alteoper.de/en/programme/bach-weihnachtsoratorium/18900",
    "english": false,
    "id": "44a7058bcdb2"
+  },
+  {
+   "title": "Kodaline",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-11-30",
+   "time": "20:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
+   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/kodaline-frankfurt-batschkapp-2026-11-30-200000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": false,
+   "id": "06996839c2b5",
+   "origin": "scraper:batschkapp"
   }
  ]
 }
