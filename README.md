@@ -2,7 +2,7 @@
 
 A static events dashboard for Wiesbaden, Mainz, Frankfurt, Darmstadt and the wider Rhine-Main area (Rheingau, Offenbach, Bad Homburg, Hanau …). It covers orchestra and classical music, concerts, festivals, tech, business/networking, art and general/social events.
 
-Live site: https://bowtiedcontract.github.io/rhine-main-events/
+Live site: https://bowtiedcontract.github.io/events/
 
 It's a sibling of [english-yoga-wiesbaden](https://github.com/bowtiedcontract/english-yoga-wiesbaden) and uses the same look. It's plain HTML/CSS/JS with no build step, served by GitHub Pages from the `main` branch root.
 
@@ -82,7 +82,7 @@ New events without a description are sent to a cheap chat model that writes 1–
 
 #### Adding the API key
 
-1. Open the repo on GitHub, then **Settings → Secrets and variables → Actions**. Direct link: https://github.com/bowtiedcontract/rhine-main-events/settings/secrets/actions
+1. Open the repo on GitHub, then **Settings → Secrets and variables → Actions**. Direct link: https://github.com/bowtiedcontract/events/settings/secrets/actions
 2. On the **Secrets** tab, click **New repository secret**:
    - Name: `LLM_API_KEY`
    - Value: your API key
