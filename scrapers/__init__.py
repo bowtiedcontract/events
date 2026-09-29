@@ -8,6 +8,8 @@ MODULES = [
     "staatstheater_darmstadt", "centralstation_darmstadt",
     "english_theatre", "staedel", "schirn", "museum_wiesbaden", "kunsthalle_mainz",
     "eventbrite", "luma", "ihk_frankfurt", "datamonster",
+    "studiobloc_wiesbaden", "nordwand_wiesbaden", "boulderwelt_frankfurt", "kletterkiste_mainz",
+    "lc_olympia", "rheinrunners", "dav_waldlaeufer", "tuesday_night_run", "meenzrunners", "parkrun_maaraue",
     "buchmesse", "xmas_frankfurt", "xmas_wiesbaden", "xmas_mainz",
 ]
 

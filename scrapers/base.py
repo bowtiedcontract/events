@@ -83,6 +83,26 @@ class Context:
                 y, m = y + 1, 1
         return out
 
+    def dates_on(self, weekday, step_days=7, start=None):
+        """Dates in the window on `weekday` (Monday=0).
+
+        `step_days` is 7 for every week, 14 for every other week. `start`, when
+        given, anchors the cadence (a date that is itself a meeting day, even if
+        it is already past)."""
+        d = start or self.today
+        if start is None:
+            while d.weekday() != weekday:
+                d += timedelta(days=1)
+        else:
+            while d < self.today:
+                d += timedelta(days=step_days)
+        out = []
+        while d <= self.until:
+            if d >= self.today and d.weekday() == weekday:
+                out.append(d)
+            d += timedelta(days=step_days)
+        return out
+
 
 # ---------------------------------------------------------------- dates
 MONTHS = {
@@ -290,6 +310,8 @@ RULES = [
     ("art", r"ausstellung|exhibition|vernissage|finissage|kunst(?!stoff)|\bart\b|museum|galerie|gallery|fotografie|photography"),
     ("music", r"konzert|concert|\bband\b|tour\b|tour 20|live\b|jazz|rock|\bpop\b|hip.?hop|\brap\b|indie|metal|punk|soul|funk|folk|techno|\bdj\b|singer|songwriter|acoustic|blues|reggae|electro|musical|tribute|party"),
     ("festival", r"weihnachtsmarkt|christmas market|sternschnuppenmarkt|festival|buchmesse|book fair|weinfest|volksfest|kerb\b|dippemess|oktoberfest"),
+    ("climbing", r"bouldern|\bboulder|kletter(?!t)|climbing|bouldering|vorstieg|toprope|kletterkurs|klettertreff|kletterhalle"),
+    ("running", r"lauftreff|parkrun|run club|social run|waldläufer|waldlaeufer|night run|laufgruppe"),
     ("general", r"comedy|kabarett|lesung|\bliest\b|messe\b|börse|whisky|reading|quiz|pub quiz|stand.?up|improv|markt|market|führung|tour of|workshop|yoga|wein|wine|tasting|food|film|kino"),
 ]
 _RULES = [(c, re.compile(p, re.I)) for c, p in RULES]
@@ -382,6 +404,27 @@ def make_event(ctx, *, title, date_, venue_key, time_="", room=None, venue=None,
     e["id"] = event_id(title, vname)
     e["_text"] = text_
     return e
+
+
+def series(event, sessions, url="", key=""):
+    """Attach one or more (date, time) sessions to an event from make_event.
+
+    A single session stays a normal event. Several sessions become `dates`
+    (one card per meeting). `key` keeps the id stable across weeks."""
+    rows = []
+    for d, t in sessions:
+        if isinstance(d, date):
+            d = d.isoformat()
+        if d:
+            rows.append((d, t or ""))
+    rows = sorted(set(rows))
+    if not rows:
+        return None
+    event["date"], event["time"] = rows[0]
+    if len(rows) > 1:
+        event["dates"] = [{"date": d, "time": t, "url": url or event.get("url", "")} for d, t in rows]
+    event["id"] = event_id(key or f"{event['title']}|{rows[0][0]}|{rows[0][1]}", event["venue"])
+    return event
 
 
 def group_runs(events):
