@@ -1,5 +1,5 @@
 {
- "last_updated": "Mon 28 Sep 2026, 13:23 (Berlin time)",
+ "last_updated": "Tue 29 Sep 2026, 18:32 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -212,40 +212,6 @@
    "id": "6fc0cb01920d"
   },
   {
-   "title": "AI & Afterwork: IAMCP BusinessTalk in Frankfurt am Main",
-   "title_en": "",
-   "category": "business",
-   "date": "2026-09-28",
-   "time": "16:00",
-   "venue": "evoila Frankfurt GmbH",
-   "city": "Frankfurt",
-   "address": "Goldsteinstraße 114, 60528 Frankfurt am Main",
-   "description": "Business event at evoila Frankfurt GmbH, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/ai-afterwork-iamcp-businesstalk-in-frankfurt-am-main-tickets-2001050629299",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
-   "english": false,
-   "id": "d69cc92dcdf9",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Stand Atlantic",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-09-28",
-   "time": "20:00",
-   "venue": "Batschkapp",
-   "city": "Frankfurt",
-   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
-   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.batschkapp.net/events/stand-atlantic-frankfurt-batschkapp-2026-09-28-200000",
-   "source": "https://www.batschkapp.net/batschkapp",
-   "english": false,
-   "id": "43330c7156f4",
-   "origin": "scraper:batschkapp"
-  },
-  {
    "title": "19. Mobile Media Forum",
    "title_en": "19th Mobile Media Forum",
    "category": "tech",
@@ -260,6 +226,75 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
    "english": false,
    "id": "b15c9d478ff6"
+  },
+  {
+   "title": "DAV Waldläufer trail run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-09-29",
+   "time": "18:30",
+   "venue": "DAV Wiesbaden Waldläufer",
+   "city": "Wiesbaden",
+   "address": "Talstation Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at DAV Wiesbaden Waldläufer, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
+   "source": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
+   "english": false,
+   "id": "badfd98cb0ff",
+   "dates": [
+    {
+     "date": "2026-09-29",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    }
+   ],
+   "origin": "scraper:dav_waldlaeufer"
   },
   {
    "title": "POP UP COMEDY – HABEN & FRIENDS",
@@ -279,6 +314,94 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Bloc Basics",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€72",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "27c7d78d77a5",
+   "dates": [
+    {
+     "date": "2026-09-29",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/"
+    }
+   ],
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-02",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10771",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "6e0b52a2b019",
+   "dates": [
+    {
+     "date": "2026-09-29",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "HOOD Comedy - OPEN MIC im FREIGUT",
    "title_en": "",
    "category": "general",
@@ -294,6 +417,144 @@
    "english": false,
    "id": "338aac8e1d09",
    "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "MeenzRunners social run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "venue": "Theodor-Heuss-Brücke",
+   "city": "Mainz",
+   "address": "Theodor-Heuss-Brücke, Mainz",
+   "description": "Run at Theodor-Heuss-Brücke, Mainz. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.strava.com/clubs/MeenzRunners",
+   "source": "https://socialrunclubs.de/mainz/meenzrunners/",
+   "english": false,
+   "id": "69648e4f0882",
+   "dates": [
+    {
+     "date": "2026-09-29",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    }
+   ],
+   "origin": "scraper:meenzrunners"
+  },
+  {
+   "title": "Tuesday Night Run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "venue": "Kelly's Irish Pub",
+   "city": "Mainz",
+   "address": "Mainz Hauptbahnhof",
+   "description": "Run at Kelly's Irish Pub, Mainz. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.tuesdaynightrun.club/",
+   "source": "https://www.tuesdaynightrun.club/",
+   "english": true,
+   "id": "11ae2dd82734",
+   "dates": [
+    {
+     "date": "2026-09-29",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    }
+   ],
+   "origin": "scraper:tuesday_night_run"
   },
   {
    "title": "SHOWTIME! English Comedy Cocktail at French Bento Bar",
@@ -380,6 +641,222 @@
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-11",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10773",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f970039c6e54",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-12",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10774",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "cf2419a557c9",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-14",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10777",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "15d33dac5d7a",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-13",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10776",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "17f1fa3da3a1",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "EchtJETZT – das Afterwork-Netzwerk in Wiesbaden",
    "title_en": "EchtJETZT – after-work network Wiesbaden",
    "category": "business",
@@ -396,6 +873,99 @@
    "id": "737468f1327c"
   },
   {
+   "title": "Bouldern – Einstiegskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€24.95",
+   "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "7c7ab8e793a7",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-03",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10778",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8f112bf496fa",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Eröffnung Anna Hulačová",
    "title_en": "Opening: Anna Hulačová",
    "category": "art",
@@ -410,6 +980,50 @@
    "source": "https://www.schirn.de/ausstellungen/",
    "english": false,
    "id": "e901f8ea0b50"
+  },
+  {
+   "title": "LC Olympia Lauftreff Mittwochs",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "venue": "LC Olympia Wiesbaden Lauftreff",
+   "city": "Wiesbaden",
+   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-30-09-2026",
+   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
+   "english": false,
+   "id": "979f40bd172b",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-30-09-2026"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-07-10-2026"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-14-10-2026"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-21-10-2026"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-28-10-2026"
+    }
+   ],
+   "origin": "scraper:lc_olympia"
   },
   {
    "title": "RUN N RAVE #3 | Futury x FiB x CNDO",
@@ -544,6 +1158,623 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-20",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10786",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "c4c39dd12fef",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10786"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-16",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10780",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "52b951c3ae2a",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10780"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-17",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10785",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "bb1753c02016",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10785"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Bambiniclub (4–8 Jahre)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "16:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€19.95",
+   "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "b258965dae88",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-02",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-09",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-19",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10788",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "608f9370ff15",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10788"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-18",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10787",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f57a9af3a612",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10787"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-04",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10794",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "d50148d42e8a",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10794"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderkletterclub 11–16 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "17:30",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€19.95",
+   "url": "https://nordwand.store/produkt/jugendclub/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "29a490ddcecc",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
    "title": "Mazeppa (Tschaikowski)",
    "title_en": "Mazeppa – Tchaikovsky opera (Russian, English surtitles)",
    "category": "classical",
@@ -616,6 +1847,195 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "18:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€60–€90",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "47209e1247e2",
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-15",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10795",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "ee7e3b216ca4",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10795"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-05",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10796",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "eb45534a414c",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10796"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "RheinRunners Lauftreff",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "Sportraum Mainz",
+   "city": "Mainz",
+   "address": "Curiestraße 2, 55129 Mainz",
+   "description": "Run at Sportraum Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://laufzeit-mainz.de/lauftreff",
+   "source": "https://laufzeit-mainz.de/lauftreff",
+   "english": false,
+   "id": "7e72bdc6005b",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
+    }
+   ],
+   "origin": "scraper:rheinrunners"
+  },
+  {
    "title": "The Fairy-Queen – Barock+",
    "title_en": "",
    "category": "classical",
@@ -642,6 +2062,35 @@
     }
    ],
    "id": "e75f48d1bbdb"
+  },
+  {
+   "title": "Trainingsgruppe Beginner",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10982",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f5eeea609221",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10982"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10982"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Caffeinated Comedy | English Comedy Community Open Mic @ Paul & Tim FFM",
@@ -770,6 +2219,35 @@
    "id": "b58b9de8e2a5"
   },
   {
+   "title": "Trainingsgruppe Early Bird",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "08:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10983",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "03e29b379bee",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "08:30",
+     "url": "https://plus.boulderwelt.de/event/10983"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "08:30",
+     "url": "https://plus.boulderwelt.de/event/10983"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Founders Lab | Design Thinking",
    "title_en": "",
    "category": "business",
@@ -785,6 +2263,438 @@
    "english": false,
    "id": "1e7e9cc5e83e",
    "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-25",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10799",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "25ca96dd58c6",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10799"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-21",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10797",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "1998a4939c7c",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10797"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-22",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10798",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "79e579394856",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10798"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-24",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10801",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "13203fcf75a3",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10801"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-23",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10800",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "de0894fb4664",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10800"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-06",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10802",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "a593466856bd",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10802"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-27",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10804",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "b86969ef6858",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10804"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-26",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10803",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "aa1d8a8aaa36",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-10-23",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-10-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-11-06",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10803"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Dinner with Entrepreneurs: Frankfurt | Giving Back Edition",
@@ -818,6 +2728,23 @@
    "english": false,
    "id": "e175ab6c74c2",
    "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
+   "title": "FLINTA Bouldertreff",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "27b7676dd406",
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "Farin Urlaub übers Reisen",
@@ -981,6 +2908,52 @@
    "id": "75eca9ca5f8f"
   },
   {
+   "title": "Technik-Kletterkurs 1 (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-03",
+   "time": "09:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€65–€85",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "28a778bb47c0",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "time": "09:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-10",
+     "time": "09:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Workshop für Familien 3–6 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-03",
+   "time": "10:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10885",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f2ef50c2b6c1",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Wiesbadener Schallplattenbörse",
    "title_en": "Wiesbaden Record Fair",
    "category": "general",
@@ -1134,6 +3107,87 @@
    "origin": "scraper:alte_oper"
   },
   {
+   "title": "LC Olympia Lauftreff (2026)",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-04",
+   "time": "10:00",
+   "venue": "LC Olympia Wiesbaden Lauftreff",
+   "city": "Wiesbaden",
+   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-04-10-2026",
+   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
+   "english": false,
+   "id": "79b7c178dd3f",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-04-10-2026"
+    },
+    {
+     "date": "2026-10-11",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-11-10-2026"
+    },
+    {
+     "date": "2026-10-18",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-18-10-2026"
+    },
+    {
+     "date": "2026-10-25",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-25-10-2026"
+    },
+    {
+     "date": "2026-11-01",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-01-11-2026"
+    },
+    {
+     "date": "2026-11-08",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-08-11-2026"
+    },
+    {
+     "date": "2026-11-15",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-15-11-2026"
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-22-11-2026"
+    },
+    {
+     "date": "2026-11-29",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-29-11-2026"
+    }
+   ],
+   "origin": "scraper:lc_olympia"
+  },
+  {
+   "title": "Bouldern mit den Kleinsten",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-04",
+   "time": "10:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€10",
+   "url": "https://wiesbaden.studiobloc.de/angebote/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "f7cd53685e77",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
    "title": "2. Kammerkonzert",
    "title_en": "2nd Chamber Concert",
    "category": "classical",
@@ -1219,6 +3273,23 @@
    "origin": "scraper:staatstheater_mainz"
   },
   {
+   "title": "Einführungskurs für Familien",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-04",
+   "time": "12:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/kinder/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "1f852cf8dbd8",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
    "title": "Lohengrin (Wagner) – Premiere",
    "title_en": "Lohengrin – Wagner opera, new production",
    "category": "classical",
@@ -1260,6 +3331,35 @@
    ],
    "english": false,
    "id": "07498e1fef5c"
+  },
+  {
+   "title": "Trainingsgruppe 40+",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-04",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10984",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4b6ed043122b",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10984"
+    },
+    {
+     "date": "2026-11-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10984"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Behind the Scenes – English pre-concert talk + BBC Philharmonic",
@@ -1385,6 +3485,35 @@
    "id": "163046507ecb"
   },
   {
+   "title": "Trainingsgruppe Advanced",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-04",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10985",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "78b61ddee51b",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10985"
+    },
+    {
+     "date": "2026-11-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10985"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Comedy Pub Frankfurt - English Open-Mic",
    "title_en": "",
    "category": "general",
@@ -1484,6 +3613,358 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/11720",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "a19a2390c05e",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Feriencamp 6–8 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6899",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8d9b92364455",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6899"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6899"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6899"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6899"
+    },
+    {
+     "date": "2026-10-09",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6899"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Feriencamp 8–12 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6900",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "591818eab90a",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6900"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6900"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6900"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6900"
+    },
+    {
+     "date": "2026-10-09",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6900"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderferienspaß 5–8 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6923",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "22c0b67b3e33",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6923"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6923"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6923"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderferienspaß 7–10 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6924",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "05faa76d6fb6",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6924"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6924"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6924"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderkletterclub 8–11 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "16:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€19.95",
+   "url": "https://nordwand.store/produkt/kidsclub/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "e32ea14b6e2f",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-07",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-08",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-12",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-19",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
    "title": "Business in and with Ukraine",
    "title_en": "",
    "category": "business",
@@ -1498,6 +3979,64 @@
    "source": "https://www.frankfurt-main.ihk.de/veranstaltungen",
    "english": true,
    "id": "e9917cf1f13c"
+  },
+  {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "18:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "db53e2c45977",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-06",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Grip & Grow Frauenklettertreff",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-05",
+   "time": "18:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350",
+   "source": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350",
+   "english": false,
+   "id": "33b41ccbad5c",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
   },
   {
    "title": "Joel Brandenstein",
@@ -1577,6 +4116,134 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
    "english": false,
    "id": "138e1eb42fc5"
+  },
+  {
+   "title": "Grundkurs Toprope",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-06",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€79.95",
+   "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "e0812d563347",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-10",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-17",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-24",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-10-31",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-07",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-28",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
+   "title": "Trainingsgruppe Women only",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-06",
+   "time": "19:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10981",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "98bf6937510c",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10981"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10981"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Prinz Pi - Zusatzshow",
@@ -1680,6 +4347,62 @@
    "english": true,
    "end_date": "2026-10-11",
    "id": "c5464d9e860f"
+  },
+  {
+   "title": "Boulderworkshop Fortgeschrittene – Level 4 meistern",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-07",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€29.95",
+   "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "ef44d5524ddb",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-07",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10901",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "df0728e623a4",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Zaide (Mozart)",
@@ -1907,6 +4630,23 @@
    "id": "fcf35ed3771b"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-08",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/11721",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "c0bfeebdf11e",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "WORKSHOP: German Battery Market Outlook",
    "title_en": "",
    "category": "tech",
@@ -1954,6 +4694,45 @@
    "english": false,
    "id": "9ed48598f641",
    "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
+   "title": "Klettertreff",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.kletterkiste-mainz.de/klettertreff",
+   "source": "https://www.kletterkiste-mainz.de/klettertreff",
+   "english": false,
+   "id": "3f590db23605",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "time": "19:00",
+     "url": "https://www.kletterkiste-mainz.de/klettertreff"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://www.kletterkiste-mainz.de/klettertreff"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://www.kletterkiste-mainz.de/klettertreff"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://www.kletterkiste-mainz.de/klettertreff"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
   },
   {
    "title": "Freya Ridings",
@@ -2053,6 +4832,52 @@
    "english": false,
    "id": "e8fef5db2388",
    "origin": "scraper:centralstation_darmstadt"
+  },
+  {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-09",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6884",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "5d3ce5e52cb0",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-09",
+   "time": "18:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "c1e94f38cdbc",
+   "dates": [
+    {
+     "date": "2026-10-09",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-10",
+     "time": "14:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
   },
   {
    "title": "MINDNVEST - Netzwerk-Event für Frauen",
@@ -2562,6 +5387,40 @@
    "id": "b181183cf79f"
   },
   {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-11",
+   "time": "18:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10914",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "5ea5462fd3e8",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "time": "18:00",
+     "url": "https://plus.boulderwelt.de/event/10914"
+    },
+    {
+     "date": "2026-10-18",
+     "time": "18:00",
+     "url": "https://plus.boulderwelt.de/event/10914"
+    },
+    {
+     "date": "2026-10-25",
+     "time": "18:00",
+     "url": "https://plus.boulderwelt.de/event/10914"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Ottone (Händel) – Premiere",
    "title_en": "Ottone – Handel opera, new production (Italian, English surtitles)",
    "category": "classical",
@@ -2653,6 +5512,169 @@
    "origin": "scraper:alte_oper"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/11722",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "66bfd940e012",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Feriencamp 8–12 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6901",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "3c417f51c74a",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6901"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6901"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6901"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6901"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/6901"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "K3 Herbstferien",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "09:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.kletterkiste-mainz.de/events/veranstaltung/K3-Herbstferien/156480",
+   "source": "https://www.kletterkiste-mainz.de/",
+   "english": false,
+   "id": "14df486e133f",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "time": "09:00",
+     "url": "https://www.kletterkiste-mainz.de/events/veranstaltung/K3-Herbstferien/156480"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "09:00",
+     "url": "https://www.kletterkiste-mainz.de/events/veranstaltung/K3-Herbstferien/156480"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "09:00",
+     "url": "https://www.kletterkiste-mainz.de/events/veranstaltung/K3-Herbstferien/156480"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Kinderferienspaß 5–8 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6925",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "89ec5927d7c9",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6925"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6925"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6925"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderferienspaß 7–10 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6926",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8e3b44b11a5f",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6926"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6926"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6926"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Intermezzo – Oper am Mittag",
    "title_en": "",
    "category": "classical",
@@ -2680,6 +5702,52 @@
     }
    ],
    "origin": "scraper:oper_frankfurt"
+  },
+  {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "f6a3fb2948b7",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-15",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-12",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10902",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "ee150d5d59a4",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Baest / Special Guests: Deadnate / Nocturnis",
@@ -2762,6 +5830,57 @@
    "source": "https://www.batschkapp.net/batschkapp",
    "english": true,
    "id": "184fd41a80e4"
+  },
+  {
+   "title": "Einführungskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-13",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "0d36d500286c",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-13",
+   "time": "19:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10915",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "d6a168fbcda2",
+   "dates": [
+    {
+     "date": "2026-10-13",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10915"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10915"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10915"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "The Narrator / Special Guest: Accvsed / Support: Impvlse",
@@ -2928,6 +6047,23 @@
    "id": "4d9034dcc65f"
   },
   {
+   "title": "Einführungskurs: ZI Aktionswoche",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-14",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "66efa391933b",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
    "title": "Future Palace",
    "title_en": "",
    "category": "music",
@@ -2979,6 +6115,57 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-15",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/11723",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "d5018a9d2f1f",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderferienspaß 7–10 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-15",
+   "time": "11:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6927",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "b565511ac7b8",
+   "dates": [
+    {
+     "date": "2026-10-15",
+     "time": "11:00",
+     "url": "https://plus.boulderwelt.de/event/6927"
+    },
+    {
+     "date": "2026-10-16",
+     "time": "11:00",
+     "url": "https://plus.boulderwelt.de/event/6927"
+    },
+    {
+     "date": "2026-10-17",
+     "time": "11:00",
+     "url": "https://plus.boulderwelt.de/event/6927"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Bob DACH Community Gathering & Coding Watch Party Frankfurt",
    "title_en": "",
    "category": "tech",
@@ -3009,6 +6196,60 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/startup/",
    "english": true,
    "id": "6c7d1091ffa0"
+  },
+  {
+   "title": "Vorstiegskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-15",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€99.95",
+   "url": "https://nordwand.store/produkt/vorstiegskurs/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "0ee41c76bf86",
+   "dates": [
+    {
+     "date": "2026-10-15",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-10-22",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "Kosmos & Orchester",
@@ -3079,6 +6320,23 @@
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-16",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6885",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "1c6102a97520",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM",
    "title_en": "",
    "category": "general",
@@ -3094,23 +6352,6 @@
    "english": false,
    "id": "8e46bb1c8a84",
    "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "DIE NERVIGEN Live 2026",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-10-16",
-   "time": "19:00",
-   "venue": "Festhalle Frankfurt",
-   "city": "Frankfurt",
-   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
-   "description": "Concert at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/event-calendar/dienervigen.html",
-   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
-   "english": false,
-   "id": "0e05e2088b46",
-   "origin": "scraper:festhalle"
   },
   {
    "title": "Tancredi (Rossini)",
@@ -3154,6 +6395,23 @@
    ],
    "english": true,
    "id": "16208cfb9fb0"
+  },
+  {
+   "title": "Technik Boost Workshop Koordination 2",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10940",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8874850605fa",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "The Animesy im Konzert – Die besten Anime-Songs",
@@ -3314,6 +6572,74 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
    "english": true,
    "id": "e4ae159418f2"
+  },
+  {
+   "title": "DIE NERVIGEN Live 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-16",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Concert at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/event-calendar/dienervigen.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false,
+   "id": "0e05e2088b46",
+   "origin": "scraper:festhalle"
+  },
+  {
+   "title": "Workshop für Familien 3–6 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-17",
+   "time": "10:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10886",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "725f88f52743",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Workshop für Familien 7–10 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-17",
+   "time": "12:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10892",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "efa33fc3732b",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Einführungskurs: ZI Aktionswoche",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "2469ee71abe3",
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "AMON AMARTH – The Allfather Awakens 2026",
@@ -3665,6 +6991,347 @@
    "id": "85c2b12d8c84"
   },
   {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-01",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10758",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "e3092c9f9973",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10758"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-02",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10760",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "471a9f203c43",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10760"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-04",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10762",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8a6da28544de",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10762"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-03",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10761",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "5d0f34af2123",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10761"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Next Level Workshop 3 zu 4",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "18:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10925",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "179b3a02a284",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-05",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10763",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "b9aeba5ca15d",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10763"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-01",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10764",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "75ea8f478fc1",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-10-26",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-11-02",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10764"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Lieder-Soiree",
    "title_en": "Song recital evening in the foyer",
    "category": "classical",
@@ -3691,6 +7358,52 @@
    ],
    "english": false,
    "id": "fb7ba87f6431"
+  },
+  {
+   "title": "Einführungskurs: ZI Aktionswoche",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "f098ed1d4e97",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Vorstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-19",
+   "time": "19:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "9dd0885782c3",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "time": "19:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
   },
   {
    "title": "Baba Zula – 30th Anniversary Tour",
@@ -3772,6 +7485,222 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/science-and-tech--events/",
    "english": false,
    "id": "8d09fa358000"
+  },
+  {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-06",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-20",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10765",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "083751f018bf",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10765"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-07",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-20",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10766",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "00c076042703",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10766"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-09",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-20",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10768",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4bb6f46e3e49",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10768"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-08",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-20",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10767",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4528564d71b9",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10767"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Juristinnennetzwerken ... After Work in Frankfurt/Main am 20.10.2026",
@@ -3931,6 +7860,40 @@
    "id": "accb4f2b0a8e"
   },
   {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10916",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "3692f8379246",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10916"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10916"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10916"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Junges Konzert: Titan (hr-Sinfonieorchester)",
    "title_en": "Young Concert: Mahler 'Titan' with the Frankfurt Radio Symphony",
    "category": "classical",
@@ -4027,6 +7990,23 @@
    "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/martina-gedeck-sebastian-knauer-1/",
    "english": false,
    "id": "08eea2769a47"
+  },
+  {
+   "title": "Technik Boost Workshop Hooken",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10930",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "fd2dcdf41aad",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "hr-Sinfonieorchester: Mahler 1 – Große Reihe",
@@ -4389,6 +8369,23 @@
    "origin": "scraper:termine_kurhaus"
   },
   {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10903",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "e9e37a3ae2d7",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Rauchen / Wedding Songs",
    "title_en": "",
    "category": "music",
@@ -4694,6 +8691,23 @@
    "id": "ee107a0afe89"
   },
   {
+   "title": "Technik Boost Workshop Koordination 1",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-26",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10938",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "af1a2b9bf860",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Annett Louisan",
    "title_en": "",
    "category": "music",
@@ -4810,6 +8824,35 @@
    "origin": "scraper:batschkapp"
   },
   {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-27",
+   "time": "18:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€60–€90",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "6d01e227a693",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-10-29",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
    "title": "Kienzles Klassik",
    "title_en": "",
    "category": "classical",
@@ -4837,6 +8880,40 @@
     }
    ],
    "origin": "scraper:alte_oper"
+  },
+  {
+   "title": "Warren Zeiders",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-10-27",
+   "time": "19:00",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
+   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/warren-zeiders-frankfurt-batschkapp-2026-10-27-190000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": false,
+   "id": "e6c5822b11c5",
+   "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Einführungskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "fe2160159368",
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "Karibische Klangwelten – Musiken der Welt",
@@ -4903,23 +8980,6 @@
    "source": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
    "english": false,
    "id": "b2142afa374b"
-  },
-  {
-   "title": "Warren Zeiders",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-10-27",
-   "time": "20:00",
-   "venue": "Batschkapp",
-   "city": "Frankfurt",
-   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
-   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.batschkapp.net/events/warren-zeiders-frankfurt-batschkapp-2026-10-27-200000",
-   "source": "https://www.batschkapp.net/batschkapp",
-   "english": false,
-   "id": "e6c5822b11c5",
-   "origin": "scraper:batschkapp"
   },
   {
    "title": "Disney in Concert 2026 – Die Jubiläumstournee",
@@ -5045,6 +9105,40 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10917",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "39ddcf9ad5dc",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10917"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10917"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10917"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "2. Kammerkonzert",
    "title_en": "2nd Chamber Concert",
    "category": "classical",
@@ -5122,7 +9216,7 @@
    "id": "493a42cf37cc"
   },
   {
-   "title": "Naked Cameo",
+   "title": "Naked Cameo / Support: Pier",
    "title_en": "",
    "category": "music",
    "date": "2026-10-29",
@@ -5135,7 +9229,7 @@
    "url": "https://schlachthof-wiesbaden.de/events/naked-cameo-2026",
    "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false,
-   "id": "f5e75fe935f8",
+   "id": "de59d423e11b",
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
@@ -5619,6 +9713,23 @@
    "id": "61e82b2b3f84"
   },
   {
+   "title": "Sturz- und Sicherungstraining (Indoorklettern)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-01",
+   "time": "09:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€35–€45",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "c1a79289bb2b",
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
    "title": "Debüt: Petar Pejčić, Violoncello",
    "title_en": "Debut recital: cellist Petar Pejčić",
    "category": "classical",
@@ -5745,6 +9856,23 @@
    "id": "f694331cec22"
   },
   {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10904",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4a36acb9ec65",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Heisskalt",
    "title_en": "",
    "category": "music",
@@ -5860,6 +9988,23 @@
     }
    ],
    "origin": "scraper:staatstheater_wiesbaden"
+  },
+  {
+   "title": "Technik Boost Workshop Dynamik",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10933",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "87a389f07b21",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "All'Arme",
@@ -6233,6 +10378,40 @@
    "id": "e2006eeb2066"
   },
   {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10918",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "cb9a248de3c3",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10918"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10918"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10918"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Nachtträume (Hessisches Staatsballett)",
    "title_en": "Night Dreams – ballet",
    "category": "general",
@@ -6351,6 +10530,23 @@
    "english": false,
    "id": "783ae5e2eb7d",
    "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Next Level Workshop 3 zu 4",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10926",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "3b29f2a43dab",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Joe Jackson & Band: Hope And Fury Tour 2026",
@@ -6557,6 +10753,23 @@
     }
    ],
    "id": "cb139f89c102"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-08",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10905",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "9b3d70a6f603",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Vivaldi – Die vier Jahreszeiten",
@@ -6835,6 +11048,125 @@
    "origin": "scraper:datamonster"
   },
   {
+   "title": "Vorstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-10",
+   "time": "18:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "e3a9163a194c",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Bloc Basics +",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€72",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "155d56170304",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/"
+    }
+   ],
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Einführungskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "92850a16058c",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10919",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "3542dfd1ad15",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10919"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10919"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:30",
+     "url": "https://plus.boulderwelt.de/event/10919"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Café del Mundo",
    "title_en": "",
    "category": "music",
@@ -6922,6 +11254,23 @@
    "english": false,
    "id": "7a95b5893bfe",
    "origin": "scraper:jahrhunderthalle"
+  },
+  {
+   "title": "Technik Boost Workshop Slab",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10936",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "91e5b1c7fa44",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "3. Sinfoniekonzert: Spanische Nacht",
@@ -7221,6 +11570,23 @@
     }
    ],
    "id": "73732164c529"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-13",
+   "time": "17:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10906",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "a4e71bc57de3",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Hänsel und Gretel (Humperdinck)",
@@ -7547,6 +11913,40 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/startup/",
    "english": false,
    "id": "39da3fd2e384"
+  },
+  {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10920",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8849a0fab7a8",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10920"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10920"
+    },
+    {
+     "date": "2026-11-28",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10920"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Sparta Astana",
@@ -7907,6 +12307,23 @@
    "id": "92254fe767e2"
   },
   {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10907",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "e633ca3509c0",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "IE FINANCE DAY IN FRANKFURT: Who Will Own the Mittelstand Next?",
    "title_en": "",
    "category": "business",
@@ -8005,6 +12422,35 @@
    "english": false,
    "id": "80eec57932c6",
    "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10921",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "483c0dc405b3",
+   "dates": [
+    {
+     "date": "2026-11-18",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10921"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10921"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Catt",
@@ -8128,6 +12574,23 @@
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
+   "title": "Next Level Workshop 4 zu 5",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10929",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f04d31f67064",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Wassermusik – Barock+",
    "title_en": "Water Music – baroque concert",
    "category": "classical",
@@ -8154,6 +12617,35 @@
     }
    ],
    "id": "7ebd03e78c79"
+  },
+  {
+   "title": "Mentale Stärke beim Bouldern: Dein Kopf als stärkster Muskel",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-19",
+   "time": "19:15",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€55",
+   "url": "https://wiesbaden.studiobloc.de/angebote/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "c6e5bbce4683",
+   "dates": [
+    {
+     "date": "2026-11-19",
+     "time": "19:15",
+     "url": "https://wiesbaden.studiobloc.de/angebote/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:15",
+     "url": "https://wiesbaden.studiobloc.de/angebote/"
+    }
+   ],
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "Die Krönung der Poppea (L'incoronazione di Poppea)",
@@ -8377,6 +12869,40 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Workshop für Familien 3–6 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-21",
+   "time": "10:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10887",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "83e22ac1905b",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Workshop für Familien 7–10 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-21",
+   "time": "12:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10891",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "786fd046f080",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Ein musikalischer Krimi-Abend mit Bastian Pastewka",
    "title_en": "",
    "category": "music",
@@ -8574,6 +13100,23 @@
    "id": "172a84be2c31"
   },
   {
+   "title": "Technik Boost Workshop Hooken",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10931",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "98d74c1bfb00",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Any Given Day",
    "title_en": "",
    "category": "music",
@@ -8655,6 +13198,64 @@
    "english": false,
    "end_date": "2026-12-22",
    "id": "d6acde0bc402"
+  },
+  {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-23",
+   "time": "18:30",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€60–€90",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "b480d56fb665",
+   "dates": [
+    {
+     "date": "2026-11-23",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "18:30",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
+  },
+  {
+   "title": "Grundkurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-23",
+   "time": "18:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10922",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "7c810baabcc0",
+   "dates": [
+    {
+     "date": "2026-11-23",
+     "time": "18:30",
+     "url": "https://plus.boulderwelt.de/event/10922"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "18:30",
+     "url": "https://plus.boulderwelt.de/event/10922"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Ferdinand von Schirach",
@@ -8751,6 +13352,23 @@
    "english": false,
    "end_date": "2026-12-23",
    "id": "08677e29ca13"
+  },
+  {
+   "title": "Einführungskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "8388205e8744",
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "H1Ghr",
@@ -8924,6 +13542,23 @@
    "origin": "scraper:festhalle"
   },
   {
+   "title": "Technik Boost Workshop Koordination 1",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10939",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "b185c077cfea",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "DREI HASELNÜSSE FÜR ASCHENBRÖDEL",
    "title_en": "",
    "category": "music",
@@ -9039,6 +13674,23 @@
    "origin": "scraper:batschkapp"
   },
   {
+   "title": "Next Level Workshop 2 zu 3",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-27",
+   "time": "18:30",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10924",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4cd28ca316ce",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Die Fledermaus",
    "title_en": "",
    "category": "classical",
@@ -9107,6 +13759,23 @@
    "origin": "scraper:schlachthof_wiesbaden"
   },
   {
+   "title": "Adventsbouldern ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-28",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/11158",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "b6684fc0cc5d",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Musik und Magie – die Welt der Zauberflöte",
    "title_en": "",
    "category": "classical",
@@ -9134,6 +13803,57 @@
     }
    ],
    "origin": "scraper:staatstheater_mainz"
+  },
+  {
+   "title": "Bouldern mit den Kleinsten",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-28",
+   "time": "10:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€10",
+   "url": "https://wiesbaden.studiobloc.de/angebote/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "fdaeba3c4c14",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Einführungskurs für Familien",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-28",
+   "time": "12:30",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€0",
+   "url": "https://wiesbaden.studiobloc.de/angebote/kinder/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "165825795a91",
+   "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-28",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10908",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "42b8c9535188",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Eluveitie – ÀNV Rising Europe Pt. III",
@@ -9394,6 +14114,103 @@
    "english": false,
    "id": "06996839c2b5",
    "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "A Jazzy Christmas",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-01",
+   "time": "09:15",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Concert at Alte Oper Frankfurt – Mozart Saal, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.alteoper.de/de/programm/a-jazzy-christmas/19166",
+   "source": "https://www.alteoper.de/de/programm/a-jazzy-christmas/19166",
+   "english": false,
+   "id": "6f323fbb9f1a",
+   "dates": [
+    {
+     "date": "2026-12-01",
+     "time": "09:15",
+     "url": "https://www.alteoper.de/de/programm/a-jazzy-christmas/19166"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "11:00",
+     "url": "https://www.alteoper.de/de/programm/a-jazzy-christmas/19167"
+    }
+   ],
+   "origin": "scraper:alte_oper"
+  },
+  {
+   "title": "Technik Boost Workshop Slab",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10937",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "1b3c45968575",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Chapo102",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "venue": "Batschkapp",
+   "city": "Frankfurt",
+   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
+   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.batschkapp.net/events/chapo102-frankfurt-batschkapp-2026-12-01-193000",
+   "source": "https://www.batschkapp.net/batschkapp",
+   "english": false,
+   "id": "a8ed8d5b20b2",
+   "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Seong-Jin Cho, Klavier",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-01",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Großer Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Classical music at Alte Oper Frankfurt – Großer Saal, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "from €36",
+   "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76333",
+   "source": "https://www.alteoper.de/de/programm/seong-jin-cho-klavier/18839",
+   "english": false,
+   "id": "d6e545dae8c0",
+   "origin": "scraper:alte_oper"
+  },
+  {
+   "title": "Night of the Proms 2026",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-01",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Concert at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/notp",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false,
+   "id": "bc4b53eb14d2",
+   "origin": "scraper:festhalle"
   }
  ]
 }
