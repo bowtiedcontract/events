@@ -21,7 +21,7 @@ except Exception:  # pragma: no cover
 ROOT = Path(__file__).resolve().parent.parent
 EVENTS = ROOT / "data" / "events.json"
 VENUES = ROOT / "data" / "venues.json"
-CATEGORIES = {"festival", "music", "classical", "tech", "business", "art", "general"}
+CATEGORIES = {"festival", "music", "classical", "tech", "business", "art", "climbing", "running", "general"}
 REQUIRED = ["title", "category", "date", "venue", "city", "description", "source"]
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 TIME_RE = re.compile(r"^(\d{2}:\d{2})?$")

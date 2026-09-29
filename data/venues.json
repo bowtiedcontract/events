@@ -138,5 +138,75 @@
   "type": "Contemporary art",
   "address": "Am Zollhafen 3–5, 55118 Mainz",
   "url": "https://www.kunsthalle-mainz.de/de/ausstellungen/"
+ },
+ {
+  "name": "Studio Bloc Wiesbaden",
+  "city": "Wiesbaden",
+  "type": "Bouldering gym – courses, workshops, competitions",
+  "address": "Holzstraße 11, 65197 Wiesbaden",
+  "url": "https://wiesbaden.studiobloc.de/angebote/"
+ },
+ {
+  "name": "Wiesbadener Nordwand",
+  "city": "Wiesbaden",
+  "type": "Climbing & bouldering gym – courses and clubs",
+  "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+  "url": "https://wiesbadener-nordwand.de/"
+ },
+ {
+  "name": "Boulderwelt Frankfurt",
+  "city": "Frankfurt",
+  "type": "Bouldering gym – courses, workshops, training groups",
+  "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+  "url": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/"
+ },
+ {
+  "name": "Kletterkiste Mainz",
+  "city": "Mainz",
+  "type": "DAV climbing gym – courses and Klettertreff",
+  "address": "Turmstr. 85, 55120 Mainz",
+  "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+ },
+ {
+  "name": "LC Olympia Wiesbaden Lauftreff",
+  "city": "Wiesbaden",
+  "type": "Free weekly run club (Nerobergbahn car park)",
+  "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+  "url": "https://www.lcolympia.de/index.php/abteilungen/lauftreff"
+ },
+ {
+  "name": "DAV Wiesbaden Waldläufer",
+  "city": "Wiesbaden",
+  "type": "Tuesday trail run (Nerobergbahn valley station)",
+  "address": "Talstation Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+  "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+ },
+ {
+  "name": "Sportraum Mainz",
+  "city": "Mainz",
+  "type": "RheinRunners / LaufZeit social run",
+  "address": "Curiestraße 2, 55129 Mainz",
+  "url": "https://laufzeit-mainz.de/lauftreff"
+ },
+ {
+  "name": "Kelly's Irish Pub",
+  "city": "Mainz",
+  "type": "Tuesday Night Run Club meeting point",
+  "address": "Mainz Hauptbahnhof",
+  "url": "https://www.tuesdaynightrun.club/"
+ },
+ {
+  "name": "Theodor-Heuss-Brücke",
+  "city": "Mainz",
+  "type": "MeenzRunners Tuesday social run",
+  "address": "Theodor-Heuss-Brücke, Mainz",
+  "url": "https://www.strava.com/clubs/MeenzRunners"
+ },
+ {
+  "name": "Maaraue parkrun",
+  "city": "Wiesbaden",
+  "type": "Free Saturday 5 km parkrun (Wiesbaden-Kastel)",
+  "address": "Maaraue 27, 55246 Wiesbaden",
+  "url": "https://www.parkrun.com.de/maaraue/"
  }
 ]

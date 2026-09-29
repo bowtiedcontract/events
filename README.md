@@ -1,6 +1,6 @@
 # Rhine-Main Events
 
-A static events dashboard for Wiesbaden, Mainz, Frankfurt, Darmstadt and the wider Rhine-Main area (Rheingau, Offenbach, Bad Homburg, Hanau …). It covers orchestra and classical music, concerts, festivals, tech, business/networking, art and general/social events.
+A static events dashboard for Wiesbaden, Mainz, Frankfurt, Darmstadt and the wider Rhine-Main area (Rheingau, Offenbach, Bad Homburg, Hanau …). It covers orchestra and classical music, concerts, festivals, tech, business/networking, art, climbing and bouldering, running and run clubs, and general/social events.
 
 Live site: https://bowtiedcontract.github.io/events/
 
@@ -28,7 +28,7 @@ It's a sibling of [english-yoga-wiesbaden](https://github.com/bowtiedcontract/en
 {
   "title": "Original title",
   "title_en": "English gloss if the title is German (optional, may be empty)",
-  "category": "festival | music | classical | tech | business | art | general",
+  "category": "festival | music | classical | tech | business | art | climbing | running | general",
   "date": "YYYY-MM-DD",
   "time": "HH:MM or empty",
   "end_date": "YYYY-MM-DD (optional, multi-day events / exhibitions)",
@@ -188,6 +188,18 @@ Hand-added events are kept until their date passes, and the automation never ove
 | `ihk_frankfurt` | IHK Frankfurt events | Playwright for the list, static event pages; webinars skipped, only events with a stated local venue |
 | `datamonster` | datamonster.io Monster-Meetings Rhein-Main | meeting pages |
 | `buchmesse`, `xmas_frankfurt`, `xmas_wiesbaden`, `xmas_mainz` | Frankfurter Buchmesse, Christmas markets (Frankfurt, Wiesbaden Sternschnuppenmarkt, Mainz) | date range on the official page |
+| `studiobloc_wiesbaden` | Studio Bloc Wiesbaden courses | dr-plano widget on the course pages (one calendar month at a time). Birthdays and the overnight product are skipped |
+| `nordwand_wiesbaden` | Wiesbadener Nordwand courses and kids' clubs | WooCommerce Bookings slots on nordwand.store. Yoga, tasters, punch cards and birthday inventory are skipped |
+| `boulderwelt_frankfurt` | Boulderwelt Frankfurt courses, workshops, camps, kids' groups | public API at gate.boulderwelt.de. Birthdays, personal training and room hire are skipped |
+| `kletterkiste_mainz` | Kletterkiste / DAV Mainz courses, Klettertreff, Grip & Grow | Yolawo course widgets, plus the published every-other-Thursday meet and the first-Monday women's meet at Nordwand. Hall-time slots ("Kletterzeit") are not events |
+| `lc_olympia` | LC Olympia Wiesbaden Lauftreff | club calendar (Wednesday and Sunday rows) |
+| `rheinrunners` | RheinRunners / LaufZeit | standing Thursday 19:00 at Sportraum Mainz, Curiestraße 2, expanded across the scrape window. A Monday meet at Luisenstraße is added only if that same page says so |
+| `dav_waldlaeufer` | DAV Wiesbaden Waldläufer | standing Tuesday 18:30 at the Nerobergbahn valley station |
+| `tuesday_night_run` | Tuesday Night Run Club Mainz | standing Tuesday 19:00 outside Kelly's Irish Pub (English-language) |
+| `meenzrunners` | MeenzRunners | standing Tuesday 19:00 at the Theodor-Heuss-Brücke (separate from Tuesday Night Run) |
+| `parkrun_maaraue` | Maaraue parkrun, Wiesbaden-Kastel | standing Saturday 09:00 on parkrun.com.de/maaraue |
+
+Standing weekly meets have no per-date calendar. The scraper emits one dated occurrence per meeting inside `WINDOW_DAYS` and links the group's own page. Eventbrite still drops yoga; that is unchanged.
 
 **Not automated, so check these monthly by hand:**
 - One-off conferences such as EU FinTech Week.

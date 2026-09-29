@@ -18,7 +18,8 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "data" / "descriptions.json"
 LABEL = {"classical": "Classical music", "music": "Concert", "festival": "Festival", "tech": "Tech event",
-         "business": "Business event", "art": "Exhibition", "general": "Event"}
+         "business": "Business event", "art": "Exhibition", "climbing": "Climbing", "running": "Run",
+         "general": "Event"}
 
 SYSTEM = (
     "You write short English blurbs for a bilingual events listing in the Rhine-Main region. "
