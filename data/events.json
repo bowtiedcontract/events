@@ -1,5 +1,5 @@
 {
- "last_updated": "Thu 1 Oct 2026, 09:01 (Berlin time)",
+ "last_updated": "Thu 1 Oct 2026, 09:04 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -2103,6 +2103,43 @@
    "english": false,
    "id": "f2ef50c2b6c1",
    "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Federweißerfest Hanau-Wilhelmsbad",
+   "title_en": "Federweißer festival at Wilhelmsbad",
+   "category": "festival",
+   "date": "2026-10-03",
+   "time": "11:00",
+   "venue": "Staatspark Hanau Wilhelmsbad",
+   "city": "Hanau",
+   "address": "Parkpromenade 7, 63454 Hanau",
+   "description": "Free Federweißer and onion-cake festival on German Unity Day in Staatspark Wilhelmsbad (11:00–18:00). Optional WeinKulturTour via the organiser site.",
+   "price": "Free",
+   "url": "https://www.krfrm.de/events/federweisserfest-2/",
+   "source": "https://www.krfrm.de/events/federweisserfest-2/",
+   "english": false,
+   "tags": [
+    "wine"
+   ]
+  },
+  {
+   "title": "Natur Pur in Hattenheimer Flur",
+   "title_en": "Natur Pur – Hattenheim vineyard walk",
+   "category": "festival",
+   "date": "2026-10-03",
+   "time": "11:00",
+   "end_date": "2026-10-04",
+   "venue": "Hattenheimer Weinprobierstand / vineyards",
+   "city": "Rheingau",
+   "address": "Hattenheim, 65347 Eltville am Rhein",
+   "description": "Annual Rheingau wine walk through the Hattenheim vineyards with winery stands for tasting and food. Path open about 11:00–18:00 on German Unity Day weekend.",
+   "url": "https://www.rheingau.de/veranstaltungen/feste/naturpur-hattenheim",
+   "source": "https://www.rheingau.de/veranstaltungen/feste/naturpur-hattenheim",
+   "english": false,
+   "tags": [
+    "wine",
+    "outdoor"
+   ]
   },
   {
    "title": "Wiesbadener Schallplattenbörse",
@@ -4759,6 +4796,23 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Bad Homburger Erntedankmarkt",
+   "title_en": "Bad Homburg Harvest Festival Market",
+   "category": "festival",
+   "date": "2026-10-10",
+   "end_date": "2026-10-11",
+   "venue": "Louisenstraße",
+   "city": "Bad Homburg",
+   "address": "Louisenstraße, 61348 Bad Homburg",
+   "description": "Harvest market on Louisenstraße with farm produce, crafts, fresh-pressed cider and animals; includes a Sunday shopping day.",
+   "url": "https://www.bad-homburg.de/de/erleben/ausgehen/veranstaltungen/erntedankmarkt",
+   "source": "https://www.bad-homburg.de/de/erleben/ausgehen/veranstaltungen/erntedankmarkt",
+   "english": false,
+   "tags": [
+    "market"
+   ]
+  },
+  {
    "title": "Soli fan tutti – 2. Konzert",
    "title_en": "Chamber concert (Sunday matinee)",
    "category": "classical",
@@ -5429,6 +5483,24 @@
    "english": false,
    "id": "9ac3cb3f2ba8",
    "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
+   "title": "19. Community-Meetup Rhein/Main: Bessere Anforderungen für Entwicklungsteams",
+   "title_en": "Rhein/Main Community Meetup: Better Requirements for Development Teams",
+   "category": "tech",
+   "date": "2026-10-14",
+   "time": "18:00",
+   "venue": "Accso – Accelerated Solutions GmbH",
+   "city": "Frankfurt",
+   "address": "Rahmhofstraße 2, 60313 Frankfurt",
+   "description": "Architecture-focused meetup with a talk by Gernot Starke on better requirements, then networking with drinks and finger food.",
+   "url": "https://treff.tech/events/ef5381e0-0cb6-4efa-9940-75f2d8fe5bb0",
+   "source": "https://treff.tech/events/ef5381e0-0cb6-4efa-9940-75f2d8fe5bb0",
+   "english": false,
+   "tags": [
+    "meetup",
+    "architecture"
+   ]
   },
   {
    "title": "Alte Oper Nights – Urban Vibe Festival",
@@ -6856,6 +6928,24 @@
    "origin": "scraper:kletterkiste_mainz"
   },
   {
+   "title": "Webmontag Frankfurt #118",
+   "title_en": "",
+   "category": "tech",
+   "date": "2026-10-19",
+   "time": "19:30",
+   "venue": "Brotfabrik Frankfurt",
+   "city": "Frankfurt",
+   "address": "Bachmannstraße 2–4, 60488 Frankfurt",
+   "description": "Monthly open tech talks and networking at Brotfabrik. Doors 19:00; talks from 19:30 including AI, payments (Wero) and digital risks.",
+   "url": "https://wmfra.de/archiv/webmontag-frankfurt-archiv-2026/webmontag-frankfurt-118/",
+   "source": "https://wmfra.de/archiv/webmontag-frankfurt-archiv-2026/webmontag-frankfurt-118/",
+   "english": false,
+   "tags": [
+    "meetup",
+    "networking"
+   ]
+  },
+  {
    "title": "Baba Zula – 30th Anniversary Tour",
    "title_en": "",
    "category": "music",
@@ -7307,6 +7397,26 @@
    "english": false,
    "id": "15f7317362fa",
    "origin": "scraper:festhalle"
+  },
+  {
+   "title": "EVOLVE 2026",
+   "title_en": "EVOLVE 2026 – Digital Congress for Mid-sized Business",
+   "category": "tech",
+   "date": "2026-10-21",
+   "time": "09:00",
+   "end_date": "2026-10-21",
+   "venue": "MEWA Arena",
+   "city": "Mainz",
+   "address": "Eugen-Salomon-Straße 1, 55128 Mainz",
+   "description": "Digital congress for Rhein-Main SMEs on AI, cybersecurity and digital sovereignty. Keynotes, workshops and networking; organised with BVMW / Medialine.",
+   "url": "https://www.bvmw.de/de/internet-und-digitalisierung/veranstaltungen/evolve-2026",
+   "source": "https://www.bvmw.de/de/internet-und-digitalisierung/veranstaltungen/evolve-2026",
+   "english": false,
+   "tags": [
+    "conference",
+    "business",
+    "AI"
+   ]
   },
   {
    "title": "Die Schneekönigin",
