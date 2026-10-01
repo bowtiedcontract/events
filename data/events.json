@@ -1,5 +1,5 @@
 {
- "last_updated": "Tue 29 Sep 2026, 18:32 (Berlin time)",
+ "last_updated": "Thu 1 Oct 2026, 09:01 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -210,902 +210,6 @@
    "english": true,
    "end_date": "2026-11-07",
    "id": "6fc0cb01920d"
-  },
-  {
-   "title": "19. Mobile Media Forum",
-   "title_en": "19th Mobile Media Forum",
-   "category": "tech",
-   "date": "2026-09-29",
-   "time": "09:00",
-   "venue": "Hochschule RheinMain – Campus Unter den Eichen",
-   "city": "Wiesbaden",
-   "address": "Unter den Eichen 5, Wiesbaden",
-   "description": "Annual forum on mobile media and digital technology at Hochschule RheinMain.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/19-mobile-media-forum-tickets-1990559237263",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
-   "english": false,
-   "id": "b15c9d478ff6"
-  },
-  {
-   "title": "DAV Waldläufer trail run",
-   "title_en": "",
-   "category": "running",
-   "date": "2026-09-29",
-   "time": "18:30",
-   "venue": "DAV Wiesbaden Waldläufer",
-   "city": "Wiesbaden",
-   "address": "Talstation Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
-   "description": "Run at DAV Wiesbaden Waldläufer, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "Free",
-   "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
-   "source": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
-   "english": false,
-   "id": "badfd98cb0ff",
-   "dates": [
-    {
-     "date": "2026-09-29",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-10-06",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-10-13",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-10-20",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-10-27",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "18:30",
-     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
-    }
-   ],
-   "origin": "scraper:dav_waldlaeufer"
-  },
-  {
-   "title": "POP UP COMEDY – HABEN & FRIENDS",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-29",
-   "time": "18:30",
-   "venue": "Taunustor 1",
-   "city": "Frankfurt",
-   "address": "Taunustor 1, 60311 Frankfurt am Main",
-   "description": "Event at Taunustor 1, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.com/e/pop-up-comedy-haben-friends-tickets-2001163631291",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
-   "english": false,
-   "id": "7a78e8ef60e7",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Bloc Basics",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "venue": "Studio Bloc Wiesbaden",
-   "city": "Wiesbaden",
-   "address": "Holzstraße 11, 65197 Wiesbaden",
-   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€72",
-   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/",
-   "source": "https://wiesbaden.studiobloc.de/angebote/",
-   "english": false,
-   "id": "27c7d78d77a5",
-   "dates": [
-    {
-     "date": "2026-09-29",
-     "time": "19:00",
-     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/"
-    },
-    {
-     "date": "2026-10-06",
-     "time": "19:00",
-     "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/"
-    }
-   ],
-   "origin": "scraper:studiobloc_wiesbaden"
-  },
-  {
-   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-02",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10771",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "6e0b52a2b019",
-   "dates": [
-    {
-     "date": "2026-09-29",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-10-20",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-10-27",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10771"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "HOOD Comedy - OPEN MIC im FREIGUT",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "venue": "Freigut Frankfurt | Summer Lounge",
-   "city": "Frankfurt",
-   "address": "Eiserner Steg, 60594 Frankfurt am Main",
-   "description": "Event at Freigut Frankfurt | Summer Lounge, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/hood-comedy-open-mic-im-freigut-tickets-1998479349532",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
-   "english": false,
-   "id": "338aac8e1d09",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "MeenzRunners social run",
-   "title_en": "",
-   "category": "running",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "venue": "Theodor-Heuss-Brücke",
-   "city": "Mainz",
-   "address": "Theodor-Heuss-Brücke, Mainz",
-   "description": "Run at Theodor-Heuss-Brücke, Mainz. See the organiser's page for programme and tickets.",
-   "price": "Free",
-   "url": "https://www.strava.com/clubs/MeenzRunners",
-   "source": "https://socialrunclubs.de/mainz/meenzrunners/",
-   "english": false,
-   "id": "69648e4f0882",
-   "dates": [
-    {
-     "date": "2026-09-29",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-10-06",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-10-13",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-10-20",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-10-27",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "19:00",
-     "url": "https://www.strava.com/clubs/MeenzRunners"
-    }
-   ],
-   "origin": "scraper:meenzrunners"
-  },
-  {
-   "title": "Tuesday Night Run",
-   "title_en": "",
-   "category": "running",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "venue": "Kelly's Irish Pub",
-   "city": "Mainz",
-   "address": "Mainz Hauptbahnhof",
-   "description": "Run at Kelly's Irish Pub, Mainz. See the organiser's page for programme and tickets.",
-   "price": "Free",
-   "url": "https://www.tuesdaynightrun.club/",
-   "source": "https://www.tuesdaynightrun.club/",
-   "english": true,
-   "id": "11ae2dd82734",
-   "dates": [
-    {
-     "date": "2026-09-29",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-10-06",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-10-13",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-10-20",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-10-27",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "19:00",
-     "url": "https://www.tuesdaynightrun.club/"
-    }
-   ],
-   "origin": "scraper:tuesday_night_run"
-  },
-  {
-   "title": "SHOWTIME! English Comedy Cocktail at French Bento Bar",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-29",
-   "time": "19:30",
-   "venue": "French Bento Bar",
-   "city": "Frankfurt",
-   "address": "Neckarstraße 13, Frankfurt am Main",
-   "description": "English-language stand-up comedy with cocktails.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/showtime-english-comedy-cocktail-at-french-bento-bar-tickets-1978796200704",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
-   "english": true,
-   "id": "4d9f98153f60"
-  },
-  {
-   "title": "COMEDY KELLER FRANKFURT! Deutsche Stand-Up Comedy",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-29",
-   "time": "20:00",
-   "venue": "Schöppche",
-   "city": "Frankfurt",
-   "address": "Klappergasse 3, 60594 Frankfurt am Main",
-   "description": "Event at Schöppche, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/comedy-keller-frankfurt-deutsche-stand-up-comedy-tickets-1983456886942",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
-   "english": false,
-   "id": "9ba7e6d7ae49",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Gstaad Festival Orchestra",
-   "title_en": "",
-   "category": "classical",
-   "date": "2026-09-29",
-   "time": "20:00",
-   "venue": "Alte Oper Frankfurt – Großer Saal",
-   "city": "Frankfurt",
-   "address": "Opernplatz 1, 60313 Frankfurt am Main",
-   "description": "Classical music at Alte Oper Frankfurt – Großer Saal, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "from €39.80",
-   "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76725",
-   "source": "https://www.alteoper.de/de/programm/gstaad-festival-orchestra/18993",
-   "english": false,
-   "id": "305a0f47766d",
-   "origin": "scraper:alte_oper"
-  },
-  {
-   "title": "Scusi Open Mic in der Neustadt",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-29",
-   "time": "20:00",
-   "venue": "Beim Budiker",
-   "city": "Mainz",
-   "address": "Raimundistraße 13, 55118 Mainz",
-   "description": "Event at Beim Budiker, Mainz. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.com/e/scusi-open-mic-in-der-neustadt-tickets-1999212375031",
-   "source": "https://www.eventbrite.com/d/germany--wiesbaden/events/",
-   "english": false,
-   "id": "bbcfe42bae9a",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Yfg Pave / Support: Sly Alone & Peaks",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-09-29",
-   "time": "20:15",
-   "venue": "Schlachthof Wiesbaden – Kesselhaus",
-   "city": "Wiesbaden",
-   "address": "Murnaustr. 1, 65189 Wiesbaden",
-   "description": "Concert at Schlachthof Wiesbaden – Kesselhaus, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€33,30",
-   "url": "https://schlachthof-wiesbaden.de/events/yfg-pave-2026",
-   "source": "https://schlachthof-wiesbaden.de/konzert",
-   "english": false,
-   "id": "849a3cc62a55",
-   "origin": "scraper:schlachthof_wiesbaden"
-  },
-  {
-   "title": "Boulderkids, fünf bis sechs Jahre, BK-11",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "15:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10773",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "f970039c6e54",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10773"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Boulderkids, sieben bis zehn Jahre, BK-12",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "15:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10774",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "cf2419a557c9",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "15:00",
-     "url": "https://plus.boulderwelt.de/event/10774"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Boulderkids, elf bis vierzehn Jahre, BK-14",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "17:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10777",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "15d33dac5d7a",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10777"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Boulderkids, sieben bis zehn Jahre, BK-13",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "17:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10776",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "17f1fa3da3a1",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10776"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "EchtJETZT – das Afterwork-Netzwerk in Wiesbaden",
-   "title_en": "EchtJETZT – after-work network Wiesbaden",
-   "category": "business",
-   "date": "2026-09-30",
-   "time": "18:30",
-   "venue": "Zentrum Mensch",
-   "city": "Wiesbaden",
-   "address": "Dotzheimer Straße 11, Wiesbaden",
-   "description": "After-work networking evening in Wiesbaden.",
-   "price": "",
-   "url": "https://www.eventbrite.com/e/echtjetzt-das-afterwork-netzwerk-in-wiesbaden-tickets-1998746200691",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
-   "english": false,
-   "id": "737468f1327c"
-  },
-  {
-   "title": "Bouldern – Einstiegskurs",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "Wiesbadener Nordwand",
-   "city": "Wiesbaden",
-   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
-   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€24.95",
-   "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/",
-   "source": "https://wiesbadener-nordwand.de/",
-   "english": false,
-   "id": "7c7ab8e793a7",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
-    }
-   ],
-   "origin": "scraper:nordwand_wiesbaden"
-  },
-  {
-   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-03",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10778",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "8f112bf496fa",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10778"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Eröffnung Anna Hulačová",
-   "title_en": "Opening: Anna Hulačová",
-   "category": "art",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "SCHIRN Kunsthalle Frankfurt",
-   "city": "Frankfurt",
-   "address": "Gabriel-Riesser-Weg 3, 60325 Frankfurt am Main",
-   "description": "Opening of the Anna Hulačová exhibition with the artist present; artist talk follows on 1 Oct at 19:00.",
-   "price": "",
-   "url": "https://www.schirn.de/ausstellungen/",
-   "source": "https://www.schirn.de/ausstellungen/",
-   "english": false,
-   "id": "e901f8ea0b50"
-  },
-  {
-   "title": "LC Olympia Lauftreff Mittwochs",
-   "title_en": "",
-   "category": "running",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "LC Olympia Wiesbaden Lauftreff",
-   "city": "Wiesbaden",
-   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
-   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "Free",
-   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-30-09-2026",
-   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
-   "english": false,
-   "id": "979f40bd172b",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "time": "19:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-30-09-2026"
-    },
-    {
-     "date": "2026-10-07",
-     "time": "19:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-07-10-2026"
-    },
-    {
-     "date": "2026-10-14",
-     "time": "19:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-14-10-2026"
-    },
-    {
-     "date": "2026-10-21",
-     "time": "19:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-21-10-2026"
-    },
-    {
-     "date": "2026-10-28",
-     "time": "19:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-28-10-2026"
-    }
-   ],
-   "origin": "scraper:lc_olympia"
-  },
-  {
-   "title": "RUN N RAVE #3 | Futury x FiB x CNDO",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "Futury Startup Space",
-   "city": "Frankfurt",
-   "address": "Am Steinernen Stock 1, 60320 Frankfurt am Main",
-   "description": "Startup-scene run club followed by a rave-style after-party.",
-   "price": "",
-   "url": "https://lu.ma/nzr4fxsh",
-   "source": "https://lu.ma/frankfurt",
-   "english": true,
-   "id": "6d57209558e2"
-  },
-  {
-   "title": "Spiritbox – Tsunami Sea UK + EU Tour 2026",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "Jahrhunderthalle Frankfurt",
-   "city": "Frankfurt",
-   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
-   "description": "Canadian metalcore band Spiritbox in the Kuppelsaal.",
-   "price": "",
-   "url": "https://www.jahrhunderthalle.de/programm/spiritbox/30-09-2026/19-00",
-   "source": "https://www.jahrhunderthalle.de/programm",
-   "english": true,
-   "id": "a0d3c15c3c70"
-  },
-  {
-   "title": "Women in Dialogue: Female Founders Night - Gründerinnen im Gespräch",
-   "title_en": "",
-   "category": "business",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "venue": "Mindshare GmbH",
-   "city": "Frankfurt",
-   "address": "Darmstädter Landstraße 112, Frankfurt am Main",
-   "description": "Evening with female founders sharing their stories, plus networking.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/women-in-dialogue-female-founders-night-grunderinnen-im-gesprach-tickets-1992770799104",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/startup/",
-   "english": false,
-   "id": "59f44c2188cf"
-  },
-  {
-   "title": "Bülent Ceylan und Band",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-09-30",
-   "time": "20:00",
-   "venue": "Batschkapp",
-   "city": "Frankfurt",
-   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
-   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.batschkapp.net/events/buelent-ceylan-und-band-frankfurt-batschkapp-2026-09-30-200000",
-   "source": "https://www.batschkapp.net/batschkapp",
-   "english": false,
-   "id": "e029be30bde2",
-   "origin": "scraper:batschkapp"
-  },
-  {
-   "title": "Simon & Jan: Heiße Luft",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-09-30",
-   "time": "20:00",
-   "venue": "Centralstation Darmstadt",
-   "city": "Darmstadt",
-   "address": "Im Carree, 64283 Darmstadt",
-   "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/27693/simon-jan-neues-programm/",
-   "source": "https://www.centralstation-darmstadt.de/programm",
-   "english": false,
-   "id": "c452bf360ba2",
-   "origin": "scraper:centralstation_darmstadt"
   },
   {
    "title": "Flohmarkt an der Jahrhunderthalle",
@@ -1827,23 +931,6 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
    "english": false,
    "id": "b0269b4e39ae",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Connect & Rise - Das Netzwerk-Dinner für Frauen mit Vision in Darmstadt",
-   "title_en": "",
-   "category": "business",
-   "date": "2026-10-01",
-   "time": "18:30",
-   "venue": "Obendrüber vom Henschel",
-   "city": "Darmstadt",
-   "address": "Marktplatz 2, 64283 Darmstadt",
-   "description": "Business event at Obendrüber vom Henschel, Darmstadt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/connect-rise-das-netzwerk-dinner-fur-frauen-mit-vision-in-darmstadt-tickets-1983294181285",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
-   "english": false,
-   "id": "f2e58b9587d6",
    "origin": "scraper:eventbrite"
   },
   {
@@ -2869,7 +1956,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/31849/24-darmstaedter-nacht-der-stimmen/",
+   "url": "https://centralstation-darmstadt.de/event/24-darmstaedter-nacht-der-stimmen/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "15bd3866483e",
@@ -2906,6 +1993,70 @@
    "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false,
    "id": "75eca9ca5f8f"
+  },
+  {
+   "title": "Maaraue parkrun",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-03",
+   "time": "09:00",
+   "venue": "Maaraue parkrun",
+   "city": "Wiesbaden",
+   "address": "Maaraue 27, 55246 Wiesbaden",
+   "description": "Run at Maaraue parkrun, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.parkrun.com.de/maaraue/",
+   "source": "https://www.parkrun.com.de/maaraue/",
+   "english": true,
+   "id": "92f76fb0bf90",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-10-10",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-10-17",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-10-24",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-10-31",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-11-07",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2026-11-28",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
+    }
+   ],
+   "origin": "scraper:parkrun_maaraue"
   },
   {
    "title": "Technik-Kletterkurs 1 (Indoor)",
@@ -3105,6 +2256,23 @@
    "english": false,
    "id": "7665ffb75cc0",
    "origin": "scraper:alte_oper"
+  },
+  {
+   "title": "Frankfurt International Stand Up Comedy Night in English",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-03",
+   "time": "20:30",
+   "venue": "a&o Hostel Frankfurt Ostend",
+   "city": "Frankfurt",
+   "address": "Hanauer Landstraße 207, 60314 Frankfurt am Main",
+   "description": "Event at a&o Hostel Frankfurt Ostend, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/frankfurt-international-stand-up-comedy-night-in-english-tickets-1999295575887",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
+   "english": true,
+   "id": "7de13c30cd16",
+   "origin": "scraper:eventbrite"
   },
   {
    "title": "LC Olympia Lauftreff (2026)",
@@ -4096,7 +3264,7 @@
    "description": "Business event at Messe Frankfurt, Room Concord Halle 4.C, Frankfurt. See the organiser's page for programme and tickets.",
    "price": "",
    "url": "https://www.eventbrite.co.uk/e/editeurs-47th-international-supply-chain-seminar-2026-tickets-1992435583465",
-   "source": "https://www.eventbrite.com/d/germany--darmstadt/business--events/",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
    "english": false,
    "id": "8d88fba1e2ec",
    "origin": "scraper:eventbrite"
@@ -4116,6 +3284,87 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
    "english": false,
    "id": "138e1eb42fc5"
+  },
+  {
+   "title": "DAV Waldläufer trail run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-06",
+   "time": "18:30",
+   "venue": "DAV Wiesbaden Waldläufer",
+   "city": "Wiesbaden",
+   "address": "Talstation Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at DAV Wiesbaden Waldläufer, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
+   "source": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer",
+   "english": false,
+   "id": "badfd98cb0ff",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    }
+   ],
+   "origin": "scraper:dav_waldlaeufer"
+  },
+  {
+   "title": "Bloc Basics",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-06",
+   "time": "19:00",
+   "venue": "Studio Bloc Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Holzstraße 11, 65197 Wiesbaden",
+   "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€72",
+   "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic/",
+   "source": "https://wiesbaden.studiobloc.de/angebote/",
+   "english": false,
+   "id": "27c7d78d77a5",
+   "origin": "scraper:studiobloc_wiesbaden"
   },
   {
    "title": "Grundkurs Toprope",
@@ -4215,6 +3464,134 @@
     }
    ],
    "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
+   "title": "MeenzRunners social run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-06",
+   "time": "19:00",
+   "venue": "Theodor-Heuss-Brücke",
+   "city": "Mainz",
+   "address": "Theodor-Heuss-Brücke, Mainz",
+   "description": "Run at Theodor-Heuss-Brücke, Mainz. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.strava.com/clubs/MeenzRunners",
+   "source": "https://socialrunclubs.de/mainz/meenzrunners/",
+   "english": false,
+   "id": "69648e4f0882",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
+    }
+   ],
+   "origin": "scraper:meenzrunners"
+  },
+  {
+   "title": "Tuesday Night Run",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-06",
+   "time": "19:00",
+   "venue": "Kelly's Irish Pub",
+   "city": "Mainz",
+   "address": "Mainz Hauptbahnhof",
+   "description": "Run at Kelly's Irish Pub, Mainz. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://www.tuesdaynightrun.club/",
+   "source": "https://www.tuesdaynightrun.club/",
+   "english": true,
+   "id": "11ae2dd82734",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-13",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    }
+   ],
+   "origin": "scraper:tuesday_night_run"
   },
   {
    "title": "Trainingsgruppe Women only",
@@ -4403,6 +3780,45 @@
    "english": false,
    "id": "df0728e623a4",
    "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "LC Olympia Lauftreff Mittwochs",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-10-07",
+   "time": "19:00",
+   "venue": "LC Olympia Wiesbaden Lauftreff",
+   "city": "Wiesbaden",
+   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-07-10-2026",
+   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
+   "english": false,
+   "id": "979f40bd172b",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-07-10-2026"
+    },
+    {
+     "date": "2026-10-14",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-14-10-2026"
+    },
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-21-10-2026"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-mittwochs-28-10-2026"
+    }
+   ],
+   "origin": "scraper:lc_olympia"
   },
   {
    "title": "Zaide (Mozart)",
@@ -4596,7 +4012,7 @@
    "origin": "scraper:alte_oper"
   },
   {
-   "title": "Tristan Brusch: Am Anfang Tour 2026 - Die Zugabe",
+   "title": "Tristan Brusch: Am Anfang Tour 2026 – Die Zugabe",
    "title_en": "",
    "category": "music",
    "date": "2026-10-07",
@@ -4606,7 +4022,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/31790/tristan-brusch-am-anfang-tour-2026/",
+   "url": "https://centralstation-darmstadt.de/event/tristan-brusch-am-anfang-tour-2026/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "b5ef749f1bea",
@@ -4827,7 +4243,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/33819/ersti-party-die-erste-pflichtvorlesung-fuer-alle-erstis/",
+   "url": "https://centralstation-darmstadt.de/event/ersti-party-die-erste-pflichtvorlesung-fuer-alle-erstis/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "e8fef5db2388",
@@ -4894,23 +4310,6 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
    "english": false,
    "id": "dd68fe5ff51c",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Anti - masterclass",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-10-09",
-   "time": "19:00",
-   "venue": "Frankfurt am Main",
-   "city": "Frankfurt",
-   "address": "Luis Appia passage, 60318 Frankfurt am Main",
-   "description": "Event at Frankfurt am Main, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.com/e/anti-masterclass-tickets-1998936315329",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
-   "english": false,
-   "id": "0c5af68e9a3a",
    "origin": "scraper:eventbrite"
   },
   {
@@ -5343,6 +4742,23 @@
    "id": "04db60e89e99"
   },
   {
+   "title": "LOVE IS A JOKE! Interaktive Stand-Up Comedy auf Deutsch",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-10",
+   "time": "20:00",
+   "venue": "Moxy Frankfurt East",
+   "city": "Frankfurt",
+   "address": "Hanauer Landstraße 162, Frankfurt",
+   "description": "Event at Moxy Frankfurt East, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/love-is-a-joke-interaktive-stand-up-comedy-auf-deutsch-tickets-1996807455853",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
+   "english": false,
+   "id": "6bcc09706637",
+   "origin": "scraper:eventbrite"
+  },
+  {
    "title": "Soli fan tutti – 2. Konzert",
    "title_en": "Chamber concert (Sunday matinee)",
    "category": "classical",
@@ -5419,6 +4835,23 @@
     }
    ],
    "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "HOOD Comedy - OPEN MIC im KARLSON",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-11",
+   "time": "18:00",
+   "venue": "KARLSON CLUB",
+   "city": "Frankfurt",
+   "address": "Karlstraße 17, 60329 Frankfurt am Main",
+   "description": "Event at KARLSON CLUB, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/hood-comedy-open-mic-im-karlson-tickets-1993848744267",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
+   "english": false,
+   "id": "902ba000d04a",
+   "origin": "scraper:eventbrite"
   },
   {
    "title": "Ottone (Händel) – Premiere",
@@ -6354,6 +5787,23 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Connect & Grow – Treffen mit Persönlichkeitsentwicklung",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "NICO’S KITCHEN",
+   "city": "Frankfurt",
+   "address": "Europa-Allee 73, 60486 Frankfurt am Main",
+   "description": "Business event at NICO’S KITCHEN, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/connect-grow-treffen-mit-personlichkeitsentwicklung-tickets-1982974230303",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
+   "english": false,
+   "id": "2adbd5f0139b",
+   "origin": "scraper:eventbrite"
+  },
+  {
    "title": "Tancredi (Rossini)",
    "title_en": "Tancredi – Rossini opera (Italian, English surtitles)",
    "category": "classical",
@@ -6706,7 +6156,7 @@
    "origin": "scraper:staatstheater_wiesbaden"
   },
   {
-   "title": "GlasBlasSing: Kästen raus - Flaschenarbeit",
+   "title": "GlasBlasSing: Kästen raus – Flaschenarbeit",
    "title_en": "",
    "category": "music",
    "date": "2026-10-17",
@@ -6716,7 +6166,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/27729/glasblassing-kaesten-raus-flaschenarbeit/",
+   "url": "https://centralstation-darmstadt.de/event/glasblassing-kaesten-raus-flaschenarbeit/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "043892a86223",
@@ -7737,6 +7187,60 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-02",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10771",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "6e0b52a2b019",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-10-27",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-03",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10771"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "Soiree des Opernstudios",
    "title_en": "",
    "category": "classical",
@@ -7858,6 +7362,268 @@
    "source": "https://www.alteoper.de/en/programme/dominik-wagner-kontrabassquartett/18872",
    "english": false,
    "id": "accb4f2b0a8e"
+  },
+  {
+   "title": "Boulderkids, fünf bis sechs Jahre, BK-11",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10773",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "f970039c6e54",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10773"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-12",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "15:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10774",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "cf2419a557c9",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "15:00",
+     "url": "https://plus.boulderwelt.de/event/10774"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, elf bis vierzehn Jahre, BK-14",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10777",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "15d33dac5d7a",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10777"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Boulderkids, sieben bis zehn Jahre, BK-13",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10776",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "17f1fa3da3a1",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/10776"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "EchtJETZT – das Afterwork-Netzwerk in Wiesbaden",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-10-21",
+   "time": "18:30",
+   "venue": "ZENTRUM MENSCH - Praxisraum-Sharing, Co-Working, Seminarräume & Veranstaltungen für/von Coaches und Therapeuten",
+   "city": "Wiesbaden",
+   "address": "Dotzheimer Straße 11 #2. Stock, 65185 Wiesbaden",
+   "description": "Business event at ZENTRUM MENSCH - Praxisraum-Sharing, Co-Working, Seminarräume & Veranstaltungen für/von Coaches und Therapeuten, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.com/e/echtjetzt-das-afterwork-netzwerk-in-wiesbaden-tickets-1998746244823",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
+   "english": false,
+   "id": "792b8b248d40",
+   "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "Boulderteens, vierzehn bis siebzehn Jahre, BT-03",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10778",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "8f112bf496fa",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/10778"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Grundkurs",
@@ -8916,6 +8682,23 @@
    "origin": "scraper:studiobloc_wiesbaden"
   },
   {
+   "title": "SHOWTIME! English Comedy Cocktail at French Bento Bar",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "venue": "French Bento Bar",
+   "city": "Frankfurt",
+   "address": "Neckarstraße 13, 60329 Frankfurt am Main",
+   "description": "Event at French Bento Bar, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/showtime-english-comedy-cocktail-at-french-bento-bar-tickets-1978796568805",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
+   "english": true,
+   "id": "4d9f98153f60",
+   "origin": "scraper:eventbrite"
+  },
+  {
    "title": "Karibische Klangwelten – Musiken der Welt",
    "title_en": "Caribbean Soundworlds – world music",
    "category": "music",
@@ -8980,6 +8763,40 @@
    "source": "https://www.alteoper.de/en/programme/sachsische-staatskapelle-dresden/18851",
    "english": false,
    "id": "b2142afa374b"
+  },
+  {
+   "title": "Bouldern – Einstiegskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€24.95",
+   "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "7c7ab8e793a7",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/bouldern-einstiegskurs/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "Disney in Concert 2026 – Die Jubiläumstournee",
@@ -10974,7 +10791,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/33061/facesoul/",
+   "url": "https://centralstation-darmstadt.de/event/facesoul/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "14611b674e47",
@@ -11370,6 +11187,23 @@
    "origin": "scraper:batschkapp"
   },
   {
+   "title": "World Usability Day 2026 in Frankfurt",
+   "title_en": "",
+   "category": "tech",
+   "date": "2026-11-12",
+   "time": "17:30",
+   "venue": "Neue Mainzer Str. 6-12",
+   "city": "Frankfurt",
+   "address": "Neue Mainzer Straße 6-12, 60311 Frankfurt am Main",
+   "description": "Tech event at Neue Mainzer Str. 6-12, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/world-usability-day-2026-in-frankfurt-tickets-1999745910851",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/ai/",
+   "english": false,
+   "id": "c5ad557daf0f",
+   "origin": "scraper:eventbrite"
+  },
+  {
    "title": "Mining Masterclass at Deutsche Goldmesse",
    "title_en": "",
    "category": "general",
@@ -11541,6 +11375,23 @@
    "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/startup/",
    "english": false,
    "id": "b03da6238cbc",
+   "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "FS Business Forum 2026",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-11-13",
+   "time": "09:00",
+   "venue": "Frankfurt School of Finance & Management",
+   "city": "Frankfurt",
+   "address": "Adickesallee 32-34, 60322 Frankfurt am Main",
+   "description": "Business event at Frankfurt School of Finance & Management, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/fs-business-forum-2026-tickets-1993516652973",
+   "source": "https://www.eventbrite.com/d/germany--darmstadt/business--events/",
+   "english": false,
+   "id": "719ff8b00e00",
    "origin": "scraper:eventbrite"
   },
   {
@@ -11762,7 +11613,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/30479/muff-potter-klepto-tour-2026/",
+   "url": "https://centralstation-darmstadt.de/event/muff-potter-klepto-tour-2026/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "e57a029aaeab",
@@ -12234,7 +12085,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/31745/anda-morts-i-hate-this-part-of-texas-tour/",
+   "url": "https://centralstation-darmstadt.de/event/anda-morts-i-hate-this-part-of-texas-tour/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "1202f9435f44",
@@ -12557,6 +12408,23 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Connect & Rise - Das Netzwerk-Dinner für Frauen mit Vision in Darmstadt",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "venue": "Obendrüber vom Henschel",
+   "city": "Darmstadt",
+   "address": "Marktplatz 2, 64283 Darmstadt",
+   "description": "Business event at Obendrüber vom Henschel, Darmstadt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/connect-rise-das-netzwerk-dinner-fur-frauen-mit-vision-in-darmstadt-tickets-1983294592515",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
+   "english": false,
+   "id": "f2e58b9587d6",
+   "origin": "scraper:eventbrite"
+  },
+  {
    "title": "Currents + Erra / Special Guests: Caskets / Aviana",
    "title_en": "",
    "category": "music",
@@ -12846,7 +12714,7 @@
    "description": "Business event at Deutsche Bank Filiale, Frankfurt. See the organiser's page for programme and tickets.",
    "price": "",
    "url": "https://www.eventbrite.de/e/coaching-lab-2026-25-jahre-the-germany-chapter-of-icf-tickets-1994986995808",
-   "source": "https://www.eventbrite.com/d/germany--darmstadt/business--events/",
+   "source": "https://www.eventbrite.com/d/germany--wiesbaden/events/",
    "english": false,
    "id": "ca8d2fe01594",
    "origin": "scraper:eventbrite"
@@ -13067,7 +12935,7 @@
    "origin": "scraper:alte_oper"
   },
   {
-   "title": "Suli und Carrington-Brown: I go nuts! Ich drehe durch! - Familien Entertainment",
+   "title": "Suli und Carrington-Brown: I go nuts! Ich drehe durch! – Familien Entertainment",
    "title_en": "",
    "category": "music",
    "date": "2026-11-22",
@@ -13077,7 +12945,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/28711/klassik-rockt-kinder-familien-entertainment/",
+   "url": "https://centralstation-darmstadt.de/event/klassik-rockt-kinder-familien-entertainment/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "20335e736e07",
@@ -13735,7 +13603,7 @@
    "address": "Im Carree, 64283 Darmstadt",
    "description": "Concert at Centralstation Darmstadt, Darmstadt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://www.centralstation-darmstadt.de/event/30995/henni-nachtsheim-band/",
+   "url": "https://centralstation-darmstadt.de/event/henni-nachtsheim-band/",
    "source": "https://www.centralstation-darmstadt.de/programm",
    "english": false,
    "id": "7e2be3cf0cb0",
@@ -14211,6 +14079,40 @@
    "english": false,
    "id": "bc4b53eb14d2",
    "origin": "scraper:festhalle"
+  },
+  {
+   "title": "9. ValueBizConnect Event",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "venue": "Holiday Inn",
+   "city": "Frankfurt",
+   "address": "Mainzer Landstraße 27, 60329 Frankfurt am Main",
+   "description": "Business event at Holiday Inn, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/9-valuebizconnect-event-tickets-1969986909878",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
+   "english": false,
+   "id": "120faf8593ee",
+   "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "Frankfurt Multiculti Networking",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "venue": "ZDSK - Zentrum für deutsche Sprache und Kultur & TANDEM Frankfurt",
+   "city": "Frankfurt",
+   "address": "Rödelheimer Bahnweg 31, 60489 Frankfurt am Main",
+   "description": "Business event at ZDSK - Zentrum für deutsche Sprache und Kultur & TANDEM Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.eventbrite.de/e/frankfurt-multiculti-networking-tickets-1998537660943",
+   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
+   "english": false,
+   "id": "848be01a240f",
+   "origin": "scraper:eventbrite"
   }
  ]
 }
