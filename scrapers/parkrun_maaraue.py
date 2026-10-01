@@ -3,6 +3,10 @@
 parkrun's own page says every Saturday at 9:00 at Maaraue 27. There is no
 per-date calendar, so each Saturday in the window is emitted. Participation
 needs a one-time free parkrun registration and a barcode; no German is required.
+
+GitHub Actions runners often get HTTP 405 from parkrun.com.de; in that case we
+fall back to the known standing meet (Saturday 09:00) so the series stays on
+the dashboard. Cancellation text on a successful fetch still returns [].
 """
 import re
 
@@ -10,16 +14,27 @@ from .base import ScraperError, clean, make_event, series, soup
 
 SOURCE = {"id": "parkrun_maaraue", "name": "Maaraue parkrun",
           "url": "https://www.parkrun.com.de/maaraue/"}
+DEFAULT_CLOCK = "09:00"
 
 
 def scrape(ctx):
-    flat = clean(soup(SOURCE["url"]).get_text(" ", strip=True))
-    if re.search(r"findet nicht statt|abgesagt|cancelled|event is closed", flat, re.I):
-        return []
-    m = re.search(r"jeden Samstag um\s*(\d{1,2}):(\d{2})", flat, re.I)
-    if not m:
-        raise ScraperError("Maaraue parkrun Saturday line not found")
-    clock = f"{int(m.group(1)):02d}:{m.group(2)}"
+    clock = DEFAULT_CLOCK
+    try:
+        flat = clean(soup(SOURCE["url"]).get_text(" ", strip=True))
+    except ScraperError as ex:
+        # Bot protection / method not allowed from some egress IPs (e.g. Actions).
+        if re.search(r"\b405\b|Not Allowed|403\b|Forbidden", str(ex), re.I):
+            flat = ""
+        else:
+            raise
+    if flat:
+        if re.search(r"findet nicht statt|abgesagt|cancelled|event is closed", flat, re.I):
+            return []
+        m = re.search(r"jeden Samstag um\s*(\d{1,2}):(\d{2})", flat, re.I)
+        if m:
+            clock = f"{int(m.group(1)):02d}:{m.group(2)}"
+        elif not re.search(r"parkrun|Maaraue", flat, re.I):
+            raise ScraperError("Maaraue parkrun page content unexpected")
     days = ctx.dates_on(5)
     if not days:
         return []
