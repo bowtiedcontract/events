@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-01T09:05:30+01:00",
- "events_total": 531,
- "new_events": 46,
- "pruned_past": 46,
- "duplicates_removed": 13,
+ "generated": "2026-11-01T09:15:12+01:00",
+ "events_total": 534,
+ "new_events": 3,
+ "pruned_past": 0,
+ "duplicates_removed": 8,
  "invalid_dropped": 0,
  "descriptions": {
-  "cached": 16,
+  "cached": 3,
   "llm": 0,
-  "template": 44,
+  "template": 2,
   "requests": 0,
   "llm_errors": 0,
   "model": null
@@ -32,14 +32,13 @@
    "id": "kurhaus_wiesbaden",
    "name": "Kurhaus Wiesbaden",
    "url": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
-   "status": "skipped",
-   "events": 0,
+   "status": "ok",
+   "events": 11,
    "previous": 8,
-   "last_ok_events": 8,
-   "seconds": 14.1,
+   "last_ok_events": 11,
+   "seconds": 5.0,
    "error": "",
-   "broken": false,
-   "note": "not run this time (--only/--skip); previous events kept"
+   "broken": false
   },
   {
    "id": "termine_kurhaus",
@@ -253,14 +252,13 @@
    "id": "schirn",
    "name": "SCHIRN Kunsthalle Frankfurt",
    "url": "https://www.schirn.de/ausstellungen/",
-   "status": "skipped",
-   "events": 0,
+   "status": "ok",
+   "events": 2,
    "previous": 1,
-   "last_ok_events": 1,
-   "seconds": 1.1,
+   "last_ok_events": 2,
+   "seconds": 6.1,
    "error": "",
-   "broken": false,
-   "note": "not run this time (--only/--skip); previous events kept"
+   "broken": false
   },
   {
    "id": "museum_wiesbaden",
@@ -292,13 +290,14 @@
    "id": "eventbrite",
    "name": "Eventbrite (Rhein-Main searches)",
    "url": "https://www.eventbrite.com/d/germany--frankfurt-am-main/networking/",
-   "status": "ok",
+   "status": "skipped",
    "events": 73,
    "previous": 67,
    "last_ok_events": 73,
    "seconds": 22.6,
    "error": "",
-   "broken": false
+   "broken": false,
+   "note": "not run this time (--only/--skip); previous events kept"
   },
   {
    "id": "luma",
@@ -523,18 +522,13 @@
   }
  ],
  "duplicates": [
-  "November: WMN Netzwerktreffen – Diversity \"Gemeinsam stark - aber für wen?\" [scraper:eventbrite] = November: WMN Netzwerktreffen – Diversity \"Gemeinsam stark - aber für wen?\" [manual]",
-  "Blockchain and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Politics and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Law and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "EntrepreNerve Summit 2026 [scraper:eventbrite] = EntrepreNerve Summit 2026 [manual]",
-  "Engineering and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Tech and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Multi-Vertical Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Fashion and Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite] = General Business Networking | Elevating Your Potential - Frankfurt [scraper:eventbrite]",
-  "Indo-German Business Hub 26 [scraper:eventbrite] = Indo-German Business Hub 26 [manual]",
-  "IE FINANCE DAY IN FRANKFURT: Who Will Own the Mittelstand Next? [scraper:eventbrite] = IE FINANCE DAY IN FRANKFURT: Who Will Own the Mittelstand Next? [manual]",
-  "WHATS YOUR PROBLEM?!? A Comedy Advice Show in Frankfurt [scraper:eventbrite] = WHATS YOUR PROBLEM?!? A Comedy Advice Show in Frankfurt [manual]",
-  "SHOWTIME! English Comedy Cocktail at French Bento Bar [scraper:eventbrite] = SHOWTIME! English Comedy Cocktail (w/ Host & Headliner) [scraper:eventbrite]"
+  "InterWhisky 2026 - Internationale Fachmesse für Whiskykultur [scraper:kurhaus_wiesbaden] = InterWhisky 2026 [manual]",
+  "Eine Hommage an Ludovico Einaudi [scraper:kurhaus_wiesbaden] = Eine Hommage an Ludovico Einaudi [manual]",
+  "Wiener Klassik | Wien, Wien nur du allein! [scraper:kurhaus_wiesbaden] = Wiener Klassik | Wien, Wien nur du allein! [manual]",
+  "Vivaldi - Die vier Jahreszeiten [scraper:kurhaus_wiesbaden] = Vivaldi – Die vier Jahreszeiten [manual]",
+  "GREGORIAN: Magical Christmas Tour [scraper:kurhaus_wiesbaden] = GREGORIAN - The Magical Christmas Tour 2026 [scraper:termine_kurhaus]",
+  "Zauberflöte - für die ganze Familie [scraper:kurhaus_wiesbaden] = Die Zauberflöte - für die ganze Familie - mit Erzähler [scraper:termine_kurhaus]",
+  "Schneekönigin - das Musical [scraper:kurhaus_wiesbaden] = Schneekönigin - das Musical [scraper:termine_kurhaus]",
+  "Leonor Fini [scraper:schirn] = Leonor Fini [manual]"
  ]
 }
