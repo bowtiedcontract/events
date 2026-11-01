@@ -166,7 +166,7 @@ Hand-added events are kept until their date passes, and the automation never ove
 | Scraper (`scrapers/…`) | Source | Method |
 |---|---|---|
 | `staatstheater_wiesbaden` | Hessisches Staatstheater Wiesbaden (concerts, opera, dance; incl. Sinfoniekonzerte in the Kurhaus) | schema.org Event microdata, monthly calendar |
-| `kurhaus_wiesbaden` | Kurhaus Wiesbaden official calendar | Playwright → the page's GraphQL search → public per-event iCal |
+| `kurhaus_wiesbaden` | Kurhaus Wiesbaden official calendar | Playwright → the page's GraphQL `SearchEvents` query (dates on each teaser) |
 | `termine_kurhaus` | Kurhaus Wiesbaden guest/promoter concerts via termine.de | static HTML list |
 | `schlachthof_wiesbaden` | Schlachthof Wiesbaden concerts | HTML list + detail pages (start time, VVK price) |
 | `staatstheater_mainz` | Staatstheater Mainz (opera, concerts, ballet) | monthly overview HTML |

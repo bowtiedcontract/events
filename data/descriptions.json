@@ -1280,6 +1280,13 @@
   "created": "2026-10-12",
   "last_seen": "2026-11-01"
  },
+ "515e31569d63": {
+  "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+  "title_en": "",
+  "source": "template",
+  "created": "2026-11-01",
+  "last_seen": "2026-11-01"
+ },
  "51715dd40c1b": {
   "description": "Classical music at Alte Oper Frankfurt – Großer Saal, Frankfurt. See the organiser's page for programme and tickets.",
   "title_en": "",
@@ -3973,7 +3980,7 @@
   "title_en": "",
   "source": "template",
   "created": "2026-09-27",
-  "last_seen": "2026-10-01"
+  "last_seen": "2026-11-01"
  },
  "e4ae159418f2": {
   "description": "Event at Restaurant Francis, Frankfurt. See the organiser's page for programme and tickets.",
@@ -4260,6 +4267,13 @@
   "title_en": "",
   "source": "template",
   "created": "2026-09-27",
+  "last_seen": "2026-11-01"
+ },
+ "f4fe7a929698": {
+  "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+  "title_en": "",
+  "source": "template",
+  "created": "2026-11-01",
   "last_seen": "2026-11-01"
  },
  "f5405b5403f3": {

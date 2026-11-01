@@ -1,5 +1,5 @@
 {
- "last_updated": "Sun 1 Nov 2026, 09:05 (Berlin time)",
+ "last_updated": "Sun 1 Nov 2026, 09:15 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -210,6 +210,24 @@
    "english": true,
    "end_date": "2026-11-07",
    "id": "6fc0cb01920d"
+  },
+  {
+   "title": "Anna Hulačová",
+   "title_en": "",
+   "category": "art",
+   "date": "2026-10-01",
+   "time": "",
+   "venue": "SCHIRN Kunsthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Gabriel-Riesser-Weg 3, 60325 Frankfurt am Main",
+   "description": "Exhibition at SCHIRN Kunsthalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.schirn.de/ausstellung/anna-hulacova/",
+   "source": "https://www.schirn.de/ausstellungen/",
+   "english": false,
+   "end_date": "2027-01-10",
+   "id": "e3f36804cba2",
+   "origin": "scraper:schirn"
   },
   {
    "title": "Daniela Comani — Orlando’s Library: Intervention",
@@ -6382,7 +6400,7 @@
    "address": "Kurhausplatz 1, 65189 Wiesbaden",
    "description": "Event at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168633",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168633&eventId=282092",
    "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
    "id": "52c26e772ec8",
@@ -10441,7 +10459,7 @@
    "address": "Kurhausplatz 1, 65189 Wiesbaden",
    "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=160225",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=160225&eventId=271464",
    "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
    "id": "34681ccda2d9",
@@ -12468,6 +12486,23 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "9. Sinfonie Antonín Dvořáks",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-21",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168265&eventId=281471",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false,
+   "id": "515e31569d63",
+   "origin": "scraper:kurhaus_wiesbaden"
+  },
+  {
    "title": "Cuban Christmas",
    "title_en": "",
    "category": "music",
@@ -12830,6 +12865,23 @@
    "english": false,
    "id": "b0d96b0a1a51",
    "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Silvester-Gala Wiesbaden 2026/2027",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-31",
+   "time": "19:30",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=161865&eventId=269080",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
+   "english": false,
+   "id": "f4fe7a929698",
+   "origin": "scraper:kurhaus_wiesbaden"
   }
  ]
 }
