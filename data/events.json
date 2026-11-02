@@ -1,5 +1,5 @@
 {
- "last_updated": "Sun 1 Nov 2026, 09:15 (Berlin time)",
+ "last_updated": "Mon 2 Nov 2026, 14:01 (Berlin time)",
  "events": [
   {
    "title": "Max und mini — Studienausstellung",
@@ -282,466 +282,6 @@
    "id": "2811e8790509"
   },
   {
-   "title": "Sturz- und Sicherungstraining (Indoorklettern)",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-01",
-   "time": "09:00",
-   "venue": "Kletterkiste Mainz",
-   "city": "Mainz",
-   "address": "Turmstr. 85, 55120 Mainz",
-   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
-   "price": "€35–€45",
-   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "english": false,
-   "id": "c1a79289bb2b",
-   "origin": "scraper:kletterkiste_mainz"
-  },
-  {
-   "title": "LC Olympia Lauftreff (2026)",
-   "title_en": "",
-   "category": "running",
-   "date": "2026-11-01",
-   "time": "10:00",
-   "venue": "LC Olympia Wiesbaden Lauftreff",
-   "city": "Wiesbaden",
-   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
-   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "Free",
-   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-01-11-2026",
-   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
-   "english": false,
-   "id": "79b7c178dd3f",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-01-11-2026"
-    },
-    {
-     "date": "2026-11-08",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-08-11-2026"
-    },
-    {
-     "date": "2026-11-15",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-15-11-2026"
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-22-11-2026"
-    },
-    {
-     "date": "2026-11-29",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-29-11-2026"
-    },
-    {
-     "date": "2026-12-06",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-06-12-2026"
-    },
-    {
-     "date": "2026-12-13",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-13-12-2026"
-    },
-    {
-     "date": "2026-12-20",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-20-12-2026"
-    },
-    {
-     "date": "2026-12-27",
-     "time": "10:00",
-     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-27-12-2026"
-    }
-   ],
-   "origin": "scraper:lc_olympia"
-  },
-  {
-   "title": "Sweat Society x Drops Barre — Community Run (5k) & Stretching Finisher",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-11-01",
-   "time": "11:30",
-   "venue": "Drops Barre",
-   "city": "Frankfurt",
-   "address": "Glauburgstraße 95, 60318 Frankfurt am Main",
-   "description": "Event at Drops Barre, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/sweat-society-x-drops-barre-community-run-5k-stretching-finisher-tickets-2003429513606",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/expat/",
-   "english": false,
-   "id": "a87a71f9e6f0",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Afro-indigene Rhythmen und kollektive Bewegung",
-   "title_en": "",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "13:00",
-   "venue": "Hessisches Staatstheater – Großer Ballettsaal",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Classical music at Hessisches Staatstheater – Großer Ballettsaal, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "14 €",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18308",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/afro-indigene-rhythmen-und-kollektive-bewegung/2393/",
-   "english": false,
-   "id": "6deca2d835ab",
-   "origin": "scraper:staatstheater_wiesbaden"
-  },
-  {
-   "title": "Einstiegs-Kletterkurs (Indoor)",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-01",
-   "time": "14:00",
-   "venue": "Kletterkiste Mainz",
-   "city": "Mainz",
-   "address": "Turmstr. 85, 55120 Mainz",
-   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
-   "price": "€70–€100",
-   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "english": false,
-   "id": "6af1a649138d",
-   "origin": "scraper:kletterkiste_mainz"
-  },
-  {
-   "title": "Debüt: Petar Pejčić, Violoncello",
-   "title_en": "Debut recital: cellist Petar Pejčić",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "venue": "Alte Oper Frankfurt – Mozart Saal",
-   "city": "Frankfurt",
-   "address": "Opernplatz 1, 60313 Frankfurt am Main",
-   "description": "Afternoon debut recital by young cellist Petar Pejčić in the Alte Oper's 'Debüt' series.",
-   "price": "€21",
-   "url": "https://www.alteoper.de/en/programme/petar-pejcic-violoncello/18869",
-   "source": "https://www.alteoper.de/en/programme/petar-pejcic-violoncello/18869",
-   "english": false,
-   "id": "82737b236764"
-  },
-  {
-   "title": "Lohengrin (Wagner) – Premiere",
-   "title_en": "Lohengrin – Wagner opera, new production",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "venue": "Staatstheater Mainz – Großes Haus",
-   "city": "Mainz",
-   "address": "Gutenbergplatz 7, 55116 Mainz",
-   "description": "New production of Wagner's romantic opera of the mysterious swan knight, directed by Erik Raskopf and conducted by Gabriel Venzago. Sung in German with surtitles.",
-   "price": "",
-   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21001",
-   "source": "https://www.staatstheater-mainz.com/veranstaltungen/oper-26-27/lohengrin",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "15:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=21001"
-    },
-    {
-     "date": "2026-11-06",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20998"
-    },
-    {
-     "date": "2026-11-21",
-     "time": "18:00",
-     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20999"
-    }
-   ],
-   "english": false,
-   "id": "07498e1fef5c"
-  },
-  {
-   "title": "Ottone (Händel) – Premiere",
-   "title_en": "Ottone – Handel opera, new production (Italian, English surtitles)",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "15:30",
-   "venue": "Oper Frankfurt – Opernhaus",
-   "city": "Frankfurt",
-   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
-   "description": "Handel's rarely staged baroque intrigue about the marriage of Emperor Otto II and Theophanu, conducted by Václav Luks. Sung in Italian with German and English surtitles.",
-   "price": "",
-   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16104",
-   "source": "https://oper-frankfurt.de/de/spielplan/ottone/?id_datum=4815",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "15:30",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16104"
-    },
-    {
-     "date": "2026-11-07",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16105"
-    },
-    {
-     "date": "2026-11-12",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16106"
-    },
-    {
-     "date": "2026-11-15",
-     "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16107"
-    },
-    {
-     "date": "2026-11-21",
-     "time": "19:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16108"
-    }
-   ],
-   "english": true,
-   "id": "a9b9b5d1ad30"
-  },
-  {
-   "title": "Love Letter To Those Who Did Not Survive",
-   "title_en": "",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "16:00",
-   "venue": "Hessisches Staatstheater – Kunsthaus Wiesbaden",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Classical music at Hessisches Staatstheater – Kunsthaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "14 €",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18287",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-10/love-letter-trm/2346/",
-   "english": false,
-   "id": "f83f81462e07",
-   "origin": "scraper:staatstheater_wiesbaden"
-  },
-  {
-   "title": "Festival del día de Muertos 2026",
-   "title_en": "",
-   "category": "festival",
-   "date": "2026-11-01",
-   "time": "17:00",
-   "venue": "Kunstverein Familie Montez",
-   "city": "Frankfurt",
-   "address": "Kunstverein Familie Montez, Honsellstraße 7, 60314  Frankfurt am Main, 60431 Frankfurt am Main",
-   "description": "Festival at Kunstverein Familie Montez, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/festival-del-dia-de-muertos-2026-tickets-2003206799462",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/expat/",
-   "english": false,
-   "id": "0a9629134408",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Staatskapelle Berlin – Christian Thielemann",
-   "title_en": "Berlin Staatskapelle & Thielemann: Strauss Alpine Symphony",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "17:00",
-   "venue": "Alte Oper Frankfurt – Großer Saal",
-   "city": "Frankfurt",
-   "address": "Opernplatz 1, 60313 Frankfurt am Main",
-   "description": "All-Strauss programme: Christian Thielemann conducts the Staatskapelle Berlin in the Four Last Songs (soprano Camilla Nylund) and the Alpine Symphony.",
-   "price": "€30–130",
-   "url": "https://www.alteoper.de/en/programme/staatskapelle-berlin/18955",
-   "source": "https://www.alteoper.de/en/programme/staatskapelle-berlin/18955",
-   "english": false,
-   "id": "ac9d6ddf6f69"
-  },
-  {
-   "title": "Trainingsgruppe 40+",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-01",
-   "time": "17:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10984",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "4b6ed043122b",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10984"
-    },
-    {
-     "date": "2026-12-06",
-     "time": "17:00",
-     "url": "https://plus.boulderwelt.de/event/10984"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Mendelssohns Geniestreich – Kammermusik der Orchesterakademie",
-   "title_en": "Mendelssohn's Stroke of Genius – academy chamber concert",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "18:00",
-   "venue": "hr-Sendesaal",
-   "city": "Frankfurt",
-   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
-   "description": "The hr-Sinfonieorchester's orchestra academy plays chamber music by Farrenc, Borodin, de Falla, Yun, Ligeti and Mendelssohn.",
-   "price": "",
-   "url": "https://www.hr-ticketcenter.de/tickets--/e2523283",
-   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/mendelssohns-geniestreich,kammermusik-mendelssohns-geniestreich-100.html",
-   "english": false,
-   "id": "51e651c3cef8"
-  },
-  {
-   "title": "Tosca (Puccini)",
-   "title_en": "Tosca – opera by Puccini",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "18:00",
-   "venue": "Hessisches Staatstheater – Großes Haus",
-   "city": "Wiesbaden",
-   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
-   "description": "Puccini's political thriller-opera in three acts, with the Hessisches Staatsorchester in the pit.",
-   "price": "€16–116",
-   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003",
-   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/tosca/2202/",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "18:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18003"
-    },
-    {
-     "date": "2026-11-22",
-     "time": "18:00",
-     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17994"
-    }
-   ],
-   "english": false,
-   "id": "8cf46683fdf1"
-  },
-  {
-   "title": "Acres / Special Guests: Wayside / What Lies Below / Lifespark",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-11-01",
-   "time": "19:00",
-   "venue": "Schlachthof Wiesbaden – Kesselhaus",
-   "city": "Wiesbaden",
-   "address": "Murnaustr. 1, 65189 Wiesbaden",
-   "description": "Concert at Schlachthof Wiesbaden – Kesselhaus, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€30,65",
-   "url": "https://schlachthof-wiesbaden.de/events/acres-2026",
-   "source": "https://schlachthof-wiesbaden.de/konzert",
-   "english": false,
-   "id": "31ea7c6e9654",
-   "origin": "scraper:schlachthof_wiesbaden"
-  },
-  {
-   "title": "Trainingsgruppe Advanced",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-01",
-   "time": "19:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10985",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "78b61ddee51b",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10985"
-    },
-    {
-     "date": "2026-12-06",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10985"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Comedy Pub Frankfurt - English Open-Mic",
-   "title_en": "",
-   "category": "general",
-   "date": "2026-11-01",
-   "time": "19:30",
-   "venue": "The Fox and Hound",
-   "city": "Frankfurt",
-   "address": "Niedenau 2, 60325 Frankfurt am Main",
-   "description": "Event at The Fox and Hound, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.eventbrite.de/e/comedy-pub-frankfurt-english-open-mic-tickets-1969536817640",
-   "source": "https://www.eventbrite.com/d/germany--frankfurt-am-main/english-comedy/",
-   "english": true,
-   "id": "dfaaa3663fb7",
-   "origin": "scraper:eventbrite"
-  },
-  {
-   "title": "Die vier Jahreszeiten",
-   "title_en": "",
-   "category": "classical",
-   "date": "2026-11-01",
-   "time": "19:30",
-   "venue": "Jahrhunderthalle Frankfurt",
-   "city": "Frankfurt",
-   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
-   "description": "Classical music at Jahrhunderthalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://jahrhunderthalle.myticket.de/selection/event/seat?perfId=10229704119101&table=false&choiceSelectionDone=false&productId=10229704117786&tourId=10229704112433",
-   "source": "https://www.jahrhunderthalle.de/programm/die-vier-jahreszeiten/31-10-2026/20-00",
-   "english": false,
-   "id": "740fbb91abb3",
-   "origin": "scraper:jahrhunderthalle"
-  },
-  {
-   "title": "Midnight Til Morning",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-11-01",
-   "time": "20:00",
-   "venue": "Batschkapp",
-   "city": "Frankfurt",
-   "address": "Gwinnerstr. 5, 60388 Frankfurt am Main",
-   "description": "Concert at Batschkapp, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.batschkapp.net/events/midnight-til-morning-frankfurt-batschkapp-2026-11-01-200000",
-   "source": "https://www.batschkapp.net/batschkapp",
-   "english": false,
-   "id": "513184551f2d",
-   "origin": "scraper:batschkapp"
-  },
-  {
-   "title": "The Notwist",
-   "title_en": "",
-   "category": "music",
-   "date": "2026-11-01",
-   "time": "20:00",
-   "venue": "Schlachthof Wiesbaden",
-   "city": "Wiesbaden",
-   "address": "Murnaustr. 1, 65189 Wiesbaden",
-   "description": "Influential German indie-electronica band The Notwist live in the main hall.",
-   "price": "€42.65",
-   "url": "https://schlachthof-wiesbaden.de/events/notwist-2026",
-   "source": "https://schlachthof-wiesbaden.de/konzert",
-   "english": false,
-   "id": "f694331cec22"
-  },
-  {
    "title": "Boulderkids, fünf bis sechs Jahre, BK-01",
    "title_en": "",
    "category": "climbing",
@@ -858,185 +398,6 @@
     }
    ],
    "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Kinderkletterclub 8–11 Jahre",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-02",
-   "time": "16:00",
-   "venue": "Wiesbadener Nordwand",
-   "city": "Wiesbaden",
-   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
-   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€19.95",
-   "url": "https://nordwand.store/produkt/kidsclub/",
-   "source": "https://wiesbadener-nordwand.de/",
-   "english": false,
-   "id": "e32ea14b6e2f",
-   "dates": [
-    {
-     "date": "2026-11-02",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-03",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-04",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-05",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-09",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-11",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-12",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-16",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-18",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-19",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-23",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-25",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-26",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-11-30",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-02",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-03",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-07",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-08",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-09",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-10",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-14",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-15",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-16",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-17",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-21",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-22",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-23",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    },
-    {
-     "date": "2026-12-24",
-     "time": "16:00",
-     "url": "https://nordwand.store/produkt/kidsclub/"
-    }
-   ],
-   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "Boulderkids, elf bis vierzehn Jahre, BK-04",
@@ -1181,35 +542,11 @@
      "date": "2026-12-07",
      "time": "18:00",
      "url": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350"
-    }
-   ],
-   "origin": "scraper:kletterkiste_mainz"
-  },
-  {
-   "title": "Einstiegs-Kletterkurs (Indoor)",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-02",
-   "time": "18:30",
-   "venue": "Kletterkiste Mainz",
-   "city": "Mainz",
-   "address": "Turmstr. 85, 55120 Mainz",
-   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
-   "price": "€70–€100",
-   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
-   "english": false,
-   "id": "26f76010038e",
-   "dates": [
-    {
-     "date": "2026-11-02",
-     "time": "18:30",
-     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
     },
     {
-     "date": "2026-11-03",
-     "time": "18:30",
-     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+     "date": "2027-01-04",
+     "time": "18:00",
+     "url": "https://www.kletterkiste-mainz.de/artikel/Grip--Grow/142350"
     }
    ],
    "origin": "scraper:kletterkiste_mainz"
@@ -1333,7 +670,7 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
-   "title": "Einführung für Boulderneulinge",
+   "title": "Youngsters| 11–14 Jahre | Youngster-01",
    "title_en": "",
    "category": "climbing",
    "date": "2026-11-02",
@@ -1343,10 +680,62 @@
    "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
    "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://plus.boulderwelt.de/event/10904",
+   "url": "https://plus.boulderwelt.de/event/5839",
    "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
    "english": false,
-   "id": "4a36acb9ec65",
+   "id": "04ac358c5619",
+   "dates": [
+    {
+     "date": "2026-11-02",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-12-07",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-12-14",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-12-21",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2026-12-28",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    },
+    {
+     "date": "2027-01-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5839"
+    }
+   ],
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
@@ -1798,6 +1187,26 @@
      "date": "2026-12-25",
      "time": "15:00",
      "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "17:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
+    },
+    {
+     "date": "2027-01-01",
+     "time": "15:00",
+     "url": "https://nordwand.store/produkt/bambiniclub-4-8-jahre/"
     }
    ],
    "origin": "scraper:nordwand_wiesbaden"
@@ -1921,105 +1330,6 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
-   "title": "Kinderkletterclub 11–16 Jahre",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-03",
-   "time": "17:30",
-   "venue": "Wiesbadener Nordwand",
-   "city": "Wiesbaden",
-   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
-   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€19.95",
-   "url": "https://nordwand.store/produkt/jugendclub/",
-   "source": "https://wiesbadener-nordwand.de/",
-   "english": false,
-   "id": "29a490ddcecc",
-   "dates": [
-    {
-     "date": "2026-11-03",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-05",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-12",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-19",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-11-26",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-03",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-08",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-10",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-15",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-17",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-22",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    },
-    {
-     "date": "2026-12-24",
-     "time": "17:30",
-     "url": "https://nordwand.store/produkt/jugendclub/"
-    }
-   ],
-   "origin": "scraper:nordwand_wiesbaden"
-  },
-  {
    "title": "DAV Waldläufer trail run",
    "title_en": "",
    "category": "running",
@@ -2072,6 +1382,11 @@
     },
     {
      "date": "2026-12-22",
+     "time": "18:30",
+     "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
+    },
+    {
+     "date": "2026-12-29",
      "time": "18:30",
      "url": "https://www.dav-wiesbaden.de/gruppen/waldlaeufer"
     }
@@ -2138,95 +1453,6 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
-   "title": "Grundkurs Toprope",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "venue": "Wiesbadener Nordwand",
-   "city": "Wiesbaden",
-   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
-   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€79.95",
-   "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/",
-   "source": "https://wiesbadener-nordwand.de/",
-   "english": false,
-   "id": "e0812d563347",
-   "dates": [
-    {
-     "date": "2026-11-03",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-07",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-10",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-17",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-21",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-24",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-11-28",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-01",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-05",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-08",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-12",
-     "time": "12:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-15",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    },
-    {
-     "date": "2026-12-22",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
-    }
-   ],
-   "origin": "scraper:nordwand_wiesbaden"
-  },
-  {
    "title": "MeenzRunners social run",
    "title_en": "",
    "category": "running",
@@ -2281,26 +1507,14 @@
      "date": "2026-12-22",
      "time": "19:00",
      "url": "https://www.strava.com/clubs/MeenzRunners"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "19:00",
+     "url": "https://www.strava.com/clubs/MeenzRunners"
     }
    ],
    "origin": "scraper:meenzrunners"
-  },
-  {
-   "title": "Technik Boost Workshop Dynamik",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10933",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "87a389f07b21",
-   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Tuesday Night Run",
@@ -2355,6 +1569,11 @@
     },
     {
      "date": "2026-12-22",
+     "time": "19:00",
+     "url": "https://www.tuesdaynightrun.club/"
+    },
+    {
+     "date": "2026-12-29",
      "time": "19:00",
      "url": "https://www.tuesdaynightrun.club/"
     }
@@ -2715,6 +1934,195 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "Kinderkletterclub 8–11 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-04",
+   "time": "16:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€19.95",
+   "url": "https://nordwand.store/produkt/kidsclub/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "e32ea14b6e2f",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-05",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-09",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-16",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-23",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-11-30",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-02",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-03",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-07",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-08",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-09",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-10",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-14",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-15",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-16",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-17",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-21",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-22",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-23",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-24",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-28",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "16:00",
+     "url": "https://nordwand.store/produkt/kidsclub/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
    "title": "Boulderkids, elf bis vierzehn Jahre, BK-14",
    "title_en": "",
    "category": "climbing",
@@ -2823,6 +2231,70 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "Youngsters| 8–12 Jahre | Youngster-02",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-04",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/5841",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "04b9496f1a85",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-11-11",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-11-18",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-11-25",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-12-02",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-12-09",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-12-16",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-12-23",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "17:00",
+     "url": "https://plus.boulderwelt.de/event/5841"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "172. Darmstadt-Business-Networking Treffen am 04.11.2026 ab 19.00 Uhr",
    "title_en": "",
    "category": "business",
@@ -2926,6 +2398,11 @@
     },
     {
      "date": "2026-12-16",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
+    },
+    {
+     "date": "2026-12-30",
      "time": "19:00",
      "url": "https://nordwand.store/produkt/boulderworkshop-fortgeschrittene-von-blau-zu-rot/"
     }
@@ -3327,6 +2804,110 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "Kinderkletterclub 11–16 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-05",
+   "time": "17:30",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€19.95",
+   "url": "https://nordwand.store/produkt/jugendclub/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "29a490ddcecc",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-10",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-03",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-08",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-10",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-15",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-17",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-22",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-24",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "17:30",
+     "url": "https://nordwand.store/produkt/jugendclub/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
+  },
+  {
    "title": "Boulderkids, elf bis vierzehn Jahre, BK-15",
    "title_en": "",
    "category": "climbing",
@@ -3435,35 +3016,6 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
-   "title": "Grundkurs",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "venue": "Boulderwelt Frankfurt",
-   "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://plus.boulderwelt.de/event/10917",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "39ddcf9ad5dc",
-   "dates": [
-    {
-     "date": "2026-11-05",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10917"
-    },
-    {
-     "date": "2026-11-12",
-     "time": "19:00",
-     "url": "https://plus.boulderwelt.de/event/10917"
-    }
-   ],
-   "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
    "title": "Klettertreff",
    "title_en": "",
    "category": "climbing",
@@ -3496,6 +3048,11 @@
     },
     {
      "date": "2026-12-17",
+     "time": "19:00",
+     "url": "https://www.kletterkiste-mainz.de/klettertreff"
+    },
+    {
+     "date": "2026-12-31",
      "time": "19:00",
      "url": "https://www.kletterkiste-mainz.de/klettertreff"
     }
@@ -3573,6 +3130,11 @@
      "date": "2026-12-24",
      "time": "19:00",
      "url": "https://laufzeit-mainz.de/lauftreff"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "19:00",
+     "url": "https://laufzeit-mainz.de/lauftreff"
     }
    ],
    "origin": "scraper:rheinrunners"
@@ -3621,65 +3183,6 @@
     }
    ],
    "origin": "scraper:boulderwelt_frankfurt"
-  },
-  {
-   "title": "Vorstiegskurs",
-   "title_en": "",
-   "category": "climbing",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "venue": "Wiesbadener Nordwand",
-   "city": "Wiesbaden",
-   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
-   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€99.95",
-   "url": "https://nordwand.store/produkt/vorstiegskurs/",
-   "source": "https://wiesbadener-nordwand.de/",
-   "english": false,
-   "id": "0ee41c76bf86",
-   "dates": [
-    {
-     "date": "2026-11-05",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-11-12",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-11-19",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-11-26",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-12-03",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-12-10",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-12-17",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    },
-    {
-     "date": "2026-12-24",
-     "time": "19:00",
-     "url": "https://nordwand.store/produkt/vorstiegskurs/"
-    }
-   ],
-   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "American -ish Immigrant | English Stand Up Comedy in Frankfurt",
@@ -4215,6 +3718,34 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "Lohengrin (Wagner) – Premiere",
+   "title_en": "Lohengrin – Wagner opera, new production",
+   "category": "classical",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "venue": "Staatstheater Mainz – Großes Haus",
+   "city": "Mainz",
+   "address": "Gutenbergplatz 7, 55116 Mainz",
+   "description": "New production of Wagner's romantic opera of the mysterious swan knight, directed by Erik Raskopf and conducted by Gabriel Venzago. Sung in German with surtitles.",
+   "price": "",
+   "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20998",
+   "source": "https://www.staatstheater-mainz.com/veranstaltungen/oper-26-27/lohengrin",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20998"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "18:00",
+     "url": "http://ticket.staatstheater-mainz.de/eventim.webshop/webticket/shop?event=20999"
+    }
+   ],
+   "english": false,
+   "id": "07498e1fef5c"
+  },
+  {
    "title": "Boulderkids, elf bis vierzehn Jahre, BK-27",
    "title_en": "",
    "category": "climbing",
@@ -4338,6 +3869,70 @@
    "english": false,
    "id": "61dcf66ec975",
    "origin": "scraper:eventbrite"
+  },
+  {
+   "title": "Youngsters| 11–14 Jahre | Youngster-01",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/5840",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "95baaf04f31c",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-11-13",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-11-20",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-11-27",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-12-04",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-12-11",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-12-18",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2026-12-25",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    },
+    {
+     "date": "2027-01-01",
+     "time": "19:00",
+     "url": "https://plus.boulderwelt.de/event/5840"
+    }
+   ],
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Cavalleria rusticana / Pagliacci",
@@ -4505,6 +4100,23 @@
    "origin": "scraper:kuz_mainz"
   },
   {
+   "title": "Meyjana Trio - Musik baut Brücken",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "venue": "St. Ignaz Kirche",
+   "city": "Mainz",
+   "address": "",
+   "description": "Classical music at St. Ignaz Kirche, Mainz. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2623384",
+   "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/meyjana-trio-musik-baut-bruecken-1/",
+   "english": false,
+   "id": "e3812776f1a4",
+   "origin": "scraper:frankfurter_hof_mainz"
+  },
+  {
    "title": "Scala & Kolacny Brothers – Scala 30",
    "title_en": "",
    "category": "music",
@@ -4575,9 +4187,103 @@
      "date": "2026-12-26",
      "time": "09:00",
      "url": "https://www.parkrun.com.de/maaraue/"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "09:00",
+     "url": "https://www.parkrun.com.de/maaraue/"
     }
    ],
    "origin": "scraper:parkrun_maaraue"
+  },
+  {
+   "title": "Grundkurs Toprope",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-07",
+   "time": "12:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€79.95",
+   "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "e0812d563347",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-14",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-17",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-24",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-11-28",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-01",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-05",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-08",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-12",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-15",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-22",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "12:00",
+     "url": "https://nordwand.store/produkt/grundkurs-top-rope-2/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "Aktion Theaterfoyer - Kammerkonzert",
@@ -4626,21 +4332,42 @@
    "origin": "scraper:eventbrite"
   },
   {
-   "title": "Next Level Workshop 3 zu 4",
-   "title_en": "",
-   "category": "climbing",
+   "title": "Ottone (Händel) – Premiere",
+   "title_en": "Ottone – Handel opera, new production (Italian, English surtitles)",
+   "category": "classical",
    "date": "2026-11-07",
-   "time": "18:30",
-   "venue": "Boulderwelt Frankfurt",
+   "time": "19:00",
+   "venue": "Oper Frankfurt – Opernhaus",
    "city": "Frankfurt",
-   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
-   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Handel's rarely staged baroque intrigue about the marriage of Emperor Otto II and Theophanu, conducted by Václav Luks. Sung in Italian with German and English surtitles.",
    "price": "",
-   "url": "https://plus.boulderwelt.de/event/10926",
-   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
-   "english": false,
-   "id": "3b29f2a43dab",
-   "origin": "scraper:boulderwelt_frankfurt"
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16105",
+   "source": "https://oper-frankfurt.de/de/spielplan/ottone/?id_datum=4815",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16105"
+    },
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16106"
+    },
+    {
+     "date": "2026-11-15",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16107"
+    },
+    {
+     "date": "2026-11-21",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16108"
+    }
+   ],
+   "english": true,
+   "id": "a9b9b5d1ad30"
   },
   {
    "title": "In der Strafkolonie (Philip Glass)",
@@ -4853,6 +4580,70 @@
     }
    ],
    "origin": "scraper:staatstheater_mainz"
+  },
+  {
+   "title": "LC Olympia Lauftreff (2026)",
+   "title_en": "",
+   "category": "running",
+   "date": "2026-11-08",
+   "time": "10:00",
+   "venue": "LC Olympia Wiesbaden Lauftreff",
+   "city": "Wiesbaden",
+   "address": "Parkplatz Nerobergbahn, Wilhelminenstraße 51, 65193 Wiesbaden",
+   "description": "Run at LC Olympia Wiesbaden Lauftreff, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "Free",
+   "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-08-11-2026",
+   "source": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff",
+   "english": false,
+   "id": "79b7c178dd3f",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-08-11-2026"
+    },
+    {
+     "date": "2026-11-15",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-15-11-2026"
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-22-11-2026"
+    },
+    {
+     "date": "2026-11-29",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-29-11-2026"
+    },
+    {
+     "date": "2026-12-06",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-06-12-2026"
+    },
+    {
+     "date": "2026-12-13",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-13-12-2026"
+    },
+    {
+     "date": "2026-12-20",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-20-12-2026"
+    },
+    {
+     "date": "2026-12-27",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-27-12-2026"
+    },
+    {
+     "date": "2027-01-03",
+     "time": "10:00",
+     "url": "https://lcolympia.de/index.php/waswannwo/lcokalender/lauftreff/lauftreff-2026-03-01-2027"
+    }
+   ],
+   "origin": "scraper:lc_olympia"
   },
   {
    "title": "2. Kammerkonzert in der Synagoge",
@@ -5247,7 +5038,7 @@
    "origin": "scraper:batschkapp"
   },
   {
-   "title": "Vandalisbin",
+   "title": "Vandalisbin / Motte",
    "title_en": "",
    "category": "music",
    "date": "2026-11-09",
@@ -5260,8 +5051,25 @@
    "url": "https://schlachthof-wiesbaden.de/events/vandalisbin-2026",
    "source": "https://schlachthof-wiesbaden.de/konzert",
    "english": false,
-   "id": "39137865af6e",
+   "id": "33952a8d6957",
    "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
+   "title": "Business Women Netzwerk in der IHK Frankfurt am Main",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-11-09",
+   "time": "",
+   "venue": "IHK Frankfurt am Main",
+   "city": "Frankfurt",
+   "address": "IHK Frankfurt am Main - Lichthof Börsenpl. 4, 60313 Frankfurt am Main",
+   "description": "Business event at IHK Frankfurt am Main, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://events.frankfurt-main.ihk.de/BuWiNov26",
+   "source": "https://www.frankfurt-main.ihk.de/veranstaltungen",
+   "english": false,
+   "id": "728da76849b4",
+   "origin": "scraper:ihk_frankfurt"
   },
   {
    "title": "Monster-Meeting Rhein-Main November 2026",
@@ -5319,7 +5127,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€7200",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/bloc-basic-plus/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -5375,7 +5183,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€0",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -5695,6 +5503,23 @@
    "id": "f0a20f3d69da"
   },
   {
+   "title": "Paul Lewis, Klavier",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "venue": "Alte Oper Frankfurt – Mozart Saal",
+   "city": "Frankfurt",
+   "address": "Opernplatz 1, 60313 Frankfurt am Main",
+   "description": "Classical music at Alte Oper Frankfurt – Mozart Saal, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "from €28",
+   "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76332",
+   "source": "https://www.alteoper.de/de/programm/paul-lewis-klavier/18837",
+   "english": false,
+   "id": "3482a2632e62",
+   "origin": "scraper:alte_oper"
+  },
+  {
    "title": "Paula Paula",
    "title_en": "",
    "category": "music",
@@ -5727,6 +5552,23 @@
    "english": false,
    "id": "0c96cfdaac14",
    "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Gründungswoche Deutschland: IHK-Sprechtag Unternehmensnachfolge",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-11-11",
+   "time": "",
+   "venue": "IHK Frankfurt am Main",
+   "city": "Frankfurt",
+   "address": "Börsenpl. 4, 60313 Frankfurt am Main",
+   "description": "Business event at IHK Frankfurt am Main, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://events.frankfurt-main.ihk.de/Sprechtag_Unternehmensnachfolge_11-2026",
+   "source": "https://www.frankfurt-main.ihk.de/veranstaltungen",
+   "english": false,
+   "id": "911fc1adb837",
+   "origin": "scraper:ihk_frankfurt"
   },
   {
    "title": "World Usability Day 2026 in Frankfurt",
@@ -5811,6 +5653,65 @@
    "source": "https://www.batschkapp.net/batschkapp",
    "english": true,
    "id": "3c1976ee8b68"
+  },
+  {
+   "title": "Vorstiegskurs",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Wiesbadener Nordwand",
+   "city": "Wiesbaden",
+   "address": "Hagenauer Straße 49, 65203 Wiesbaden",
+   "description": "Climbing at Wiesbadener Nordwand, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€99.95",
+   "url": "https://nordwand.store/produkt/vorstiegskurs/",
+   "source": "https://wiesbadener-nordwand.de/",
+   "english": false,
+   "id": "0ee41c76bf86",
+   "dates": [
+    {
+     "date": "2026-11-12",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-19",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-11-26",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-12-03",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-12-10",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-12-17",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-12-24",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "19:00",
+     "url": "https://nordwand.store/produkt/vorstiegskurs/"
+    }
+   ],
+   "origin": "scraper:nordwand_wiesbaden"
   },
   {
    "title": "hr-Sinfonieorchester: All'ungherese – Große Reihe",
@@ -6282,7 +6183,7 @@
    "address": "Augustinerstr. 55, 55116 Mainz",
    "description": "Concert at Frankfurter Hof Mainz, Mainz. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://frankfurter-hof-mainz.reservix.de/p/reservix/event/2483226",
+   "url": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/alte-bekannte-mehr-live-2/",
    "source": "https://www.frankfurter-hof-mainz.de/programm-tickets/details/alte-bekannte-mehr-live-2/",
    "english": false,
    "id": "10572fbc5044",
@@ -6571,7 +6472,7 @@
    "description": "Classical music at Alte Oper Frankfurt – Albert Mangelsdorff Foyer, Frankfurt. See the organiser's page for programme and tickets.",
    "price": "",
    "url": "https://www.alteoper.de/de/programm/kienzles-klassik/18937",
-   "source": "https://www.alteoper.de/de/programm/kienzles-klassik/18936",
+   "source": "https://www.alteoper.de/de/programm/kienzles-klassik/18937",
    "english": false,
    "id": "da04b9a8c53b",
    "origin": "scraper:alte_oper"
@@ -7547,7 +7448,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€5500",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -7701,6 +7602,23 @@
    "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
    "id": "bb4d89ee2cbd"
+  },
+  {
+   "title": "THE DESIGNER EDIT",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "venue": "TBA",
+   "city": "Frankfurt",
+   "address": "",
+   "description": "Event at TBA, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://lu.ma/jbdpfhhi",
+   "source": "https://lu.ma/frankfurt",
+   "english": false,
+   "id": "76f5f0e0ba94",
+   "origin": "scraper:luma"
   },
   {
    "title": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM",
@@ -8174,6 +8092,22 @@
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
+   "title": "Tosca (Puccini)",
+   "title_en": "Tosca – opera by Puccini",
+   "category": "classical",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Puccini's political thriller-opera in three acts, with the Hessisches Staatsorchester in the pit.",
+   "price": "€16–116",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/17994",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-11/tosca/2202/",
+   "english": false,
+   "id": "8cf46683fdf1"
+  },
+  {
    "title": "Der Nussknacker",
    "title_en": "",
    "category": "classical",
@@ -8487,7 +8421,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€0",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -8546,6 +8480,23 @@
    "origin": "scraper:alte_oper"
   },
   {
+   "title": "Unternehmer Mastermind bei FUTURY | 4th Edition",
+   "title_en": "",
+   "category": "business",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "venue": "FUTURY - Event Space",
+   "city": "Frankfurt",
+   "address": "FUTURY - Event Space, Am Steinernen Stock 1, 60320 Frankfurt am Main, Deutschland",
+   "description": "Business event at FUTURY - Event Space, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://lu.ma/g1nwa9oa",
+   "source": "https://lu.ma/frankfurt",
+   "english": false,
+   "id": "e42f3742d42a",
+   "origin": "scraper:luma"
+  },
+  {
    "title": "n8n & AI Automation Meetup RheinMain November",
    "title_en": "",
    "category": "tech",
@@ -8578,6 +8529,23 @@
    "english": false,
    "id": "b2cf35cc844a",
    "origin": "scraper:batschkapp"
+  },
+  {
+   "title": "Run N Rave Frankfurt | Christmas Edition",
+   "title_en": "",
+   "category": "general",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "venue": "Am Steinernen Stock 1",
+   "city": "Frankfurt",
+   "address": "Am Steinernen Stock 1, 60320 Frankfurt am Main-Frankfurt-Mitte-Nord, Deutschland",
+   "description": "Event at Am Steinernen Stock 1, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://lu.ma/3s2o5gc3",
+   "source": "https://lu.ma/frankfurt",
+   "english": false,
+   "id": "9e0c613ae300",
+   "origin": "scraper:luma"
   },
   {
    "title": "Gerd Dudenhöffer spielt Heinz Becker",
@@ -8941,6 +8909,16 @@
      "date": "2026-12-12",
      "time": "19:30",
      "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/die-fledermaus.2376/#event-14561"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "15:00",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/die-fledermaus.2376/#event-14659"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "19:30",
+     "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/die-fledermaus.2376/#event-14564"
     }
    ],
    "origin": "scraper:staatstheater_darmstadt"
@@ -9262,6 +9240,41 @@
      "date": "2026-12-28",
      "time": "10:00",
      "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-28-Dezember-2026-Kurhaus-Wiesbaden/6Wyvm1R"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-29-Dezember-2026-Kurhaus-Wiesbaden/jXTYXLv"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-30-Dezember-2026-Kurhaus-Wiesbaden/S7j5zCm"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-31-Dezember-2026-Kurhaus-Wiesbaden/VJGdHWb"
+    },
+    {
+     "date": "2027-01-01",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-1-Januar-2027-Kurhaus-Wiesbaden/B7ZDbw1"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-2-Januar-2027-Kurhaus-Wiesbaden/TfTTgDy"
+    },
+    {
+     "date": "2027-01-03",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-3-Januar-2027-Kurhaus-Wiesbaden/M9HZGCT"
+    },
+    {
+     "date": "2027-01-04",
+     "time": "10:00",
+     "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/WIESBADEN-ON-ICE-Eisstockschiessen-am-4-Januar-2027-Kurhaus-Wiesbaden/1tfXpy7"
     }
    ],
    "origin": "scraper:termine_kurhaus"
@@ -9276,7 +9289,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€1000",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -9293,7 +9306,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€0",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/kinder/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -10395,8 +10408,8 @@
    "city": "Wiesbaden",
    "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
    "description": "Classical music at Hessisches Staatstheater – Wartburg, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "",
-   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-12/schoen-anders/2438/",
+   "price": "12 €",
+   "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18457",
    "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-12/schoen-anders/2438/",
    "english": false,
    "id": "0ea07449b35a",
@@ -10404,12 +10417,12 @@
     {
      "date": "2026-12-05",
      "time": "16:00",
-     "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-12/schoen-anders/2438/"
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18457"
     },
     {
      "date": "2026-12-06",
      "time": "16:00",
-     "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2026-12/schoen-anders/2439/"
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18456"
     }
    ],
    "origin": "scraper:staatstheater_wiesbaden"
@@ -10534,6 +10547,35 @@
    "origin": "scraper:eventbrite"
   },
   {
+   "title": "Kammermusik",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-06",
+   "time": "11:00",
+   "venue": "Oper Frankfurt – Holzfoyer",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Classical music at Oper Frankfurt – Holzfoyer, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16422&languages=de",
+   "source": "https://oper-frankfurt.de/de/spielplan/konzerte/kammermusik/?id_datum=4995",
+   "english": false,
+   "id": "afc71ab2cdd5",
+   "dates": [
+    {
+     "date": "2026-12-06",
+     "time": "11:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16422&languages=de"
+    },
+    {
+     "date": "2026-12-20",
+     "time": "11:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16423&languages=de"
+    }
+   ],
+   "origin": "scraper:oper_frankfurt"
+  },
+  {
    "title": "Drei Haselnüsse für Aschenbrödel",
    "title_en": "",
    "category": "music",
@@ -10626,6 +10668,23 @@
    "origin": "scraper:termine_kurhaus"
   },
   {
+   "title": "Trainingsgruppe 40+",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10984",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4b6ed043122b",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
    "title": "La Mamma!",
    "title_en": "",
    "category": "classical",
@@ -10687,6 +10746,11 @@
      "date": "2026-12-27",
      "time": "18:00",
      "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16135&languages=de"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16260&languages=de"
     }
    ],
    "origin": "scraper:oper_frankfurt"
@@ -10758,6 +10822,23 @@
    "english": false,
    "id": "6e6f0f635f5d",
    "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
+   "title": "Trainingsgruppe Advanced",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-06",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10985",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "78b61ddee51b",
+   "origin": "scraper:boulderwelt_frankfurt"
   },
   {
    "title": "Zuna",
@@ -10939,7 +11020,7 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€0",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
@@ -11027,6 +11108,23 @@
    "origin": "scraper:alte_oper"
   },
   {
+   "title": "Nana Benz",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "venue": "Schlachthof Wiesbaden – Kesselhaus",
+   "city": "Wiesbaden",
+   "address": "Murnaustr. 1, 65189 Wiesbaden",
+   "description": "Concert at Schlachthof Wiesbaden – Kesselhaus, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "€20,00",
+   "url": "https://schlachthof-wiesbaden.de/events/nana-benz-2026",
+   "source": "https://schlachthof-wiesbaden.de/konzert",
+   "english": false,
+   "id": "426d4ca89fba",
+   "origin": "scraper:schlachthof_wiesbaden"
+  },
+  {
    "title": "Brüche. Demokratie nach den Zeiten ihrer Regression",
    "title_en": "",
    "category": "classical",
@@ -11042,6 +11140,35 @@
    "english": false,
    "id": "7f88e3dd0e9d",
    "origin": "scraper:oper_frankfurt"
+  },
+  {
+   "title": "Einstiegs-Kletterkurs (Indoor)",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-10",
+   "time": "10:00",
+   "venue": "Kletterkiste Mainz",
+   "city": "Mainz",
+   "address": "Turmstr. 85, 55120 Mainz",
+   "description": "Climbing at Kletterkiste Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "€70–€100",
+   "url": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "source": "https://www.kletterkiste-mainz.de/kletterkurse",
+   "english": false,
+   "id": "66ea6814a20e",
+   "dates": [
+    {
+     "date": "2026-12-10",
+     "time": "10:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    },
+    {
+     "date": "2026-12-11",
+     "time": "10:00",
+     "url": "https://www.kletterkiste-mainz.de/kletterkurse"
+    }
+   ],
+   "origin": "scraper:kletterkiste_mainz"
   },
   {
    "title": "Sky Night (UA)",
@@ -11248,6 +11375,11 @@
      "date": "2026-12-25",
      "time": "18:00",
      "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16031&languages=de"
+    },
+    {
+     "date": "2027-01-01",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16029&languages=de"
     }
    ],
    "origin": "scraper:oper_frankfurt"
@@ -11287,6 +11419,16 @@
      "date": "2026-12-25",
      "time": "19:30",
      "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18012"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "19:30",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18013"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "18:00",
+     "url": "https://stth-wi-shop.comfortticket.de/de/veranstaltung/af36d77c-e747-455f-95b6-f3d838558d5a/18014"
     }
    ],
    "origin": "scraper:staatstheater_wiesbaden"
@@ -12006,7 +12148,7 @@
    "origin": "scraper:jahrhunderthalle"
   },
   {
-   "title": "GREGORIAN - The Magical Christmas Tour 2026",
+   "title": "GREGORIAN: Magical Christmas Tour",
    "title_en": "",
    "category": "music",
    "date": "2026-12-15",
@@ -12016,11 +12158,11 @@
    "address": "Kurhausplatz 1, 65189 Wiesbaden",
    "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/GREGORIAN-The-Magical-Christmas-Tour-2026-am-15-Dezember-2026-Kurhaus-Wiesbaden/xVTd6Xz",
-   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=162853&eventId=271961",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
-   "id": "3cbc46bf3a0c",
-   "origin": "scraper:termine_kurhaus"
+   "id": "7894ce33b4bb",
+   "origin": "scraper:kurhaus_wiesbaden"
   },
   {
    "title": "General Business Networking | Elevating Your Potential - Frankfurt",
@@ -12066,7 +12208,7 @@
    "city": "Frankfurt",
    "address": "Opernplatz 1, 60313 Frankfurt am Main",
    "description": "Classical music at Alte Oper Frankfurt – Großer Saal, Frankfurt. See the organiser's page for programme and tickets.",
-   "price": "from €49.99",
+   "price": "from €79.99",
    "url": "https://shop.alteoper.de/webshop/webticket/shop?event=75990",
    "source": "https://www.alteoper.de/de/programm/romeo-julia-liebe-ist-alles/18784",
    "english": false,
@@ -12141,6 +12283,46 @@
      "date": "2026-12-27",
      "time": "19:30",
      "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76053"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "19:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76054"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "19:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76055"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "14:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76056"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "19:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76057"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "14:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76058"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "19:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76059"
+    },
+    {
+     "date": "2027-01-03",
+     "time": "14:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76060"
+    },
+    {
+     "date": "2027-01-03",
+     "time": "19:30",
+     "url": "https://shop.alteoper.de/webshop/webticket/shop?event=76061"
     }
    ],
    "origin": "scraper:alte_oper"
@@ -12288,12 +12470,22 @@
     {
      "date": "2026-12-26",
      "time": "18:00",
-     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16230&languages=de"
+     "url": "https://oper-frankfurt.de/de/spielplan/flavio/?id_datum=4862"
     },
     {
      "date": "2026-12-28",
      "time": "19:00",
      "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16231&languages=de"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "19:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16232&languages=de"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=16233&languages=de"
     }
    ],
    "origin": "scraper:oper_frankfurt"
@@ -12452,9 +12644,9 @@
    "origin": "scraper:alte_oper"
   },
   {
-   "title": "Die Zauberflöte - für die ganze Familie - mit Erzähler",
+   "title": "Zauberflöte - für die ganze Familie",
    "title_en": "",
-   "category": "music",
+   "category": "classical",
    "date": "2026-12-21",
    "time": "16:00",
    "venue": "Kurhaus Wiesbaden",
@@ -12462,11 +12654,11 @@
    "address": "Kurhausplatz 1, 65189 Wiesbaden",
    "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/Die-Zauberfloete-fuer-die-ganze-Familie-mit-Erzaehler-am-21-Dezember-2026-Kurhaus-Wiesbaden/RrFJdQR",
-   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=168264&eventId=281470",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
-   "id": "c2ed02ea9b28",
-   "origin": "scraper:termine_kurhaus"
+   "id": "c178ec7e9849",
+   "origin": "scraper:kurhaus_wiesbaden"
   },
   {
    "title": "Einführung für Boulderneulinge",
@@ -12503,6 +12695,23 @@
    "origin": "scraper:kurhaus_wiesbaden"
   },
   {
+   "title": "Antonín Dvořák, 9. Sinfonie - \"Aus der Neuen Welt\" sowie P. Tschaikowski, \"Romeo und Julia\" - Ouvertüre",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-21",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/Anton-n-Dvo-k-9-Sinfonie-Aus-der-Neuen-Welt-sowie-P-Tschaikowski-Romeo-und-Julia-Ouvertuere-am-21-Dezember-2026-Kurhaus-Wiesbaden/bjTpqym",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false,
+   "id": "43cf9038275a",
+   "origin": "scraper:termine_kurhaus"
+  },
+  {
    "title": "Cuban Christmas",
    "title_en": "",
    "category": "music",
@@ -12529,12 +12738,29 @@
    "city": "Wiesbaden",
    "address": "Holzstraße 11, 65197 Wiesbaden",
    "description": "Climbing at Studio Bloc Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
-   "price": "€0",
+   "price": "",
    "url": "https://wiesbaden.studiobloc.de/angebote/erwachsene/einfuehrungskurs/",
    "source": "https://wiesbaden.studiobloc.de/angebote/",
    "english": false,
    "id": "5189202fcd77",
    "origin": "scraper:studiobloc_wiesbaden"
+  },
+  {
+   "title": "VIVALDI - Die Vier Jahreszeiten | Philharmonie der Solisten | Vladik Otaryan",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-22",
+   "time": "20:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/VIVALDI-Die-Vier-Jahreszeiten-Philharmonie-der-Solisten-Vladik-Otaryan-am-22-Dezember-2026-Kurhaus-Wiesbaden/WwLBg2h",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false,
+   "id": "a012756cc358",
+   "origin": "scraper:termine_kurhaus"
   },
   {
    "title": "Whiskydenker’s Swing Dong Ding Vs. Absinto Orkestra & Gadjo Horns & Drums",
@@ -12758,11 +12984,11 @@
    "address": "Kurhausplatz 1, 65189 Wiesbaden",
    "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
    "price": "",
-   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/Schneekoenigin-das-Musical-am-27-Dezember-2026-Kurhaus-Wiesbaden/V86Lhgt",
-   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "url": "https://kurhaus.wiesbaden.de/info-networking-event?id=167749&eventId=280836",
+   "source": "https://kurhaus.wiesbaden.de/veranstaltungen/veranstaltungskalender",
    "english": false,
    "id": "8091ff24ff38",
-   "origin": "scraper:termine_kurhaus"
+   "origin": "scraper:kurhaus_wiesbaden"
   },
   {
    "title": "English Improv/Stand-Up Comedy Show: POWERPOINT KARAOKE!",
@@ -12813,6 +13039,28 @@
    "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
    "english": false,
    "id": "fdfa605fdf36",
+   "dates": [
+    {
+     "date": "2026-12-28",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/10849"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/10849"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/10849"
+    },
+    {
+     "date": "2026-12-31",
+     "time": "09:00",
+     "url": "https://plus.boulderwelt.de/event/10849"
+    }
+   ],
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
@@ -12830,6 +13078,23 @@
    "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
    "english": false,
    "id": "b6eff9cbe640",
+   "dates": [
+    {
+     "date": "2026-12-28",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6930"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6930"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6930"
+    }
+   ],
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
@@ -12847,6 +13112,23 @@
    "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
    "english": false,
    "id": "52ce65393ac5",
+   "dates": [
+    {
+     "date": "2026-12-28",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6931"
+    },
+    {
+     "date": "2026-12-29",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6931"
+    },
+    {
+     "date": "2026-12-30",
+     "time": "10:00",
+     "url": "https://plus.boulderwelt.de/event/6931"
+    }
+   ],
    "origin": "scraper:boulderwelt_frankfurt"
   },
   {
@@ -12867,6 +13149,120 @@
    "origin": "scraper:batschkapp"
   },
   {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-30",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/6888",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "eb79e5a18b84",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Così fan tutte",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-30",
+   "time": "18:30",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Classical music at Oper Frankfurt – Opernhaus, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15989&languages=de",
+   "source": "https://oper-frankfurt.de/de/spielplan/cosi-fan-tutte_4/?id_datum=4789",
+   "english": false,
+   "id": "7285332726cf",
+   "dates": [
+    {
+     "date": "2026-12-30",
+     "time": "18:30",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15989&languages=de"
+    },
+    {
+     "date": "2027-01-02",
+     "time": "18:00",
+     "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=15990&languages=de"
+    }
+   ],
+   "origin": "scraper:oper_frankfurt"
+  },
+  {
+   "title": "Einführung für Boulderneulinge",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2026-12-30",
+   "time": "19:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/10912",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "1877a4a29e4c",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Unheilig & Special Guests",
+   "title_en": "",
+   "category": "music",
+   "date": "2026-12-30",
+   "time": "19:15",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Concert at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/event-calendar/unheilig.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false,
+   "id": "cf2bd1e8ed99",
+   "origin": "scraper:festhalle"
+  },
+  {
+   "title": "hr-Sinfonieorchester: ARD-Silvesterkonzert",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-31",
+   "time": "17:00",
+   "venue": "hr-Sendesaal",
+   "city": "Frankfurt",
+   "address": "Bertramstr. 8, 60320 Frankfurt am Main",
+   "description": "Classical music at hr-Sendesaal, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/ard-silvesterkonzert,ard-silvesterkonzert-100.html",
+   "source": "https://www.hr-sinfonieorchester.de/konzerte/konzerte-26-27/ard-silvesterkonzert,ard-silvesterkonzert-100.html",
+   "english": false,
+   "id": "2114e31c2480",
+   "origin": "scraper:hr_sinfonieorchester"
+  },
+  {
+   "title": "Phantom der Oper",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-31",
+   "time": "18:00",
+   "venue": "Jahrhunderthalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Pfaffenwiese 301, 65929 Frankfurt am Main",
+   "description": "Classical music at Jahrhunderthalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://jahrhunderthalle.myticket.de/selection/event/date?productId=10229384825097&tourId=10228628734729",
+   "source": "https://www.jahrhunderthalle.de/programm/phantom-der-oper/31-12-2026/18-00",
+   "english": false,
+   "id": "0383bc651831",
+   "origin": "scraper:jahrhunderthalle"
+  },
+  {
    "title": "Silvester-Gala Wiesbaden 2026/2027",
    "title_en": "",
    "category": "music",
@@ -12882,6 +13278,227 @@
    "english": false,
    "id": "f4fe7a929698",
    "origin": "scraper:kurhaus_wiesbaden"
+  },
+  {
+   "title": "Silvesterfeier",
+   "title_en": "",
+   "category": "classical",
+   "date": "2026-12-31",
+   "time": "20:45",
+   "venue": "Oper Frankfurt – Opernhaus",
+   "city": "Frankfurt",
+   "address": "Willy-Brandt-Platz 1, 60311 Frankfurt am Main",
+   "description": "Classical music at Oper Frankfurt – Opernhaus, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://oper-frankfurt.eventim-inhouse.de/webshop/webticket/shop?event=-24",
+   "source": "https://oper-frankfurt.de/de/spielplan/silvester/?id_datum=4869",
+   "english": false,
+   "id": "e0596a5467df",
+   "origin": "scraper:oper_frankfurt"
+  },
+  {
+   "title": "Neujahrskonzert",
+   "title_en": "",
+   "category": "music",
+   "date": "2027-01-01",
+   "time": "17:00",
+   "venue": "Hessisches Staatstheater – Großes Haus",
+   "city": "Wiesbaden",
+   "address": "Christian-Zais-Str. 3, 65189 Wiesbaden",
+   "description": "Concert at Hessisches Staatstheater – Großes Haus, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2027-01/neujahrskonzert-2027/2029/",
+   "source": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/2027-01/neujahrskonzert-2027/2029/",
+   "english": false,
+   "id": "47b883640f31",
+   "origin": "scraper:staatstheater_wiesbaden"
+  },
+  {
+   "title": "Neujahrskonzert",
+   "title_en": "",
+   "category": "music",
+   "date": "2027-01-01",
+   "time": "18:00",
+   "venue": "Staatstheater Darmstadt – Großes Haus",
+   "city": "Darmstadt",
+   "address": "Georg-Büchner-Platz 1, 64283 Darmstadt",
+   "description": "Concert at Staatstheater Darmstadt – Großes Haus, Darmstadt. See the organiser's page for programme and tickets.",
+   "price": "15,00 € bis 96,00 €",
+   "url": "https://www.staatstheater-darmstadt.de/veranstaltungen/neujahrskonzert.2052/#event-13760",
+   "source": "https://www.staatstheater-darmstadt.de/veranstaltungen/neujahrskonzert.2052/#event-13760",
+   "english": false,
+   "id": "6ff228b90c8d",
+   "origin": "scraper:staatstheater_darmstadt"
+  },
+  {
+   "title": "Neujahrskonzert mit der Deutschen Radio Philharmonie",
+   "title_en": "",
+   "category": "classical",
+   "date": "2027-01-01",
+   "time": "18:00",
+   "venue": "Rheingoldhalle Mainz",
+   "city": "Mainz",
+   "address": "Rheinstraße 66, 55116 Mainz",
+   "description": "Classical music at Rheingoldhalle Mainz, Mainz. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.mainz-klassik.de/alle-meisterkonzerte/neujahrskonzert2027",
+   "source": "https://www.mainz-klassik.de/alle-meisterkonzerte",
+   "english": false,
+   "id": "ffac59865269",
+   "origin": "scraper:mainz_klassik"
+  },
+  {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2027-01-02",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/14897",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "de168c2366c1",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Dornröschen - Royal Classical Ballet",
+   "title_en": "",
+   "category": "classical",
+   "date": "2027-01-02",
+   "time": "16:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Classical music at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/Dornroeschen-Royal-Classical-Ballet-am-2-Januar-2027-Kurhaus-Wiesbaden/5P1mZYX",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false,
+   "id": "cf73e57efaa2",
+   "origin": "scraper:termine_kurhaus"
+  },
+  {
+   "title": "Der Nussknacker - Grand Classic Ballet",
+   "title_en": "",
+   "category": "classical",
+   "date": "2027-01-02",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Classical music at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://www.reservix.de/tickets-der-nussknacker-grand-classic-ballet-die-traditionelle-wintertournee-in-frankfurt-am-main-messe-frankfurt-congress-center-am-2-1-2027/e2582555",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false,
+   "id": "52ef12207c37",
+   "origin": "scraper:festhalle"
+  },
+  {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2027-01-03",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/14898",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "84e5e12c833a",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Neujahrskonzert 2027",
+   "title_en": "",
+   "category": "music",
+   "date": "2027-01-03",
+   "time": "17:00",
+   "venue": "Kurhaus Wiesbaden",
+   "city": "Wiesbaden",
+   "address": "Kurhausplatz 1, 65189 Wiesbaden",
+   "description": "Concert at Kurhaus Wiesbaden, Wiesbaden. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4/Neujahrskonzert-2027-am-3-Januar-2027-Kurhaus-Wiesbaden/HDWL5cv",
+   "source": "https://termine.de/calendar/Kurhaus-Wiesbaden/jrgdHS4",
+   "english": false,
+   "id": "54f5a0f58d7a",
+   "origin": "scraper:termine_kurhaus"
+  },
+  {
+   "title": "Feuerwerk der Turnkunst",
+   "title_en": "",
+   "category": "music",
+   "date": "2027-01-03",
+   "time": "",
+   "venue": "Festhalle Frankfurt",
+   "city": "Frankfurt",
+   "address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+   "description": "Concert at Festhalle Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://festhalle.messefrankfurt.com/frankfurt/de/event-calendar/feuerwerk-der-turnkunst.html",
+   "source": "https://festhalle.messefrankfurt.com/frankfurt/de/veranstaltungen.html",
+   "english": false,
+   "id": "9d8f914d676b",
+   "origin": "scraper:festhalle"
+  },
+  {
+   "title": "Boulderspaßtag ab 5 Jahren",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2027-01-04",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/14900",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "3a7afcc7207a",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Feriencamp 8–12 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2027-01-04",
+   "time": "09:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/14905",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "4d08bd38858d",
+   "origin": "scraper:boulderwelt_frankfurt"
+  },
+  {
+   "title": "Kinderferienspaß 5–8 Jahre",
+   "title_en": "",
+   "category": "climbing",
+   "date": "2027-01-04",
+   "time": "10:00",
+   "venue": "Boulderwelt Frankfurt",
+   "city": "Frankfurt",
+   "address": "August-Schanz-Straße 50, 60433 Frankfurt am Main",
+   "description": "Climbing at Boulderwelt Frankfurt, Frankfurt. See the organiser's page for programme and tickets.",
+   "price": "",
+   "url": "https://plus.boulderwelt.de/event/14894",
+   "source": "https://www.boulderwelt-frankfurt.de/boulderkurse-und-training/",
+   "english": false,
+   "id": "c0552d6a20eb",
+   "origin": "scraper:boulderwelt_frankfurt"
   }
  ]
 }
